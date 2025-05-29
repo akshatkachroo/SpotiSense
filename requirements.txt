@@ -1,0 +1,10 @@
+nltk
+pandas
+streamlit
+spotipy
+python-dotenv
+scikit-learn
+numpy
+transformers
+torch
+matplotlib
