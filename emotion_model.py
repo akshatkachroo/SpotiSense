@@ -27,10 +27,17 @@ def predict_emotion(text):
     # Get predictions
     predictions = emotion_classifier(text)[0]
     
+    # Convert predictions to PyTorch tensor for processing
+    confidence_scores = torch.tensor([pred['score'] for pred in predictions])
+    
+    # Apply softmax to get normalized probabilities
+    probabilities = torch.softmax(confidence_scores, dim=0)
+    
     # Get the highest probability emotion
-    best_prediction = max(predictions, key=lambda x: x['score'])
+    best_idx = torch.argmax(probabilities).item()
+    best_prediction = predictions[best_idx]
     emotion = best_prediction['label']
-    confidence = float(best_prediction['score'])
+    confidence = float(probabilities[best_idx].item())
     
     # Map the model's emotions to our categories
     emotion_mapping = {
