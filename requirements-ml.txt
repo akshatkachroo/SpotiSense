@@ -1,0 +1,6 @@
+-r requirements.txt
+matplotlib==3.10.0
+torch==2.6.0
+transformers[torch]==4.49.0
+onnx==1.17.0
+onnxruntime==1.20.1
