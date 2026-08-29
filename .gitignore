@@ -1,0 +1,30 @@
+.DS_Store
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+.cache
+web/node_modules/
+web/dist/
+web/.env.local
+.cloudrun.env.yaml
+
+# Local model and training output
+ml/artifacts/
+ml/runs/
+ml/data/goemotions-raw/
+similarity.pkl
+
+# Keep the quantized browser artifact deployable; omit the larger intermediate export.
+web/public/models/spotisense-emotion/onnx/model.onnx
+
+# Local infrastructure state
+.data/
+tmp/
