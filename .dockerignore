@@ -1,0 +1,16 @@
+.git
+.github
+.env
+.venv
+venv
+__pycache__
+.pytest_cache
+.DS_Store
+similarity.pkl
+df.pkl
+notebook.ipynb
+ml/artifacts
+ml/runs
+web/node_modules
+web/dist
+web/public/models/spotisense-emotion/onnx/model.onnx
