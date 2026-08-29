@@ -1,0 +1,751 @@
+id,name,artist,primary_emotion,valence,energy,danceability,acousticness,instrumentalness,spotify_url,data_source
+ne-yo-miss-right-96eeb507,Miss Right,Ne-Yo,sad,0.3182,0.3675,0.3449,0.6765,0.0982,https://open.spotify.com/search/Miss%20Right%20Ne-Yo,lyrics-mood-proxy-v1
+leann-rimes-insensitive-bdb03439,Insensitive,Leann Rimes,love,0.6896,0.4269,0.5507,0.4749,0.1710,https://open.spotify.com/search/Insensitive%20Leann%20Rimes,lyrics-mood-proxy-v1
+beach-boys-break-away-ab4c415a,Break Away,Beach Boys,happy,0.7700,0.6755,0.6254,0.2898,0.1356,https://open.spotify.com/search/Break%20Away%20Beach%20Boys,lyrics-mood-proxy-v1
+snoop-dogg-from-tha-chuuuch-to-da-palace-f6d66565,From Tha Chuuuch To Da Palace,Snoop Dogg,sad,0.2793,0.3417,0.3649,0.6531,0.1381,https://open.spotify.com/search/From%20Tha%20Chuuuch%20To%20Da%20Palace%20Snoop%20Dogg,lyrics-mood-proxy-v1
+snoop-dogg-don-t-let-go-47af0e00,Don't Let Go,Snoop Dogg,sad,0.3058,0.3733,0.2961,0.6879,0.2013,https://open.spotify.com/search/Don%27t%20Let%20Go%20Snoop%20Dogg,lyrics-mood-proxy-v1
+olivia-newton-john-rosewater-d8812016,Rosewater,Olivia Newton-John,sad,0.3215,0.2931,0.3910,0.6466,0.1591,https://open.spotify.com/search/Rosewater%20Olivia%20Newton-John,lyrics-mood-proxy-v1
+kelly-family-the-rose-cfc836a8,The Rose,Kelly Family,love,0.6765,0.5117,0.5624,0.5084,0.0902,https://open.spotify.com/search/The%20Rose%20Kelly%20Family,lyrics-mood-proxy-v1
+kelly-family-carry-my-soul-14d678bc,Carry My Soul,Kelly Family,happy,0.7426,0.6361,0.6741,0.3063,0.0877,https://open.spotify.com/search/Carry%20My%20Soul%20Kelly%20Family,lyrics-mood-proxy-v1
+john-mellencamp-warmer-place-to-sleep-b719bb46,Warmer Place To Sleep,John Mellencamp,angry,0.3233,0.7503,0.6207,0.3060,0.0652,https://open.spotify.com/search/Warmer%20Place%20To%20Sleep%20John%20Mellencamp,lyrics-mood-proxy-v1
+britney-spears-love-is-war-fa5bbd6a,Love Is War,Britney Spears,love,0.7119,0.5241,0.5729,0.4946,0.1388,https://open.spotify.com/search/Love%20Is%20War%20Britney%20Spears,lyrics-mood-proxy-v1
+gino-vannelli-hollywood-holiday-50a4448d,Hollywood Holiday,Gino Vannelli,sad,0.2407,0.2888,0.3478,0.6556,0.1217,https://open.spotify.com/search/Hollywood%20Holiday%20Gino%20Vannelli,lyrics-mood-proxy-v1
+queens-of-the-stone-age-the-vampyre-of-tim-888f81ca,The Vampyre Of Time And Memory,Queens Of The Stone Age,sad,0.3341,0.3549,0.3323,0.6004,0.1501,https://open.spotify.com/search/The%20Vampyre%20Of%20Time%20And%20Memory%20Queens%20Of%20The%20Stone%20Age,lyrics-mood-proxy-v1
+joy-division-wilderness-6a64751b,Wilderness,Joy Division,angry,0.2955,0.7465,0.6141,0.3456,0.0779,https://open.spotify.com/search/Wilderness%20Joy%20Division,lyrics-mood-proxy-v1
+ozzy-osbourne-little-dolls-7b2bc974,Little Dolls,Ozzy Osbourne,angry,0.3035,0.6665,0.5106,0.2966,0.0393,https://open.spotify.com/search/Little%20Dolls%20Ozzy%20Osbourne,lyrics-mood-proxy-v1
+stone-temple-pilots-trippin-on-a-hole-in-a-9293e10f,Trippin' On A Hole In A Paper Heart,Stone Temple Pilots,happy,0.6720,0.6409,0.7118,0.3313,0.0475,https://open.spotify.com/search/Trippin%27%20On%20A%20Hole%20In%20A%20Paper%20Heart%20Stone%20Temple%20Pilots,lyrics-mood-proxy-v1
+counting-crows-perfect-blue-buildings-6dfe7b3a,Perfect Blue Buildings,Counting Crows,happy,0.7609,0.6755,0.7176,0.2765,0.0622,https://open.spotify.com/search/Perfect%20Blue%20Buildings%20Counting%20Crows,lyrics-mood-proxy-v1
+travis-afterglow-f3ccc3ec,Afterglow,Travis,sad,0.3332,0.2676,0.2922,0.6363,0.1572,https://open.spotify.com/search/Afterglow%20Travis,lyrics-mood-proxy-v1
+reo-speedwagon-m-e-26dc6f42,M-E,Reo Speedwagon,sad,0.2502,0.2843,0.3245,0.6146,0.1020,https://open.spotify.com/search/M-E%20Reo%20Speedwagon,lyrics-mood-proxy-v1
+beautiful-south-blitzkreig-bop-2feb777a,Blitzkreig Bop,Beautiful South,sad,0.2726,0.3637,0.3604,0.6204,0.1000,https://open.spotify.com/search/Blitzkreig%20Bop%20Beautiful%20South,lyrics-mood-proxy-v1
+rolling-stones-biggest-mistake-37a5e933,Biggest Mistake,Rolling Stones,happy,0.6977,0.6673,0.7430,0.3704,0.1554,https://open.spotify.com/search/Biggest%20Mistake%20Rolling%20Stones,lyrics-mood-proxy-v1
+katy-perry-e-t-40ab3b5f,E.T.,Katy Perry,love,0.6352,0.5122,0.5042,0.5419,0.0763,https://open.spotify.com/search/E.T.%20Katy%20Perry,lyrics-mood-proxy-v1
+ultravox-passing-strangers-1316cb20,Passing Strangers,Ultravox,angry,0.3590,0.6792,0.5803,0.3352,0.0736,https://open.spotify.com/search/Passing%20Strangers%20Ultravox,lyrics-mood-proxy-v1
+devo-shrivel-up-15ebc6ba,Shrivel-Up,Devo,sad,0.2660,0.2685,0.3080,0.6035,0.1001,https://open.spotify.com/search/Shrivel-Up%20Devo,lyrics-mood-proxy-v1
+alabama-i-m-still-dreamin-9abd880b,I'm Still Dreamin',Alabama,love,0.6865,0.4607,0.5411,0.5505,0.0861,https://open.spotify.com/search/I%27m%20Still%20Dreamin%27%20Alabama,lyrics-mood-proxy-v1
+kyla-nasaan-ka-na-80413202,Nasaan Ka Na?,Kyla,angry,0.3270,0.6985,0.5351,0.3008,0.0534,https://open.spotify.com/search/Nasaan%20Ka%20Na%3F%20Kyla,lyrics-mood-proxy-v1
+oingo-boingo-outrageous-145af773,Outrageous,Oingo Boingo,calm,0.5039,0.3077,0.4027,0.7162,0.2793,https://open.spotify.com/search/Outrageous%20Oingo%20Boingo,lyrics-mood-proxy-v1
+radiohead-jigsaw-falling-into-place-4773526a,Jigsaw Falling Into Place,Radiohead,sad,0.2487,0.3799,0.2905,0.6953,0.0922,https://open.spotify.com/search/Jigsaw%20Falling%20Into%20Place%20Radiohead,lyrics-mood-proxy-v1
+kanye-west-electric-relaxation-e5eb49ff,Electric Relaxation,Kanye West,happy,0.7109,0.6883,0.7059,0.2894,0.1460,https://open.spotify.com/search/Electric%20Relaxation%20Kanye%20West,lyrics-mood-proxy-v1
+fall-out-boy-my-heart-is-the-worst-kind-of-a354efe8,My Heart Is The Worst Kind Of Weapon,Fall Out Boy,love,0.6324,0.4105,0.5337,0.5795,0.0840,https://open.spotify.com/search/My%20Heart%20Is%20The%20Worst%20Kind%20Of%20Weapon%20Fall%20Out%20Boy,lyrics-mood-proxy-v1
+foo-fighters-tired-of-you-961e95d9,Tired Of You,Foo Fighters,happy,0.7437,0.6432,0.7048,0.3371,0.0835,https://open.spotify.com/search/Tired%20Of%20You%20Foo%20Fighters,lyrics-mood-proxy-v1
+who-my-generation-5ae4a1e9,My Generation,Who,angry,0.2988,0.6962,0.5699,0.2848,0.0910,https://open.spotify.com/search/My%20Generation%20Who,lyrics-mood-proxy-v1
+perry-como-have-yourself-a-merry-little-ch-6b172cf6,Have Yourself A Merry Little Christmas,Perry Como,angry,0.3134,0.7329,0.6146,0.3126,0.0962,https://open.spotify.com/search/Have%20Yourself%20A%20Merry%20Little%20Christmas%20Perry%20Como,lyrics-mood-proxy-v1
+justin-timberlake-cry-me-a-river-39ecfd74,Cry Me A River,Justin Timberlake,angry,0.3360,0.7668,0.6113,0.3267,0.0670,https://open.spotify.com/search/Cry%20Me%20A%20River%20Justin%20Timberlake,lyrics-mood-proxy-v1
+reba-mcentire-a-christmas-letter-7e53003c,A Christmas Letter,Reba Mcentire,angry,0.2950,0.6814,0.5369,0.3225,0.1476,https://open.spotify.com/search/A%20Christmas%20Letter%20Reba%20Mcentire,lyrics-mood-proxy-v1
+joy-division-inside-the-line-a829baa5,Inside The Line,Joy Division,sad,0.3558,0.3221,0.3355,0.6796,0.0989,https://open.spotify.com/search/Inside%20The%20Line%20Joy%20Division,lyrics-mood-proxy-v1
+eric-clapton-never-make-you-cry-a0d980a1,Never Make You Cry,Eric Clapton,calm,0.5820,0.3338,0.3376,0.6370,0.2491,https://open.spotify.com/search/Never%20Make%20You%20Cry%20Eric%20Clapton,lyrics-mood-proxy-v1
+proclaimers-come-on-nature-9599a18b,Come On Nature,Proclaimers,sad,0.2910,0.2991,0.3382,0.6053,0.1053,https://open.spotify.com/search/Come%20On%20Nature%20Proclaimers,lyrics-mood-proxy-v1
+thin-lizzy-soldier-of-fortune-9f820f76,Soldier Of Fortune,Thin Lizzy,angry,0.2555,0.6934,0.5850,0.3041,0.1183,https://open.spotify.com/search/Soldier%20Of%20Fortune%20Thin%20Lizzy,lyrics-mood-proxy-v1
+yes-shoot-high-aim-low-bf5ec7ac,Shoot High Aim Low,Yes,sad,0.3439,0.3751,0.3344,0.6894,0.1397,https://open.spotify.com/search/Shoot%20High%20Aim%20Low%20Yes,lyrics-mood-proxy-v1
+vangelis-intergalactic-radio-station-9230958a,Intergalactic Radio Station,Vangelis,happy,0.7279,0.6953,0.6726,0.2684,0.0592,https://open.spotify.com/search/Intergalactic%20Radio%20Station%20Vangelis,lyrics-mood-proxy-v1
+human-league-never-again-4592bd35,Never Again,Human League,sad,0.2846,0.2869,0.3251,0.6654,0.1486,https://open.spotify.com/search/Never%20Again%20Human%20League,lyrics-mood-proxy-v1
+thin-lizzy-bad-habits-e8186369,Bad Habits,Thin Lizzy,angry,0.3059,0.7126,0.6123,0.3408,0.0816,https://open.spotify.com/search/Bad%20Habits%20Thin%20Lizzy,lyrics-mood-proxy-v1
+neil-young-captain-kennedy-e112eb5e,Captain Kennedy,Neil Young,calm,0.4882,0.3232,0.4132,0.6555,0.2244,https://open.spotify.com/search/Captain%20Kennedy%20Neil%20Young,lyrics-mood-proxy-v1
+matt-redman-take-the-world-but-give-me-jes-171ed565,Take The World But Give Me Jesus,Matt Redman,love,0.6359,0.4836,0.4911,0.5047,0.0674,https://open.spotify.com/search/Take%20The%20World%20But%20Give%20Me%20Jesus%20Matt%20Redman,lyrics-mood-proxy-v1
+children-baby-bumblebee-version-3-31cbaaba,Baby Bumblebee (version 3),Children,angry,0.2654,0.7042,0.6043,0.3136,0.1390,https://open.spotify.com/search/Baby%20Bumblebee%20%28version%203%29%20Children,lyrics-mood-proxy-v1
+overkill-dreaming-in-columbian-fbb09a56,Dreaming In Columbian,Overkill,angry,0.2613,0.6825,0.6170,0.2907,0.1475,https://open.spotify.com/search/Dreaming%20In%20Columbian%20Overkill,lyrics-mood-proxy-v1
+chicago-i-can-t-fight-this-feeling-c9551708,I Can't Fight This Feeling,Chicago,sad,0.3315,0.2726,0.3695,0.7153,0.1456,https://open.spotify.com/search/I%20Can%27t%20Fight%20This%20Feeling%20Chicago,lyrics-mood-proxy-v1
+gloria-gaynor-honey-bee-7992d989,Honey Bee,Gloria Gaynor,love,0.6773,0.4084,0.5953,0.4961,0.0873,https://open.spotify.com/search/Honey%20Bee%20Gloria%20Gaynor,lyrics-mood-proxy-v1
+status-quo-let-s-work-together-b6b1124e,Let's Work Together,Status Quo,sad,0.3370,0.3270,0.3110,0.7159,0.1890,https://open.spotify.com/search/Let%27s%20Work%20Together%20Status%20Quo,lyrics-mood-proxy-v1
+within-temptation-all-i-need-f28ab90b,All I Need,Within Temptation,sad,0.3620,0.2737,0.3570,0.6892,0.1491,https://open.spotify.com/search/All%20I%20Need%20Within%20Temptation,lyrics-mood-proxy-v1
+ella-fitzgerald-get-out-of-town-6a5f1135,Get Out Of Town,Ella Fitzgerald,love,0.6999,0.4229,0.4958,0.5019,0.1408,https://open.spotify.com/search/Get%20Out%20Of%20Town%20Ella%20Fitzgerald,lyrics-mood-proxy-v1
+carly-simon-people-say-a-lot-9183a923,People Say A Lot,Carly Simon,sad,0.3414,0.2831,0.3734,0.6678,0.1702,https://open.spotify.com/search/People%20Say%20A%20Lot%20Carly%20Simon,lyrics-mood-proxy-v1
+def-leppard-undefeated-4ea78d3b,Undefeated,Def Leppard,happy,0.6664,0.6224,0.6871,0.3729,0.1243,https://open.spotify.com/search/Undefeated%20Def%20Leppard,lyrics-mood-proxy-v1
+vanessa-williams-what-child-is-this-7b95d6be,What Child Is This,Vanessa Williams,angry,0.2579,0.6741,0.6094,0.2632,0.1513,https://open.spotify.com/search/What%20Child%20Is%20This%20Vanessa%20Williams,lyrics-mood-proxy-v1
+foreigner-i-ll-get-even-with-you-305bbfc2,I'll Get Even With You,Foreigner,angry,0.3426,0.7263,0.5111,0.3244,0.1372,https://open.spotify.com/search/I%27ll%20Get%20Even%20With%20You%20Foreigner,lyrics-mood-proxy-v1
+chris-brown-love-them-girls-4dc9a4d3,Love Them Girls,Chris Brown,love,0.6855,0.4437,0.5064,0.5093,0.1187,https://open.spotify.com/search/Love%20Them%20Girls%20Chris%20Brown,lyrics-mood-proxy-v1
+oasis-the-turning-bbf63e3a,The Turning,Oasis,sad,0.3379,0.3516,0.2852,0.6221,0.1567,https://open.spotify.com/search/The%20Turning%20Oasis,lyrics-mood-proxy-v1
+perry-como-idle-gossip-67713f14,Idle Gossip,Perry Como,love,0.7054,0.5096,0.5530,0.4646,0.1549,https://open.spotify.com/search/Idle%20Gossip%20Perry%20Como,lyrics-mood-proxy-v1
+matt-monro-here-s-to-my-lady-befd3899,Here's To My Lady,Matt Monro,love,0.7106,0.4235,0.5295,0.5258,0.1521,https://open.spotify.com/search/Here%27s%20To%20My%20Lady%20Matt%20Monro,lyrics-mood-proxy-v1
+lionel-richie-piece-of-love-7d2fccf0,Piece Of Love,Lionel Richie,love,0.6314,0.4538,0.5251,0.5107,0.0687,https://open.spotify.com/search/Piece%20Of%20Love%20Lionel%20Richie,lyrics-mood-proxy-v1
+pink-floyd-late-night-793517b0,Late Night,Pink Floyd,happy,0.6876,0.5996,0.6802,0.3503,0.0712,https://open.spotify.com/search/Late%20Night%20Pink%20Floyd,lyrics-mood-proxy-v1
+lata-mangeshkar-aa-gaye-5b95f45e,Aa Gaye,Lata Mangeshkar,angry,0.2734,0.7625,0.6170,0.3437,0.1574,https://open.spotify.com/search/Aa%20Gaye%20Lata%20Mangeshkar,lyrics-mood-proxy-v1
+marilyn-manson-15-5bc78430,15,Marilyn Manson,happy,0.6908,0.6183,0.6501,0.2723,0.0728,https://open.spotify.com/search/15%20Marilyn%20Manson,lyrics-mood-proxy-v1
+richard-marx-teacher-i-need-you-6370d9f2,Teacher I Need You,Richard Marx,angry,0.3012,0.7352,0.5930,0.2957,0.0741,https://open.spotify.com/search/Teacher%20I%20Need%20You%20Richard%20Marx,lyrics-mood-proxy-v1
+ying-yang-twins-drop-92b112c2,Drop,Ying Yang Twins,sad,0.3183,0.3480,0.2859,0.6125,0.2032,https://open.spotify.com/search/Drop%20Ying%20Yang%20Twins,lyrics-mood-proxy-v1
+prince-a-1-000-hugs-and-kisses-dc8ba9d7,"A 1,000 Hugs And Kisses",Prince,love,0.7100,0.4824,0.4868,0.5234,0.0655,https://open.spotify.com/search/A%201%2C000%20Hugs%20And%20Kisses%20Prince,lyrics-mood-proxy-v1
+tori-amos-bliss-6ed1428e,Bliss,Tori Amos,sad,0.2797,0.3264,0.3000,0.6896,0.1034,https://open.spotify.com/search/Bliss%20Tori%20Amos,lyrics-mood-proxy-v1
+primus-ballad-of-bodacious-1d7513a9,Ballad Of Bodacious,Primus,angry,0.3157,0.7461,0.6061,0.3479,0.0492,https://open.spotify.com/search/Ballad%20Of%20Bodacious%20Primus,lyrics-mood-proxy-v1
+paul-mccartney-fine-line-2a6a84c5,Fine Line,Paul McCartney,calm,0.6051,0.3136,0.3179,0.6939,0.2441,https://open.spotify.com/search/Fine%20Line%20Paul%20McCartney,lyrics-mood-proxy-v1
+otis-redding-nobody-knows-you-when-you-re--156ad547,Nobody Knows You When You're Down And Out,Otis Redding,love,0.6554,0.4572,0.4913,0.5577,0.1069,https://open.spotify.com/search/Nobody%20Knows%20You%20When%20You%27re%20Down%20And%20Out%20Otis%20Redding,lyrics-mood-proxy-v1
+steve-miller-band-the-hollywood-dream-02597dd5,The Hollywood Dream,Steve Miller Band,love,0.7344,0.5161,0.5399,0.5636,0.1578,https://open.spotify.com/search/The%20Hollywood%20Dream%20Steve%20Miller%20Band,lyrics-mood-proxy-v1
+michael-jackson-she-s-out-of-my-life-f251db93,She's Out Of My Life,Michael Jackson,love,0.7412,0.4682,0.5667,0.5135,0.0655,https://open.spotify.com/search/She%27s%20Out%20Of%20My%20Life%20Michael%20Jackson,lyrics-mood-proxy-v1
+fatboy-slim-moonbeam-woman-35a1f6ab,Moonbeam Woman,Fatboy Slim,sad,0.3230,0.3548,0.3044,0.6325,0.1588,https://open.spotify.com/search/Moonbeam%20Woman%20Fatboy%20Slim,lyrics-mood-proxy-v1
+snoop-dogg-dance-wit-me-d4464fb5,Dance Wit Me,Snoop Dogg,calm,0.5161,0.2882,0.3181,0.6648,0.2195,https://open.spotify.com/search/Dance%20Wit%20Me%20Snoop%20Dogg,lyrics-mood-proxy-v1
+diana-ross-his-eye-is-on-the-sparrow-a6528bfe,His Eye Is On The Sparrow,Diana Ross,sad,0.3064,0.3510,0.2966,0.6135,0.1152,https://open.spotify.com/search/His%20Eye%20Is%20On%20The%20Sparrow%20Diana%20Ross,lyrics-mood-proxy-v1
+yngwie-malmsteen-tomorrow-s-gone-5cce1ca2,Tomorrow's Gone,Yngwie Malmsteen,angry,0.3421,0.7470,0.5426,0.2533,0.1390,https://open.spotify.com/search/Tomorrow%27s%20Gone%20Yngwie%20Malmsteen,lyrics-mood-proxy-v1
+hillsong-here-in-my-life-403effa0,Here In My Life,Hillsong,angry,0.2635,0.7625,0.5821,0.3310,0.1484,https://open.spotify.com/search/Here%20In%20My%20Life%20Hillsong,lyrics-mood-proxy-v1
+judy-garland-johnny-one-note-from-words-an-660e3c7b,"Johnny One Note (From 'Words And Music', 1948)",Judy Garland,sad,0.3400,0.2709,0.3351,0.6370,0.1863,https://open.spotify.com/search/Johnny%20One%20Note%20%28From%20%27Words%20And%20Music%27%2C%201948%29%20Judy%20Garland,lyrics-mood-proxy-v1
+megadeth-bullprick-25d7de41,Bullprick,Megadeth,angry,0.2903,0.7583,0.5572,0.2439,0.1541,https://open.spotify.com/search/Bullprick%20Megadeth,lyrics-mood-proxy-v1
+ramones-my-little-shitzu-4e3b2a6e,My Little Shitzu,Ramones,calm,0.4971,0.2964,0.3669,0.7311,0.3044,https://open.spotify.com/search/My%20Little%20Shitzu%20Ramones,lyrics-mood-proxy-v1
+coldplay-speed-of-sound-9bf29126,Speed Of Sound,Coldplay,sad,0.3649,0.3297,0.3880,0.7075,0.1571,https://open.spotify.com/search/Speed%20Of%20Sound%20Coldplay,lyrics-mood-proxy-v1
+xandria-save-my-life-e2c0a361,Save My Life,Xandria,sad,0.3580,0.2872,0.3713,0.6143,0.1591,https://open.spotify.com/search/Save%20My%20Life%20Xandria,lyrics-mood-proxy-v1
+clash-death-or-glory-da939afc,Death Or Glory,Clash,angry,0.2508,0.7600,0.5915,0.2726,0.0652,https://open.spotify.com/search/Death%20Or%20Glory%20Clash,lyrics-mood-proxy-v1
+horrible-histories-pachacuti-4037b40e,Pachacuti,Horrible Histories,angry,0.3604,0.6571,0.5125,0.2924,0.0449,https://open.spotify.com/search/Pachacuti%20Horrible%20Histories,lyrics-mood-proxy-v1
+dolly-parton-calm-on-the-water-32b41835,Calm On The Water,Dolly Parton,love,0.6725,0.5063,0.5111,0.5249,0.1073,https://open.spotify.com/search/Calm%20On%20The%20Water%20Dolly%20Parton,lyrics-mood-proxy-v1
+gary-numan-i-still-remember-7dbad162,I Still Remember,Gary Numan,happy,0.6773,0.7061,0.6296,0.3459,0.1293,https://open.spotify.com/search/I%20Still%20Remember%20Gary%20Numan,lyrics-mood-proxy-v1
+cat-stevens-ready-ba491d55,Ready,Cat Stevens,love,0.6418,0.5073,0.5012,0.5794,0.1437,https://open.spotify.com/search/Ready%20Cat%20Stevens,lyrics-mood-proxy-v1
+michael-jackson-privacy-85b17a28,Privacy,Michael Jackson,angry,0.3327,0.6543,0.5341,0.3032,0.1334,https://open.spotify.com/search/Privacy%20Michael%20Jackson,lyrics-mood-proxy-v1
+chaka-khan-roll-me-through-the-rushes-1be79204,Roll Me Through The Rushes,Chaka Khan,angry,0.3290,0.7338,0.6179,0.2577,0.1244,https://open.spotify.com/search/Roll%20Me%20Through%20The%20Rushes%20Chaka%20Khan,lyrics-mood-proxy-v1
+radiohead-pearly-a31c1104,Pearly,Radiohead,calm,0.5630,0.2653,0.3614,0.7242,0.2296,https://open.spotify.com/search/Pearly%20Radiohead,lyrics-mood-proxy-v1
+green-day-one-for-the-razorbacks-e9b7168e,One For The Razorbacks,Green Day,fear,0.3631,0.4938,0.4364,0.4328,0.2148,https://open.spotify.com/search/One%20For%20The%20Razorbacks%20Green%20Day,lyrics-mood-proxy-v1
+tiffany-here-in-my-heart-8f2c337d,Here In My Heart,Tiffany,love,0.6911,0.5127,0.5095,0.4827,0.1186,https://open.spotify.com/search/Here%20In%20My%20Heart%20Tiffany,lyrics-mood-proxy-v1
+robbie-williams-nan-s-song-c7eeba96,Nan's Song,Robbie Williams,love,0.6923,0.4472,0.4851,0.4816,0.1514,https://open.spotify.com/search/Nan%27s%20Song%20Robbie%20Williams,lyrics-mood-proxy-v1
+doobie-brothers-growin-a-little-each-day-99756f59,Growin' A Little Each Day,Doobie Brothers,happy,0.7378,0.5924,0.6657,0.3504,0.0448,https://open.spotify.com/search/Growin%27%20A%20Little%20Each%20Day%20Doobie%20Brothers,lyrics-mood-proxy-v1
+enigma-i-love-you-i-ll-kill-you-b388d339,I Love You... I'll Kill You,Enigma,love,0.6296,0.5169,0.5026,0.5249,0.0948,https://open.spotify.com/search/I%20Love%20You...%20I%27ll%20Kill%20You%20Enigma,lyrics-mood-proxy-v1
+erik-santos-this-song-is-for-you-07fabbae,This Song Is For You,Erik Santos,love,0.7285,0.4499,0.5737,0.5084,0.0547,https://open.spotify.com/search/This%20Song%20Is%20For%20You%20Erik%20Santos,lyrics-mood-proxy-v1
+faces-bad-n-ruin-15e60517,Bad 'n' Ruin,Faces,angry,0.2739,0.7117,0.5596,0.2538,0.0459,https://open.spotify.com/search/Bad%20%27n%27%20Ruin%20Faces,lyrics-mood-proxy-v1
+stevie-wonder-my-girl-77ce9d79,My Girl,Stevie Wonder,happy,0.7662,0.6631,0.6539,0.3715,0.0689,https://open.spotify.com/search/My%20Girl%20Stevie%20Wonder,lyrics-mood-proxy-v1
+lou-reed-ecstasy-26bf76cd,Ecstasy,Lou Reed,sad,0.3401,0.2982,0.3314,0.6260,0.1990,https://open.spotify.com/search/Ecstasy%20Lou%20Reed,lyrics-mood-proxy-v1
+u2-red-light-d579f81c,Red Light,U2,love,0.7280,0.4861,0.5220,0.5559,0.1107,https://open.spotify.com/search/Red%20Light%20U2,lyrics-mood-proxy-v1
+hank-snow-i-m-not-at-all-sorry-for-you-c027d09c,I'm Not At All Sorry For You,Hank Snow,angry,0.3096,0.7145,0.6165,0.2632,0.0713,https://open.spotify.com/search/I%27m%20Not%20At%20All%20Sorry%20For%20You%20Hank%20Snow,lyrics-mood-proxy-v1
+yolanda-adams-i-believe-i-can-fly-b797aacd,I Believe I Can Fly,Yolanda Adams,sad,0.3483,0.3307,0.3036,0.6313,0.1745,https://open.spotify.com/search/I%20Believe%20I%20Can%20Fly%20Yolanda%20Adams,lyrics-mood-proxy-v1
+primus-eyes-of-the-squirrel-e99df72a,Eyes Of The Squirrel,Primus,sad,0.2625,0.3641,0.3367,0.6744,0.1793,https://open.spotify.com/search/Eyes%20Of%20The%20Squirrel%20Primus,lyrics-mood-proxy-v1
+nazareth-talkin-bout-love-cd2a6b73,Talkin' 'bout Love,Nazareth,love,0.6386,0.4263,0.5196,0.4782,0.1691,https://open.spotify.com/search/Talkin%27%20%27bout%20Love%20Nazareth,lyrics-mood-proxy-v1
+kanye-west-love-lockdown-ae2fa3cc,Love Lockdown,Kanye West,love,0.7258,0.4319,0.5208,0.5115,0.1614,https://open.spotify.com/search/Love%20Lockdown%20Kanye%20West,lyrics-mood-proxy-v1
+judy-garland-there-s-no-business-like-show-01a7f345,There's No Business Like Show Business,Judy Garland,happy,0.7524,0.6864,0.6778,0.2825,0.0749,https://open.spotify.com/search/There%27s%20No%20Business%20Like%20Show%20Business%20Judy%20Garland,lyrics-mood-proxy-v1
+gordon-lightfoot-never-too-close-a777da08,Never Too Close,Gordon Lightfoot,angry,0.3341,0.6985,0.5158,0.2773,0.1433,https://open.spotify.com/search/Never%20Too%20Close%20Gordon%20Lightfoot,lyrics-mood-proxy-v1
+bob-seger-mongrel-21d90498,Mongrel,Bob Seger,happy,0.7144,0.6319,0.7377,0.3143,0.0668,https://open.spotify.com/search/Mongrel%20Bob%20Seger,lyrics-mood-proxy-v1
+bette-midler-let-me-drive-dd500237,Let Me Drive,Bette Midler,calm,0.5512,0.2826,0.3461,0.6807,0.3321,https://open.spotify.com/search/Let%20Me%20Drive%20Bette%20Midler,lyrics-mood-proxy-v1
+george-harrison-here-comes-the-sun-3d0c3df5,Here Comes The Sun,George Harrison,sad,0.3536,0.3473,0.3869,0.6838,0.0981,https://open.spotify.com/search/Here%20Comes%20The%20Sun%20George%20Harrison,lyrics-mood-proxy-v1
+kenny-loggins-true-confessions-d3438dba,True Confessions,Kenny Loggins,love,0.6302,0.4215,0.5118,0.4941,0.1722,https://open.spotify.com/search/True%20Confessions%20Kenny%20Loggins,lyrics-mood-proxy-v1
+usher-lessons-for-the-lover-a3828159,Lessons For The Lover,Usher,happy,0.7596,0.6535,0.7071,0.2687,0.0986,https://open.spotify.com/search/Lessons%20For%20The%20Lover%20Usher,lyrics-mood-proxy-v1
+ozzy-osbourne-slow-down-95fc2581,Slow Down,Ozzy Osbourne,happy,0.7412,0.6456,0.7104,0.2626,0.1473,https://open.spotify.com/search/Slow%20Down%20Ozzy%20Osbourne,lyrics-mood-proxy-v1
+insane-clown-posse-cemetery-girl-bc222fef,Cemetery Girl,Insane Clown Posse,sad,0.2884,0.3079,0.2982,0.6205,0.1230,https://open.spotify.com/search/Cemetery%20Girl%20Insane%20Clown%20Posse,lyrics-mood-proxy-v1
+ray-charles-if-you-were-mine-62f19dae,If You Were Mine,Ray Charles,happy,0.7309,0.6129,0.6631,0.3059,0.0945,https://open.spotify.com/search/If%20You%20Were%20Mine%20Ray%20Charles,lyrics-mood-proxy-v1
+one-direction-strong-ab35e3a6,Strong,One Direction,love,0.7279,0.4269,0.4905,0.5836,0.1545,https://open.spotify.com/search/Strong%20One%20Direction,lyrics-mood-proxy-v1
+conway-twitty-final-touches-156484bd,Final Touches,Conway Twitty,happy,0.6795,0.7105,0.6638,0.2874,0.1074,https://open.spotify.com/search/Final%20Touches%20Conway%20Twitty,lyrics-mood-proxy-v1
+outkast-love-hater-77475d4b,Love Hater,Outkast,love,0.7399,0.4262,0.5236,0.5539,0.1397,https://open.spotify.com/search/Love%20Hater%20Outkast,lyrics-mood-proxy-v1
+chris-rea-one-golden-rule-bd9a2572,One Golden Rule,Chris Rea,angry,0.2955,0.6835,0.5299,0.2830,0.0534,https://open.spotify.com/search/One%20Golden%20Rule%20Chris%20Rea,lyrics-mood-proxy-v1
+def-leppard-too-late-for-love-8341e23f,Too Late For Love,Def Leppard,love,0.6960,0.5124,0.5879,0.5206,0.1559,https://open.spotify.com/search/Too%20Late%20For%20Love%20Def%20Leppard,lyrics-mood-proxy-v1
+michael-jackson-ease-on-down-the-road-ada5b5b2,Ease On Down The Road,Michael Jackson,calm,0.5532,0.2647,0.3204,0.6388,0.3145,https://open.spotify.com/search/Ease%20On%20Down%20The%20Road%20Michael%20Jackson,lyrics-mood-proxy-v1
+cheap-trick-wrong-side-of-love-18f0a807,Wrong Side Of Love,Cheap Trick,sad,0.2725,0.2919,0.3505,0.6855,0.1755,https://open.spotify.com/search/Wrong%20Side%20Of%20Love%20Cheap%20Trick,lyrics-mood-proxy-v1
+deep-purple-bloodsucker-06671162,Bloodsucker,Deep Purple,love,0.7064,0.4842,0.5686,0.4919,0.1474,https://open.spotify.com/search/Bloodsucker%20Deep%20Purple,lyrics-mood-proxy-v1
+morrissey-staircase-at-the-university-45ae0748,Staircase At The University,Morrissey,happy,0.7313,0.6470,0.6309,0.3176,0.0536,https://open.spotify.com/search/Staircase%20At%20The%20University%20Morrissey,lyrics-mood-proxy-v1
+doris-day-you-are-my-sunshine-88d6baff,You Are My Sunshine,Doris Day,love,0.7007,0.4089,0.5488,0.5540,0.1507,https://open.spotify.com/search/You%20Are%20My%20Sunshine%20Doris%20Day,lyrics-mood-proxy-v1
+cat-stevens-when-i-speak-to-the-flowers-253317e5,When I Speak To The Flowers,Cat Stevens,love,0.7068,0.4724,0.5389,0.5093,0.0749,https://open.spotify.com/search/When%20I%20Speak%20To%20The%20Flowers%20Cat%20Stevens,lyrics-mood-proxy-v1
+imago-idlip-df72285b,Idlip,Imago,fear,0.3225,0.5519,0.3753,0.4687,0.2229,https://open.spotify.com/search/Idlip%20Imago,lyrics-mood-proxy-v1
+phish-heavy-things-a3f2c12c,Heavy Things,Phish,happy,0.7042,0.6612,0.7115,0.3575,0.1308,https://open.spotify.com/search/Heavy%20Things%20Phish,lyrics-mood-proxy-v1
+tina-turner-i-might-have-been-queen-16fa4adb,I Might Have Been Queen,Tina Turner,happy,0.6775,0.6182,0.6610,0.3721,0.1218,https://open.spotify.com/search/I%20Might%20Have%20Been%20Queen%20Tina%20Turner,lyrics-mood-proxy-v1
+wanda-jackson-tennessee-women-s-prison-17ff2cd4,Tennessee Women's Prison,Wanda Jackson,happy,0.6673,0.6084,0.7085,0.2781,0.0908,https://open.spotify.com/search/Tennessee%20Women%27s%20Prison%20Wanda%20Jackson,lyrics-mood-proxy-v1
+elvis-costello-boy-with-a-problem-f9796282,Boy With A Problem,Elvis Costello,love,0.6635,0.4340,0.5378,0.5229,0.0739,https://open.spotify.com/search/Boy%20With%20A%20Problem%20Elvis%20Costello,lyrics-mood-proxy-v1
+keith-urban-billy-746021fe,Billy,Keith Urban,angry,0.3247,0.6726,0.5737,0.2514,0.0397,https://open.spotify.com/search/Billy%20Keith%20Urban,lyrics-mood-proxy-v1
+passenger-carnival-diaries-a976846a,Carnival Diaries,Passenger,happy,0.7810,0.6806,0.6675,0.2789,0.0725,https://open.spotify.com/search/Carnival%20Diaries%20Passenger,lyrics-mood-proxy-v1
+everlast-change-is-gonna-come-7df82f81,Change Is Gonna Come,Everlast,fear,0.3252,0.5652,0.3849,0.5193,0.1682,https://open.spotify.com/search/Change%20Is%20Gonna%20Come%20Everlast,lyrics-mood-proxy-v1
+widespread-panic-send-your-mind-7c730b0f,Send Your Mind,Widespread Panic,sad,0.2617,0.2635,0.3590,0.6430,0.1288,https://open.spotify.com/search/Send%20Your%20Mind%20Widespread%20Panic,lyrics-mood-proxy-v1
+europe-devil-sings-the-blues-aa15a4f5,Devil Sings The Blues,Europe,happy,0.7391,0.6860,0.6821,0.2737,0.1085,https://open.spotify.com/search/Devil%20Sings%20The%20Blues%20Europe,lyrics-mood-proxy-v1
+pet-shop-boys-suburbia-15dc3be8,Suburbia,Pet Shop Boys,angry,0.3228,0.7602,0.5883,0.3258,0.1292,https://open.spotify.com/search/Suburbia%20Pet%20Shop%20Boys,lyrics-mood-proxy-v1
+tool-h-759fd8c1,H.,Tool,sad,0.2681,0.3058,0.3698,0.6100,0.1167,https://open.spotify.com/search/H.%20Tool,lyrics-mood-proxy-v1
+king-diamond-victimized-b855ddff,Victimized,King Diamond,happy,0.7009,0.6843,0.7016,0.3368,0.0851,https://open.spotify.com/search/Victimized%20King%20Diamond,lyrics-mood-proxy-v1
+jimi-hendrix-once-i-had-a-woman-caccd6d8,Once I Had A Woman,Jimi Hendrix,happy,0.6864,0.6577,0.6364,0.2690,0.1318,https://open.spotify.com/search/Once%20I%20Had%20A%20Woman%20Jimi%20Hendrix,lyrics-mood-proxy-v1
+dave-matthews-band-grey-street-6137212b,Grey Street,Dave Matthews Band,sad,0.3296,0.3333,0.3657,0.6233,0.1374,https://open.spotify.com/search/Grey%20Street%20Dave%20Matthews%20Band,lyrics-mood-proxy-v1
+evanescence-forgive-me-09fb8120,Forgive Me,Evanescence,angry,0.2484,0.7042,0.5892,0.2736,0.1183,https://open.spotify.com/search/Forgive%20Me%20Evanescence,lyrics-mood-proxy-v1
+lionel-richie-it-may-be-the-water-67dc68af,It May Be The Water,Lionel Richie,love,0.7106,0.4909,0.4976,0.5774,0.0788,https://open.spotify.com/search/It%20May%20Be%20The%20Water%20Lionel%20Richie,lyrics-mood-proxy-v1
+alan-parsons-project-old-and-wise-5d7dcfb1,Old And Wise,Alan Parsons Project,sad,0.3356,0.2864,0.3039,0.7178,0.1297,https://open.spotify.com/search/Old%20And%20Wise%20Alan%20Parsons%20Project,lyrics-mood-proxy-v1
+inxs-wild-life-af773b0e,Wild Life,INXS,happy,0.7586,0.6362,0.6582,0.3727,0.1529,https://open.spotify.com/search/Wild%20Life%20INXS,lyrics-mood-proxy-v1
+diana-ross-all-night-lover-45c5e479,All Night Lover,Diana Ross,sad,0.3509,0.3045,0.3301,0.6537,0.1194,https://open.spotify.com/search/All%20Night%20Lover%20Diana%20Ross,lyrics-mood-proxy-v1
+underoath-cries-of-the-past-14336682,Cries Of The Past,Underoath,happy,0.6770,0.7055,0.6993,0.3614,0.0803,https://open.spotify.com/search/Cries%20Of%20The%20Past%20Underoath,lyrics-mood-proxy-v1
+x-johny-hit-and-run-paulene-1e75e6f4,Johny Hit And Run Paulene,X,angry,0.2819,0.7494,0.6024,0.2792,0.0468,https://open.spotify.com/search/Johny%20Hit%20And%20Run%20Paulene%20X,lyrics-mood-proxy-v1
+celine-dion-i-want-you-to-need-me-0e571dde,I Want You To Need Me,Celine Dion,calm,0.5925,0.3042,0.3190,0.6706,0.2527,https://open.spotify.com/search/I%20Want%20You%20To%20Need%20Me%20Celine%20Dion,lyrics-mood-proxy-v1
+david-allan-coe-looking-in-the-mirror-7cb89993,Looking In The Mirror,David Allan Coe,love,0.6574,0.5035,0.5460,0.5418,0.1361,https://open.spotify.com/search/Looking%20In%20The%20Mirror%20David%20Allan%20Coe,lyrics-mood-proxy-v1
+kid-rock-live-98a5c779,Live,Kid Rock,happy,0.7139,0.7119,0.6327,0.2978,0.1459,https://open.spotify.com/search/Live%20Kid%20Rock,lyrics-mood-proxy-v1
+adam-sandler-corduroy-blues-d92a12a7,Corduroy Blues,Adam Sandler,sad,0.2674,0.3773,0.3919,0.6044,0.1626,https://open.spotify.com/search/Corduroy%20Blues%20Adam%20Sandler,lyrics-mood-proxy-v1
+christy-moore-the-voyage-40557fa2,The Voyage,Christy Moore,love,0.7378,0.4583,0.5292,0.4986,0.0737,https://open.spotify.com/search/The%20Voyage%20Christy%20Moore,lyrics-mood-proxy-v1
+elton-john-burn-down-the-mission-09c951d2,Burn Down The Mission,Elton John,happy,0.7189,0.6309,0.6741,0.3231,0.0534,https://open.spotify.com/search/Burn%20Down%20The%20Mission%20Elton%20John,lyrics-mood-proxy-v1
+cliff-richard-i-m-lookin-out-the-window-ca6e38b6,I'm Lookin' Out The Window,Cliff Richard,happy,0.7441,0.6993,0.6380,0.3628,0.1176,https://open.spotify.com/search/I%27m%20Lookin%27%20Out%20The%20Window%20Cliff%20Richard,lyrics-mood-proxy-v1
+owl-city-wolf-bite-89b16fe5,Wolf Bite,Owl City,fear,0.3606,0.4752,0.4088,0.4701,0.1359,https://open.spotify.com/search/Wolf%20Bite%20Owl%20City,lyrics-mood-proxy-v1
+ying-yang-twins-put-that-thang-down-060f3bc1,Put That Thang Down,Ying Yang Twins,calm,0.5500,0.3764,0.4118,0.6990,0.3189,https://open.spotify.com/search/Put%20That%20Thang%20Down%20Ying%20Yang%20Twins,lyrics-mood-proxy-v1
+dusty-springfield-reputation-39ba9150,Reputation,Dusty Springfield,sad,0.2704,0.3772,0.3231,0.6383,0.1243,https://open.spotify.com/search/Reputation%20Dusty%20Springfield,lyrics-mood-proxy-v1
+yello-she-s-got-a-gun-d8cc1438,She's Got A Gun,Yello,calm,0.5181,0.2863,0.3525,0.7309,0.3059,https://open.spotify.com/search/She%27s%20Got%20A%20Gun%20Yello,lyrics-mood-proxy-v1
+religious-music-crucified-with-christ-d6c1d1af,Crucified With Christ,Religious Music,happy,0.7429,0.6869,0.7423,0.2845,0.0464,https://open.spotify.com/search/Crucified%20With%20Christ%20Religious%20Music,lyrics-mood-proxy-v1
+donna-summer-unconditional-love-32091ebd,Unconditional Love,Donna Summer,love,0.6834,0.5124,0.5783,0.5328,0.0991,https://open.spotify.com/search/Unconditional%20Love%20Donna%20Summer,lyrics-mood-proxy-v1
+the-beatles-dear-wack-6d874a56,Dear Wack!,The Beatles,sad,0.3037,0.3311,0.3222,0.6562,0.1369,https://open.spotify.com/search/Dear%20Wack%21%20The%20Beatles,lyrics-mood-proxy-v1
+the-beatles-lucille-bdeecec2,Lucille,The Beatles,love,0.7120,0.5139,0.5667,0.5493,0.1455,https://open.spotify.com/search/Lucille%20The%20Beatles,lyrics-mood-proxy-v1
+enrique-iglesias-rescue-soul-d5dc0f6e,Rescue Soul,Enrique Iglesias,angry,0.2490,0.7051,0.5808,0.3293,0.0407,https://open.spotify.com/search/Rescue%20Soul%20Enrique%20Iglesias,lyrics-mood-proxy-v1
+chicago-listen-bb031a92,Listen,Chicago,sad,0.2980,0.2784,0.3626,0.6802,0.1491,https://open.spotify.com/search/Listen%20Chicago,lyrics-mood-proxy-v1
+carly-simon-devoted-to-you-65f69184,Devoted To You,Carly Simon,love,0.7257,0.4360,0.5253,0.5145,0.1472,https://open.spotify.com/search/Devoted%20To%20You%20Carly%20Simon,lyrics-mood-proxy-v1
+elton-john-flinstone-boy-141b4759,Flinstone Boy,Elton John,angry,0.2767,0.6788,0.5436,0.2900,0.1348,https://open.spotify.com/search/Flinstone%20Boy%20Elton%20John,lyrics-mood-proxy-v1
+arrogant-worms-having-fun-is-bad-for-you-43d9b7b5,Having Fun Is Bad For You,Arrogant Worms,love,0.6431,0.5032,0.5536,0.4691,0.0545,https://open.spotify.com/search/Having%20Fun%20Is%20Bad%20For%20You%20Arrogant%20Worms,lyrics-mood-proxy-v1
+amy-grant-a-christmas-to-remember-a88c9099,A Christmas To Remember,Amy Grant,angry,0.3623,0.7555,0.5440,0.2651,0.0492,https://open.spotify.com/search/A%20Christmas%20To%20Remember%20Amy%20Grant,lyrics-mood-proxy-v1
+within-temptation-where-is-the-edge-7e5b7678,Where Is The Edge?,Within Temptation,calm,0.5837,0.3020,0.3779,0.7077,0.3153,https://open.spotify.com/search/Where%20Is%20The%20Edge%3F%20Within%20Temptation,lyrics-mood-proxy-v1
+weezer-i-swear-it-s-true-05649841,I Swear It's True,Weezer,sad,0.2791,0.3408,0.3127,0.7113,0.1500,https://open.spotify.com/search/I%20Swear%20It%27s%20True%20Weezer,lyrics-mood-proxy-v1
+john-denver-postcard-from-paris-a09c3220,Postcard From Paris,John Denver,sad,0.2978,0.3467,0.2981,0.7168,0.1233,https://open.spotify.com/search/Postcard%20From%20Paris%20John%20Denver,lyrics-mood-proxy-v1
+ween-mononucleosis-f4d7e4c4,Mononucleosis,Ween,sad,0.2899,0.2775,0.2904,0.6585,0.0980,https://open.spotify.com/search/Mononucleosis%20Ween,lyrics-mood-proxy-v1
+rascal-flatts-she-goes-all-the-way-d34e6201,She Goes All The Way,Rascal Flatts,angry,0.3081,0.6889,0.6022,0.2631,0.0686,https://open.spotify.com/search/She%20Goes%20All%20The%20Way%20Rascal%20Flatts,lyrics-mood-proxy-v1
+gordon-lightfoot-i-want-to-hear-it-from-yo-46991cfe,I Want To Hear It From You,Gordon Lightfoot,sad,0.3005,0.2662,0.3632,0.6210,0.0942,https://open.spotify.com/search/I%20Want%20To%20Hear%20It%20From%20You%20Gordon%20Lightfoot,lyrics-mood-proxy-v1
+lou-reed-strawman-7c49fcc9,Strawman,Lou Reed,sad,0.2537,0.3711,0.3936,0.6824,0.1008,https://open.spotify.com/search/Strawman%20Lou%20Reed,lyrics-mood-proxy-v1
+zao-exchange-d920a5e6,Exchange,Zao,love,0.6991,0.4656,0.5468,0.5287,0.0968,https://open.spotify.com/search/Exchange%20Zao,lyrics-mood-proxy-v1
+nirvana-endless-nameless-aefb9280,"Endless, Nameless",Nirvana,sad,0.3041,0.3396,0.3758,0.6398,0.1072,https://open.spotify.com/search/Endless%2C%20Nameless%20Nirvana,lyrics-mood-proxy-v1
+miley-cyrus-adore-you-57355341,Adore You,Miley Cyrus,love,0.6493,0.4355,0.5345,0.4824,0.0519,https://open.spotify.com/search/Adore%20You%20Miley%20Cyrus,lyrics-mood-proxy-v1
+fall-out-boy-let-s-get-it-on-0fee02bf,Let's Get It On,Fall Out Boy,love,0.6724,0.4541,0.4899,0.5252,0.1462,https://open.spotify.com/search/Let%27s%20Get%20It%20On%20Fall%20Out%20Boy,lyrics-mood-proxy-v1
+oasis-mucky-fingers-89e98d57,Mucky Fingers,Oasis,sad,0.2476,0.3634,0.3443,0.6939,0.1100,https://open.spotify.com/search/Mucky%20Fingers%20Oasis,lyrics-mood-proxy-v1
+george-strait-i-need-someone-like-me-df9e84b7,I Need Someone Like Me,George Strait,love,0.6673,0.5185,0.5480,0.4992,0.0919,https://open.spotify.com/search/I%20Need%20Someone%20Like%20Me%20George%20Strait,lyrics-mood-proxy-v1
+fleetwood-mac-hi-ho-silver-34c52277,Hi Ho Silver,Fleetwood Mac,fear,0.3486,0.5504,0.3571,0.5103,0.2148,https://open.spotify.com/search/Hi%20Ho%20Silver%20Fleetwood%20Mac,lyrics-mood-proxy-v1
+gino-vannelli-shape-me-like-a-man-046a4572,Shape Me Like A Man,Gino Vannelli,angry,0.3416,0.6797,0.5925,0.3324,0.1301,https://open.spotify.com/search/Shape%20Me%20Like%20A%20Man%20Gino%20Vannelli,lyrics-mood-proxy-v1
+nina-simone-angel-of-the-morning-c9ed1400,Angel Of The Morning,Nina Simone,love,0.6311,0.4517,0.5286,0.5470,0.1074,https://open.spotify.com/search/Angel%20Of%20The%20Morning%20Nina%20Simone,lyrics-mood-proxy-v1
+raffi-all-i-really-need-aaa9360c,All I Really Need,Raffi,love,0.6796,0.4315,0.4984,0.5206,0.0773,https://open.spotify.com/search/All%20I%20Really%20Need%20Raffi,lyrics-mood-proxy-v1
+ozzy-osbourne-now-you-see-it-now-you-don-t-d39cabf5,Now You See It (Now You Don't),Ozzy Osbourne,sad,0.2777,0.2967,0.3999,0.6032,0.1872,https://open.spotify.com/search/Now%20You%20See%20It%20%28Now%20You%20Don%27t%29%20Ozzy%20Osbourne,lyrics-mood-proxy-v1
+pearl-jam-crapshoot-rapture-b73d382c,Crapshoot Rapture,Pearl Jam,sad,0.3516,0.3557,0.2964,0.6903,0.2024,https://open.spotify.com/search/Crapshoot%20Rapture%20Pearl%20Jam,lyrics-mood-proxy-v1
+kate-bush-hammer-horror-c09437c4,Hammer Horror,Kate Bush,calm,0.5447,0.2740,0.3190,0.6723,0.2305,https://open.spotify.com/search/Hammer%20Horror%20Kate%20Bush,lyrics-mood-proxy-v1
+stone-temple-pilots-and-so-i-know-fa465de7,And So I Know,Stone Temple Pilots,calm,0.5560,0.3241,0.3313,0.6573,0.2221,https://open.spotify.com/search/And%20So%20I%20Know%20Stone%20Temple%20Pilots,lyrics-mood-proxy-v1
+scorpions-time-will-call-your-name-5c3e9615,Time Will Call Your Name,Scorpions,love,0.7150,0.4457,0.4943,0.5238,0.0995,https://open.spotify.com/search/Time%20Will%20Call%20Your%20Name%20Scorpions,lyrics-mood-proxy-v1
+dusty-springfield-sandra-6a8056ba,Sandra,Dusty Springfield,love,0.6798,0.4794,0.5166,0.5572,0.1495,https://open.spotify.com/search/Sandra%20Dusty%20Springfield,lyrics-mood-proxy-v1
+carol-banawa-only-world-a93e368f,Only World,Carol Banawa,love,0.7037,0.4813,0.4935,0.5653,0.0760,https://open.spotify.com/search/Only%20World%20Carol%20Banawa,lyrics-mood-proxy-v1
+gordon-lightfoot-long-thin-dawn-8458eb80,Long Thin Dawn,Gordon Lightfoot,sad,0.2784,0.2727,0.3940,0.6618,0.1595,https://open.spotify.com/search/Long%20Thin%20Dawn%20Gordon%20Lightfoot,lyrics-mood-proxy-v1
+chaka-khan-change-your-ways-16b5cfe5,Change Your Ways,Chaka Khan,happy,0.7020,0.6605,0.6484,0.3031,0.1133,https://open.spotify.com/search/Change%20Your%20Ways%20Chaka%20Khan,lyrics-mood-proxy-v1
+vertical-horizon-i-m-still-here-0d61fc22,I'm Still Here,Vertical Horizon,calm,0.5747,0.3565,0.3902,0.6984,0.2638,https://open.spotify.com/search/I%27m%20Still%20Here%20Vertical%20Horizon,lyrics-mood-proxy-v1
+overkill-cornucopia-289ea6b3,Cornucopia,Overkill,happy,0.7628,0.6761,0.7041,0.2706,0.0453,https://open.spotify.com/search/Cornucopia%20Overkill,lyrics-mood-proxy-v1
+wishbone-ash-you-rescue-me-7ad9df76,You Rescue Me,Wishbone Ash,sad,0.3103,0.3581,0.3937,0.6570,0.1574,https://open.spotify.com/search/You%20Rescue%20Me%20Wishbone%20Ash,lyrics-mood-proxy-v1
+christina-aguilera-loving-me-4-me-9323872b,Loving Me 4 Me,Christina Aguilera,happy,0.7555,0.6050,0.6302,0.2860,0.1099,https://open.spotify.com/search/Loving%20Me%204%20Me%20Christina%20Aguilera,lyrics-mood-proxy-v1
+james-taylor-shed-a-little-light-b5e9dccb,Shed A Little Light,James Taylor,happy,0.6939,0.6672,0.7471,0.3061,0.1450,https://open.spotify.com/search/Shed%20A%20Little%20Light%20James%20Taylor,lyrics-mood-proxy-v1
+stevie-wonder-make-sure-you-re-sure-8ba11eeb,Make Sure You're Sure,Stevie Wonder,love,0.6308,0.5283,0.5727,0.4790,0.0892,https://open.spotify.com/search/Make%20Sure%20You%27re%20Sure%20Stevie%20Wonder,lyrics-mood-proxy-v1
+howard-jones-cookin-in-the-kitchen-8ce2e8fb,Cookin' In The Kitchen,Howard Jones,love,0.7223,0.4899,0.5997,0.5493,0.0542,https://open.spotify.com/search/Cookin%27%20In%20The%20Kitchen%20Howard%20Jones,lyrics-mood-proxy-v1
+hank-williams-let-s-turn-back-the-years-75868c45,Let's Turn Back The Years,Hank Williams,love,0.6814,0.4475,0.5187,0.4933,0.1653,https://open.spotify.com/search/Let%27s%20Turn%20Back%20The%20Years%20Hank%20Williams,lyrics-mood-proxy-v1
+quiet-riot-sign-of-the-times-0f8f8bff,Sign Of The Times,Quiet Riot,happy,0.7777,0.6432,0.6322,0.2643,0.0840,https://open.spotify.com/search/Sign%20Of%20The%20Times%20Quiet%20Riot,lyrics-mood-proxy-v1
+otis-redding-champagne-and-wine-d67eb7ec,Champagne And Wine,Otis Redding,love,0.7130,0.4866,0.5356,0.5051,0.1441,https://open.spotify.com/search/Champagne%20And%20Wine%20Otis%20Redding,lyrics-mood-proxy-v1
+willie-nelson-cherokee-maiden-c7e66ccb,Cherokee Maiden,Willie Nelson,love,0.6664,0.4983,0.4942,0.5432,0.1366,https://open.spotify.com/search/Cherokee%20Maiden%20Willie%20Nelson,lyrics-mood-proxy-v1
+lenny-kravitz-black-velveteen-cab1f370,Black Velveteen,Lenny Kravitz,angry,0.2630,0.6665,0.5661,0.3338,0.1028,https://open.spotify.com/search/Black%20Velveteen%20Lenny%20Kravitz,lyrics-mood-proxy-v1
+vanessa-williams-if-you-really-love-him-73777c3c,If You Really Love Him,Vanessa Williams,love,0.6249,0.4930,0.5317,0.5029,0.0898,https://open.spotify.com/search/If%20You%20Really%20Love%20Him%20Vanessa%20Williams,lyrics-mood-proxy-v1
+johnny-cash-doo-lord-32fdb7f3,Doo Lord,Johnny Cash,sad,0.2493,0.3231,0.3357,0.7092,0.0842,https://open.spotify.com/search/Doo%20Lord%20Johnny%20Cash,lyrics-mood-proxy-v1
+proclaimers-that-s-when-he-told-her-fb73179a,That's When He Told Her,Proclaimers,love,0.6906,0.4512,0.5983,0.4988,0.0966,https://open.spotify.com/search/That%27s%20When%20He%20Told%20Her%20Proclaimers,lyrics-mood-proxy-v1
+noa-you-are-too-beautiful-332835e2,You Are Too Beautiful,Noa,love,0.6529,0.4918,0.5205,0.5072,0.0556,https://open.spotify.com/search/You%20Are%20Too%20Beautiful%20Noa,lyrics-mood-proxy-v1
+aerosmith-the-hop-d3f2be0d,The Hop,Aerosmith,sad,0.2783,0.2657,0.3255,0.6605,0.1957,https://open.spotify.com/search/The%20Hop%20Aerosmith,lyrics-mood-proxy-v1
+nina-simone-blackbird-f87b419e,Blackbird,Nina Simone,love,0.6768,0.4915,0.5066,0.5359,0.0883,https://open.spotify.com/search/Blackbird%20Nina%20Simone,lyrics-mood-proxy-v1
+air-supply-here-i-am-3689952a,Here I Am,Air Supply,calm,0.5110,0.3237,0.3777,0.7199,0.2832,https://open.spotify.com/search/Here%20I%20Am%20Air%20Supply,lyrics-mood-proxy-v1
+aerosmith-avant-garden-b75e702a,Avant Garden,Aerosmith,happy,0.6768,0.6578,0.6547,0.2768,0.1422,https://open.spotify.com/search/Avant%20Garden%20Aerosmith,lyrics-mood-proxy-v1
+enrique-iglesias-escape-01ebc2b8,Escape,Enrique Iglesias,love,0.7414,0.4196,0.5576,0.4973,0.1278,https://open.spotify.com/search/Escape%20Enrique%20Iglesias,lyrics-mood-proxy-v1
+john-mcdermott-christmas-memories-3d1f0cee,Christmas Memories,John McDermott,happy,0.6749,0.6832,0.6817,0.3468,0.0917,https://open.spotify.com/search/Christmas%20Memories%20John%20McDermott,lyrics-mood-proxy-v1
+willie-nelson-and-so-will-you-my-love-884afe85,And So Will You My Love,Willie Nelson,love,0.6647,0.5157,0.5572,0.5417,0.1047,https://open.spotify.com/search/And%20So%20Will%20You%20My%20Love%20Willie%20Nelson,lyrics-mood-proxy-v1
+america-sleeper-train-607f31ac,Sleeper Train,America,calm,0.5515,0.3293,0.4085,0.7499,0.3199,https://open.spotify.com/search/Sleeper%20Train%20America,lyrics-mood-proxy-v1
+justin-bieber-one-love-0f74b09b,One Love,Justin Bieber,love,0.6831,0.4795,0.5680,0.5403,0.1428,https://open.spotify.com/search/One%20Love%20Justin%20Bieber,lyrics-mood-proxy-v1
+slayer-psychopathy-red-8103e8f4,Psychopathy Red,Slayer,angry,0.2828,0.6543,0.5779,0.2816,0.0948,https://open.spotify.com/search/Psychopathy%20Red%20Slayer,lyrics-mood-proxy-v1
+ray-charles-don-t-change-on-me-b1148810,Don't Change On Me,Ray Charles,love,0.7377,0.5073,0.5914,0.5792,0.1276,https://open.spotify.com/search/Don%27t%20Change%20On%20Me%20Ray%20Charles,lyrics-mood-proxy-v1
+christina-aguilera-circles-cab8c030,Circles,Christina Aguilera,happy,0.6659,0.7119,0.6582,0.3538,0.1567,https://open.spotify.com/search/Circles%20Christina%20Aguilera,lyrics-mood-proxy-v1
+michael-buble-these-foolish-things-remind--4b320f4d,These Foolish Things (Remind Me Of You),Michael Buble,angry,0.2889,0.7409,0.5967,0.2406,0.1108,https://open.spotify.com/search/These%20Foolish%20Things%20%28Remind%20Me%20Of%20You%29%20Michael%20Buble,lyrics-mood-proxy-v1
+patti-smith-smells-like-teen-spirit-28dd0ff5,Smells Like Teen Spirit,Patti Smith,calm,0.4898,0.3070,0.4001,0.6864,0.3307,https://open.spotify.com/search/Smells%20Like%20Teen%20Spirit%20Patti%20Smith,lyrics-mood-proxy-v1
+status-quo-never-too-late-4fb1ab55,Never Too Late,Status Quo,angry,0.3049,0.7164,0.5638,0.3488,0.0581,https://open.spotify.com/search/Never%20Too%20Late%20Status%20Quo,lyrics-mood-proxy-v1
+ray-boltz-touching-him-924d2084,Touching Him,Ray Boltz,sad,0.2624,0.2805,0.4016,0.7154,0.1373,https://open.spotify.com/search/Touching%20Him%20Ray%20Boltz,lyrics-mood-proxy-v1
+paul-simon-quality-7f1a6e13,Quality,Paul Simon,happy,0.7635,0.6351,0.6539,0.2808,0.0731,https://open.spotify.com/search/Quality%20Paul%20Simon,lyrics-mood-proxy-v1
+stone-temple-pilots-vasoline-df9aca37,Vasoline,Stone Temple Pilots,sad,0.2872,0.3623,0.3034,0.6872,0.0930,https://open.spotify.com/search/Vasoline%20Stone%20Temple%20Pilots,lyrics-mood-proxy-v1
+j-cole-in-the-morning-ae4094bc,In the Morning,J Cole,calm,0.5679,0.3755,0.3492,0.6956,0.2186,https://open.spotify.com/search/In%20the%20Morning%20J%20Cole,lyrics-mood-proxy-v1
+kiss-all-american-man-8ad44350,All American Man,Kiss,calm,0.5541,0.3669,0.3100,0.6671,0.2211,https://open.spotify.com/search/All%20American%20Man%20Kiss,lyrics-mood-proxy-v1
+kanye-west-don-t-stop-d79f2876,Don't Stop,Kanye West,sad,0.2556,0.3713,0.3615,0.6672,0.1543,https://open.spotify.com/search/Don%27t%20Stop%20Kanye%20West,lyrics-mood-proxy-v1
+korn-sanctuary-cdc9ade8,Sanctuary,Korn,sad,0.3008,0.3241,0.3360,0.6489,0.1488,https://open.spotify.com/search/Sanctuary%20Korn,lyrics-mood-proxy-v1
+robbie-williams-she-makes-me-high-496e84e1,She Makes Me High,Robbie Williams,angry,0.2647,0.7414,0.6253,0.2759,0.0827,https://open.spotify.com/search/She%20Makes%20Me%20High%20Robbie%20Williams,lyrics-mood-proxy-v1
+nirvana-help-me-i-m-hungry-a333a541,"Help Me, I'm Hungry",Nirvana,sad,0.3487,0.3415,0.3185,0.6295,0.0869,https://open.spotify.com/search/Help%20Me%2C%20I%27m%20Hungry%20Nirvana,lyrics-mood-proxy-v1
+lata-mangeshkar-is-duniya-mein-jeena-ho-2a64410e,Is Duniya Mein Jeena Ho,Lata Mangeshkar,angry,0.3134,0.6985,0.5360,0.2444,0.1348,https://open.spotify.com/search/Is%20Duniya%20Mein%20Jeena%20Ho%20Lata%20Mangeshkar,lyrics-mood-proxy-v1
+billie-holiday-i-m-yours-383b42e0,I'm Yours,Billie Holiday,love,0.6537,0.4484,0.4862,0.4985,0.1018,https://open.spotify.com/search/I%27m%20Yours%20Billie%20Holiday,lyrics-mood-proxy-v1
+paul-simon-when-numbers-get-serious-03da7d4c,When Numbers Get Serious,Paul Simon,calm,0.5081,0.3654,0.3846,0.6724,0.2962,https://open.spotify.com/search/When%20Numbers%20Get%20Serious%20Paul%20Simon,lyrics-mood-proxy-v1
+smiths-rusholme-ruffians-a180ed8a,Rusholme Ruffians,Smiths,love,0.6946,0.4315,0.5399,0.4872,0.0604,https://open.spotify.com/search/Rusholme%20Ruffians%20Smiths,lyrics-mood-proxy-v1
+religious-music-be-ye-joyful-earth-and-sky-cf58857e,"Be Ye Joyful, Earth And Sky",Religious Music,happy,0.7123,0.7058,0.7089,0.3104,0.1316,https://open.spotify.com/search/Be%20Ye%20Joyful%2C%20Earth%20And%20Sky%20Religious%20Music,lyrics-mood-proxy-v1
+deep-purple-haunted-896f07a1,Haunted,Deep Purple,love,0.7218,0.4080,0.4865,0.4649,0.1671,https://open.spotify.com/search/Haunted%20Deep%20Purple,lyrics-mood-proxy-v1
+wanda-jackson-fever-79325ffb,Fever,Wanda Jackson,love,0.7237,0.5101,0.5455,0.5506,0.1269,https://open.spotify.com/search/Fever%20Wanda%20Jackson,lyrics-mood-proxy-v1
+rihanna-te-amo-5f7751af,Te Amo,Rihanna,love,0.6472,0.4291,0.5429,0.5464,0.1289,https://open.spotify.com/search/Te%20Amo%20Rihanna,lyrics-mood-proxy-v1
+paul-simon-10-years-oprah-winfrey-show-10--0e2135c6,10 Years (Oprah Winfrey Show 10 Year Anniversary Theme),Paul Simon,calm,0.5937,0.3295,0.3990,0.7093,0.2923,https://open.spotify.com/search/10%20Years%20%28Oprah%20Winfrey%20Show%2010%20Year%20Anniversary%20Theme%29%20Paul%20Simon,lyrics-mood-proxy-v1
+chaka-khan-and-the-melody-still-lingers-on-6fc74acb,And The Melody Still Lingers On (Night In Tunisia),Chaka Khan,sad,0.3131,0.2831,0.3330,0.6464,0.1237,https://open.spotify.com/search/And%20The%20Melody%20Still%20Lingers%20On%20%28Night%20In%20Tunisia%29%20Chaka%20Khan,lyrics-mood-proxy-v1
+erasure-s-o-s-4d5447cf,S.O.S.,Erasure,love,0.7108,0.4501,0.5838,0.5415,0.1397,https://open.spotify.com/search/S.O.S.%20Erasure,lyrics-mood-proxy-v1
+dave-matthews-band-cornbread-eaf69350,Cornbread,Dave Matthews Band,love,0.6412,0.4186,0.5879,0.5639,0.1739,https://open.spotify.com/search/Cornbread%20Dave%20Matthews%20Band,lyrics-mood-proxy-v1
+frank-zappa-hot-poop-4c7e9212,Hot Poop,Frank Zappa,angry,0.2795,0.7691,0.5826,0.2411,0.0929,https://open.spotify.com/search/Hot%20Poop%20Frank%20Zappa,lyrics-mood-proxy-v1
+leann-rimes-crazy-101453cc,Crazy,Leann Rimes,love,0.6308,0.5197,0.4867,0.5329,0.1597,https://open.spotify.com/search/Crazy%20Leann%20Rimes,lyrics-mood-proxy-v1
+zebrahead-worse-than-this-cb0559fb,Worse Than This,Zebrahead,sad,0.3474,0.3349,0.3448,0.6388,0.1265,https://open.spotify.com/search/Worse%20Than%20This%20Zebrahead,lyrics-mood-proxy-v1
+ace-of-base-what-s-the-name-of-the-game-78ca2f05,What's The Name Of The Game,Ace Of Base,love,0.7166,0.4082,0.5688,0.5128,0.1345,https://open.spotify.com/search/What%27s%20The%20Name%20Of%20The%20Game%20Ace%20Of%20Base,lyrics-mood-proxy-v1
+ariana-grande-greedy-1890a6d7,Greedy,Ariana Grande,love,0.6776,0.4720,0.5304,0.5629,0.1630,https://open.spotify.com/search/Greedy%20Ariana%20Grande,lyrics-mood-proxy-v1
+avril-lavigne-tomorrow-you-didn-t-5723bd09,Tomorrow You Didn't,Avril Lavigne,love,0.6588,0.4358,0.5668,0.5442,0.1195,https://open.spotify.com/search/Tomorrow%20You%20Didn%27t%20Avril%20Lavigne,lyrics-mood-proxy-v1
+otis-redding-for-your-precious-love-40986f3e,For Your Precious Love,Otis Redding,love,0.6927,0.4842,0.5373,0.5643,0.0591,https://open.spotify.com/search/For%20Your%20Precious%20Love%20Otis%20Redding,lyrics-mood-proxy-v1
+ramones-wart-hog-464e9eea,Wart Hog,Ramones,angry,0.2848,0.6706,0.6096,0.2263,0.1153,https://open.spotify.com/search/Wart%20Hog%20Ramones,lyrics-mood-proxy-v1
+pretenders-i-m-not-in-love-b3e3a06c,I'm Not In Love,Pretenders,love,0.7305,0.5038,0.5341,0.5067,0.1721,https://open.spotify.com/search/I%27m%20Not%20In%20Love%20Pretenders,lyrics-mood-proxy-v1
+nicki-minaj-i-m-the-best-38f02c4e,I'm the best,Nicki Minaj,sad,0.3226,0.3144,0.3350,0.7052,0.1789,https://open.spotify.com/search/I%27m%20the%20best%20Nicki%20Minaj,lyrics-mood-proxy-v1
+death-lack-of-comprehension-e54d99c1,Lack Of Comprehension,Death,sad,0.3498,0.2935,0.3880,0.6704,0.1434,https://open.spotify.com/search/Lack%20Of%20Comprehension%20Death,lyrics-mood-proxy-v1
+olivia-newton-john-love-song-2133caf6,Love Song,Olivia Newton-John,love,0.6616,0.4564,0.5270,0.4786,0.0620,https://open.spotify.com/search/Love%20Song%20Olivia%20Newton-John,lyrics-mood-proxy-v1
+used-alone-this-holiday-778b65ed,Alone This Holiday,Used,sad,0.2997,0.3477,0.3678,0.6226,0.1227,https://open.spotify.com/search/Alone%20This%20Holiday%20Used,lyrics-mood-proxy-v1
+amy-grant-missing-you-bc7f4f3b,Missing You,Amy Grant,calm,0.5136,0.3340,0.4080,0.6851,0.2640,https://open.spotify.com/search/Missing%20You%20Amy%20Grant,lyrics-mood-proxy-v1
+phil-collins-tommorrow-never-knows-c238db53,Tommorrow Never Knows,Phil Collins,love,0.7380,0.4877,0.5277,0.5466,0.0929,https://open.spotify.com/search/Tommorrow%20Never%20Knows%20Phil%20Collins,lyrics-mood-proxy-v1
+incubus-a-kiss-to-send-us-off-03ee1c0b,A Kiss To Send Us Off,Incubus,angry,0.2550,0.7272,0.5718,0.2656,0.1579,https://open.spotify.com/search/A%20Kiss%20To%20Send%20Us%20Off%20Incubus,lyrics-mood-proxy-v1
+the-script-dead-man-walking-cb3246e6,Dead Man Walking,The Script,calm,0.5485,0.2743,0.3195,0.6987,0.2249,https://open.spotify.com/search/Dead%20Man%20Walking%20The%20Script,lyrics-mood-proxy-v1
+randy-travis-love-is-a-gamble-72b34293,Love Is A Gamble,Randy Travis,happy,0.7659,0.6967,0.6716,0.3022,0.1179,https://open.spotify.com/search/Love%20Is%20A%20Gamble%20Randy%20Travis,lyrics-mood-proxy-v1
+hanson-poison-ivy-73d4bfb3,Poison Ivy,Hanson,love,0.7064,0.4235,0.5041,0.5413,0.1276,https://open.spotify.com/search/Poison%20Ivy%20Hanson,lyrics-mood-proxy-v1
+owl-city-early-birdie-14dda397,Early Birdie,Owl City,happy,0.6669,0.6799,0.7142,0.3426,0.0866,https://open.spotify.com/search/Early%20Birdie%20Owl%20City,lyrics-mood-proxy-v1
+devo-words-get-stuck-in-my-throat-3990cdef,Words Get Stuck In My Throat,Devo,love,0.6970,0.5186,0.5036,0.5018,0.1022,https://open.spotify.com/search/Words%20Get%20Stuck%20In%20My%20Throat%20Devo,lyrics-mood-proxy-v1
+cyndi-lauper-christmas-conga-3d9fceda,Christmas Conga,Cyndi Lauper,sad,0.2641,0.2714,0.3694,0.6979,0.1982,https://open.spotify.com/search/Christmas%20Conga%20Cyndi%20Lauper,lyrics-mood-proxy-v1
+ice-cube-ask-about-me-abce444a,Ask About Me,Ice Cube,angry,0.3110,0.6643,0.5980,0.2406,0.0790,https://open.spotify.com/search/Ask%20About%20Me%20Ice%20Cube,lyrics-mood-proxy-v1
+yazoo-too-pieces-83b21938,Too Pieces,Yazoo,fear,0.3021,0.5520,0.3727,0.4233,0.1626,https://open.spotify.com/search/Too%20Pieces%20Yazoo,lyrics-mood-proxy-v1
+george-strait-don-t-make-me-come-over-ther-c4527d23,Don't Make Me Come Over There And Love You,George Strait,love,0.7316,0.4957,0.4901,0.5626,0.0989,https://open.spotify.com/search/Don%27t%20Make%20Me%20Come%20Over%20There%20And%20Love%20You%20George%20Strait,lyrics-mood-proxy-v1
+red-hot-chili-peppers-runaway-a6d908c9,Runaway,Red Hot Chili Peppers,happy,0.7688,0.5989,0.6350,0.2819,0.0799,https://open.spotify.com/search/Runaway%20Red%20Hot%20Chili%20Peppers,lyrics-mood-proxy-v1
+stevie-ray-vaughan-leave-my-girl-alone-149ec200,Leave My Girl Alone,Stevie Ray Vaughan,sad,0.3286,0.3792,0.3053,0.6647,0.0991,https://open.spotify.com/search/Leave%20My%20Girl%20Alone%20Stevie%20Ray%20Vaughan,lyrics-mood-proxy-v1
+les-miserables-i-dreamed-a-dream-a214013e,I Dreamed A Dream,Les Miserables,love,0.6971,0.4581,0.4916,0.5330,0.1426,https://open.spotify.com/search/I%20Dreamed%20A%20Dream%20Les%20Miserables,lyrics-mood-proxy-v1
+ten-years-after-sweet-little-sixteen-e6d9e8c7,Sweet Little Sixteen,Ten Years After,angry,0.2974,0.7564,0.6043,0.3027,0.1004,https://open.spotify.com/search/Sweet%20Little%20Sixteen%20Ten%20Years%20After,lyrics-mood-proxy-v1
+uncle-tupelo-sin-city-c7c1a960,Sin City,Uncle Tupelo,sad,0.3396,0.3005,0.3864,0.6642,0.1096,https://open.spotify.com/search/Sin%20City%20Uncle%20Tupelo,lyrics-mood-proxy-v1
+oscar-hammerstein-kansas-city-ec084b95,Kansas City,Oscar Hammerstein,angry,0.3176,0.7079,0.5412,0.3018,0.0539,https://open.spotify.com/search/Kansas%20City%20Oscar%20Hammerstein,lyrics-mood-proxy-v1
+radiohead-talk-show-host-ea95847c,Talk Show Host,Radiohead,angry,0.3139,0.7522,0.5530,0.2688,0.0454,https://open.spotify.com/search/Talk%20Show%20Host%20Radiohead,lyrics-mood-proxy-v1
+zoegirl-forever-17-b9811090,Forever 17,Zoegirl,happy,0.6965,0.6252,0.7367,0.3024,0.1344,https://open.spotify.com/search/Forever%2017%20Zoegirl,lyrics-mood-proxy-v1
+enrique-iglesias-i-will-survive-9cb2f8d0,I Will Survive,Enrique Iglesias,sad,0.2618,0.3214,0.3304,0.6084,0.1431,https://open.spotify.com/search/I%20Will%20Survive%20Enrique%20Iglesias,lyrics-mood-proxy-v1
+ll-cool-j-father-add44e88,Father,LL Cool J,sad,0.2504,0.3640,0.3305,0.6085,0.1530,https://open.spotify.com/search/Father%20LL%20Cool%20J,lyrics-mood-proxy-v1
+tiffany-everyone-get-down-61b2291e,Everyone Get Down,Tiffany,angry,0.2484,0.6882,0.5544,0.2910,0.0882,https://open.spotify.com/search/Everyone%20Get%20Down%20Tiffany,lyrics-mood-proxy-v1
+miley-cyrus-my-giants-wins-their-4-super-b-33305623,My Giants Wins Their 4 Super Bowl,Miley Cyrus,sad,0.3403,0.2843,0.3648,0.6315,0.1604,https://open.spotify.com/search/My%20Giants%20Wins%20Their%204%20Super%20Bowl%20Miley%20Cyrus,lyrics-mood-proxy-v1
+kanye-west-sky-might-fall-b152991f,Sky Might Fall,Kanye West,fear,0.3707,0.4834,0.4197,0.4157,0.2326,https://open.spotify.com/search/Sky%20Might%20Fall%20Kanye%20West,lyrics-mood-proxy-v1
+zero-7-this-fine-social-scene-55d91356,This Fine Social Scene,Zero 7,calm,0.5263,0.3152,0.4060,0.6788,0.2474,https://open.spotify.com/search/This%20Fine%20Social%20Scene%20Zero%207,lyrics-mood-proxy-v1
+van-halen-sinner-s-swing-46fcc847,Sinner's Swing!,Van Halen,sad,0.3423,0.3080,0.3269,0.7155,0.1510,https://open.spotify.com/search/Sinner%27s%20Swing%21%20Van%20Halen,lyrics-mood-proxy-v1
+insane-clown-posse-real-underground-baby-ad15aa11,Real Underground Baby,Insane Clown Posse,love,0.6864,0.4934,0.4944,0.5330,0.1054,https://open.spotify.com/search/Real%20Underground%20Baby%20Insane%20Clown%20Posse,lyrics-mood-proxy-v1
+whitesnake-soldier-of-fortune-58ce9f0c,Soldier Of Fortune,Whitesnake,happy,0.7020,0.7061,0.7321,0.2859,0.1417,https://open.spotify.com/search/Soldier%20Of%20Fortune%20Whitesnake,lyrics-mood-proxy-v1
+leo-sayer-paris-dies-in-the-morning-40f35151,Paris Dies In The Morning,Leo Sayer,happy,0.7722,0.6784,0.6918,0.3328,0.1063,https://open.spotify.com/search/Paris%20Dies%20In%20The%20Morning%20Leo%20Sayer,lyrics-mood-proxy-v1
+engelbert-humperdinck-a-time-for-us-0d915469,A Time For Us,Engelbert Humperdinck,love,0.6316,0.4720,0.5121,0.4928,0.0528,https://open.spotify.com/search/A%20Time%20For%20Us%20Engelbert%20Humperdinck,lyrics-mood-proxy-v1
+nine-inch-nails-the-downward-spiral-the-bo-88e0c76d,The Downward Spiral (The Bottom),Nine Inch Nails,sad,0.2937,0.2691,0.2798,0.6654,0.1939,https://open.spotify.com/search/The%20Downward%20Spiral%20%28The%20Bottom%29%20Nine%20Inch%20Nails,lyrics-mood-proxy-v1
+irving-berlin-who-do-you-love-i-hope-0cb9705e,"Who Do You Love, I Hope",Irving Berlin,love,0.6589,0.4196,0.5134,0.5636,0.1205,https://open.spotify.com/search/Who%20Do%20You%20Love%2C%20I%20Hope%20Irving%20Berlin,lyrics-mood-proxy-v1
+planetshakers-welcome-into-this-place-80f7815a,Welcome Into This Place,Planetshakers,angry,0.2917,0.7512,0.5247,0.2444,0.0877,https://open.spotify.com/search/Welcome%20Into%20This%20Place%20Planetshakers,lyrics-mood-proxy-v1
+elvis-costello-15-petals-a272714e,15 Petals,Elvis Costello,love,0.7345,0.4976,0.5257,0.5258,0.1307,https://open.spotify.com/search/15%20Petals%20Elvis%20Costello,lyrics-mood-proxy-v1
+bob-dylan-california-114d54cc,California,Bob Dylan,calm,0.5254,0.3119,0.4229,0.6751,0.3335,https://open.spotify.com/search/California%20Bob%20Dylan,lyrics-mood-proxy-v1
+christina-aguilera-best-of-me-fe8c7f99,Best Of Me,Christina Aguilera,sad,0.2512,0.3439,0.3174,0.6759,0.0923,https://open.spotify.com/search/Best%20Of%20Me%20Christina%20Aguilera,lyrics-mood-proxy-v1
+nick-drake-cello-song-ab77340a,'cello Song,Nick Drake,happy,0.7535,0.6475,0.6327,0.3307,0.1267,https://open.spotify.com/search/%27cello%20Song%20Nick%20Drake,lyrics-mood-proxy-v1
+the-beatles-i-m-looking-through-you-8b4009f2,I'm Looking Through You,The Beatles,happy,0.6710,0.6403,0.6998,0.3224,0.0609,https://open.spotify.com/search/I%27m%20Looking%20Through%20You%20The%20Beatles,lyrics-mood-proxy-v1
+n-sync-i-drive-myself-crazy-9f8aed5a,I Drive Myself Crazy,'n Sync,love,0.6339,0.5026,0.5177,0.5507,0.0575,https://open.spotify.com/search/I%20Drive%20Myself%20Crazy%20%27n%20Sync,lyrics-mood-proxy-v1
+blur-all-your-life-87c6ce62,All Your Life,Blur,happy,0.7341,0.5970,0.7239,0.3535,0.0954,https://open.spotify.com/search/All%20Your%20Life%20Blur,lyrics-mood-proxy-v1
+orphaned-land-the-beloved-s-cry-324253fc,The Beloved's Cry,Orphaned Land,sad,0.2710,0.3269,0.3746,0.6988,0.0898,https://open.spotify.com/search/The%20Beloved%27s%20Cry%20Orphaned%20Land,lyrics-mood-proxy-v1
+bruce-springsteen-independence-day-2f79108a,Independence Day,Bruce Springsteen,happy,0.7159,0.6772,0.6465,0.3645,0.0533,https://open.spotify.com/search/Independence%20Day%20Bruce%20Springsteen,lyrics-mood-proxy-v1
+selah-glory-3fdcd6d8,Glory,Selah,happy,0.7448,0.6824,0.6381,0.3699,0.1561,https://open.spotify.com/search/Glory%20Selah,lyrics-mood-proxy-v1
+carly-simon-mother-s-intuition-c6286ba0,Mother's Intuition,Carly Simon,calm,0.5366,0.2843,0.4206,0.6926,0.2797,https://open.spotify.com/search/Mother%27s%20Intuition%20Carly%20Simon,lyrics-mood-proxy-v1
+tom-t-hall-i-m-forty-now-a931de9b,I'm Forty Now,Tom T. Hall,happy,0.6681,0.6771,0.7112,0.3029,0.0925,https://open.spotify.com/search/I%27m%20Forty%20Now%20Tom%20T.%20Hall,lyrics-mood-proxy-v1
+n-sync-together-again-625e604f,Together Again,'n Sync,love,0.6508,0.4687,0.4961,0.5771,0.1422,https://open.spotify.com/search/Together%20Again%20%27n%20Sync,lyrics-mood-proxy-v1
+warren-zevon-you-re-a-whole-different-pers-351ef93f,You're A Whole Different Person When You're Scared,Warren Zevon,fear,0.3567,0.4711,0.3864,0.4562,0.2162,https://open.spotify.com/search/You%27re%20A%20Whole%20Different%20Person%20When%20You%27re%20Scared%20Warren%20Zevon,lyrics-mood-proxy-v1
+celine-dion-it-s-hard-to-say-goodbye-564e8ff4,It's Hard To Say Goodbye,Celine Dion,love,0.6473,0.4923,0.5147,0.5766,0.1125,https://open.spotify.com/search/It%27s%20Hard%20To%20Say%20Goodbye%20Celine%20Dion,lyrics-mood-proxy-v1
+dan-fogelberg-old-tennessee-51da42d3,Old Tennessee,Dan Fogelberg,sad,0.3121,0.3811,0.3111,0.6964,0.1031,https://open.spotify.com/search/Old%20Tennessee%20Dan%20Fogelberg,lyrics-mood-proxy-v1
+britney-spears-guilty-7c44fa8c,Guilty,Britney Spears,angry,0.2974,0.7386,0.5726,0.3394,0.0488,https://open.spotify.com/search/Guilty%20Britney%20Spears,lyrics-mood-proxy-v1
+reo-speedwagon-meet-me-on-the-mountain-550d30cb,Meet Me On The Mountain,Reo Speedwagon,happy,0.7327,0.6486,0.6648,0.3229,0.0552,https://open.spotify.com/search/Meet%20Me%20On%20The%20Mountain%20Reo%20Speedwagon,lyrics-mood-proxy-v1
+megadeth-anarchy-in-the-uk-3ea01d3c,Anarchy In The Uk,Megadeth,sad,0.3506,0.3132,0.3068,0.6386,0.1318,https://open.spotify.com/search/Anarchy%20In%20The%20Uk%20Megadeth,lyrics-mood-proxy-v1
+quasi-it-s-raining-13699c71,It's Raining,Quasi,sad,0.2519,0.3631,0.3495,0.6054,0.1279,https://open.spotify.com/search/It%27s%20Raining%20Quasi,lyrics-mood-proxy-v1
+america-never-found-the-time-04ee8ba6,Never Found The Time,America,sad,0.3018,0.3146,0.3711,0.6760,0.1218,https://open.spotify.com/search/Never%20Found%20The%20Time%20America,lyrics-mood-proxy-v1
+talking-heads-take-me-to-the-river-c9dc8eff,Take Me To The River,Talking Heads,love,0.6838,0.4414,0.5356,0.5065,0.0933,https://open.spotify.com/search/Take%20Me%20To%20The%20River%20Talking%20Heads,lyrics-mood-proxy-v1
+america-sarah-db94eb22,Sarah,America,sad,0.2964,0.2738,0.3451,0.6401,0.1713,https://open.spotify.com/search/Sarah%20America,lyrics-mood-proxy-v1
+jason-mraz-everything-is-sound-0c503a99,Everything Is Sound,Jason Mraz,sad,0.3267,0.2966,0.3087,0.7008,0.1513,https://open.spotify.com/search/Everything%20Is%20Sound%20Jason%20Mraz,lyrics-mood-proxy-v1
+planetshakers-i-m-forever-yours-973abfe9,I'm Forever Yours,Planetshakers,love,0.6709,0.4886,0.4820,0.4700,0.1656,https://open.spotify.com/search/I%27m%20Forever%20Yours%20Planetshakers,lyrics-mood-proxy-v1
+nazareth-hire-and-fire-410fc552,Hire And Fire,Nazareth,calm,0.5763,0.2997,0.3401,0.6977,0.2444,https://open.spotify.com/search/Hire%20And%20Fire%20Nazareth,lyrics-mood-proxy-v1
+kris-kristofferson-third-world-war-6f06017c,Third World War,Kris Kristofferson,sad,0.2823,0.3042,0.2842,0.6843,0.1346,https://open.spotify.com/search/Third%20World%20War%20Kris%20Kristofferson,lyrics-mood-proxy-v1
+rihanna-should-i-19d4be4d,Should I,Rihanna,sad,0.3425,0.3088,0.3983,0.7056,0.1145,https://open.spotify.com/search/Should%20I%20Rihanna,lyrics-mood-proxy-v1
+u2-a-room-at-the-heartbreak-hotel-9a084e3d,A Room At The Heartbreak Hotel,U2,love,0.6243,0.4629,0.5023,0.5496,0.0683,https://open.spotify.com/search/A%20Room%20At%20The%20Heartbreak%20Hotel%20U2,lyrics-mood-proxy-v1
+amy-grant-anywhere-with-jesus-93fbfa94,Anywhere With Jesus,Amy Grant,fear,0.3548,0.4922,0.4376,0.4911,0.1932,https://open.spotify.com/search/Anywhere%20With%20Jesus%20Amy%20Grant,lyrics-mood-proxy-v1
+foo-fighters-shake-your-blood-ffa58c3e,Shake Your Blood,Foo Fighters,sad,0.3584,0.3634,0.3152,0.6278,0.1297,https://open.spotify.com/search/Shake%20Your%20Blood%20Foo%20Fighters,lyrics-mood-proxy-v1
+waylon-jennings-bridge-over-troubled-water-6654e6c8,Bridge Over Troubled Water,Waylon Jennings,sad,0.2810,0.3143,0.2932,0.6772,0.1615,https://open.spotify.com/search/Bridge%20Over%20Troubled%20Water%20Waylon%20Jennings,lyrics-mood-proxy-v1
+rolling-stones-corinna-d432feab,Corinna,Rolling Stones,love,0.7228,0.4663,0.5488,0.5060,0.1211,https://open.spotify.com/search/Corinna%20Rolling%20Stones,lyrics-mood-proxy-v1
+john-mellencamp-my-sweet-love-ddeb0bed,My Sweet Love,John Mellencamp,love,0.6824,0.4587,0.5687,0.5661,0.1332,https://open.spotify.com/search/My%20Sweet%20Love%20John%20Mellencamp,lyrics-mood-proxy-v1
+paul-mccartney-dance-tonight-0f206de9,Dance Tonight,Paul McCartney,calm,0.5485,0.3679,0.3454,0.6399,0.2635,https://open.spotify.com/search/Dance%20Tonight%20Paul%20McCartney,lyrics-mood-proxy-v1
+miley-cyrus-make-some-noise-a33b2859,Make Some Noise,Miley Cyrus,sad,0.3434,0.3725,0.3141,0.6210,0.1377,https://open.spotify.com/search/Make%20Some%20Noise%20Miley%20Cyrus,lyrics-mood-proxy-v1
+system-of-a-down-hypnotize-bd16fe07,Hypnotize,System Of A Down,fear,0.3120,0.5496,0.4221,0.5080,0.2336,https://open.spotify.com/search/Hypnotize%20System%20Of%20A%20Down,lyrics-mood-proxy-v1
+peter-cetera-one-clear-voice-51c28c90,One Clear Voice,Peter Cetera,fear,0.2951,0.4882,0.4014,0.4560,0.2008,https://open.spotify.com/search/One%20Clear%20Voice%20Peter%20Cetera,lyrics-mood-proxy-v1
+justin-bieber-thinking-about-you-eed3f07a,Thinking About You,Justin Bieber,happy,0.7629,0.5975,0.6928,0.3419,0.1161,https://open.spotify.com/search/Thinking%20About%20You%20Justin%20Bieber,lyrics-mood-proxy-v1
+wanda-jackson-in-the-middle-of-a-heartache-c81498fb,In The Middle Of A Heartache,Wanda Jackson,love,0.6782,0.4781,0.5745,0.5088,0.1490,https://open.spotify.com/search/In%20The%20Middle%20Of%20A%20Heartache%20Wanda%20Jackson,lyrics-mood-proxy-v1
+erasure-when-will-i-see-you-again-8cc82fbc,When Will I See You Again,Erasure,love,0.6663,0.4971,0.5099,0.5176,0.1395,https://open.spotify.com/search/When%20Will%20I%20See%20You%20Again%20Erasure,lyrics-mood-proxy-v1
+wanda-jackson-everything-is-beautiful-1057f7d3,Everything Is Beautiful,Wanda Jackson,happy,0.6623,0.6850,0.6382,0.2606,0.1476,https://open.spotify.com/search/Everything%20Is%20Beautiful%20Wanda%20Jackson,lyrics-mood-proxy-v1
+pitbull-daddy-s-little-girl-feecee62,Daddy's Little Girl,Pitbull,love,0.6576,0.4973,0.5024,0.5304,0.0616,https://open.spotify.com/search/Daddy%27s%20Little%20Girl%20Pitbull,lyrics-mood-proxy-v1
+europe-lights-and-shadows-295b5d3d,Lights And Shadows,Europe,love,0.6828,0.4362,0.5733,0.5182,0.1469,https://open.spotify.com/search/Lights%20And%20Shadows%20Europe,lyrics-mood-proxy-v1
+kirsty-maccoll-sun-on-the-water-3fb6bc16,Sun On The Water,Kirsty Maccoll,happy,0.6979,0.6498,0.6473,0.3350,0.1195,https://open.spotify.com/search/Sun%20On%20The%20Water%20Kirsty%20Maccoll,lyrics-mood-proxy-v1
+pharrell-williams-that-girl-698a5e66,That Girl,Pharrell Williams,love,0.7245,0.4498,0.5523,0.5826,0.1552,https://open.spotify.com/search/That%20Girl%20Pharrell%20Williams,lyrics-mood-proxy-v1
+alphaville-the-mysteries-of-love-b6c02ff8,The Mysteries Of Love,Alphaville,love,0.6320,0.5143,0.4857,0.5079,0.0688,https://open.spotify.com/search/The%20Mysteries%20Of%20Love%20Alphaville,lyrics-mood-proxy-v1
+omd-never-turn-away-99a8c1a5,Never Turn Away,Omd,angry,0.2894,0.6924,0.5854,0.2994,0.1164,https://open.spotify.com/search/Never%20Turn%20Away%20Omd,lyrics-mood-proxy-v1
+elvis-costello-living-in-paradise-2c2b295e,Living In Paradise,Elvis Costello,calm,0.5312,0.3354,0.4277,0.7294,0.2783,https://open.spotify.com/search/Living%20In%20Paradise%20Elvis%20Costello,lyrics-mood-proxy-v1
+nickelback-hollywood-1d5b50e4,Hollywood,Nickelback,sad,0.2564,0.3499,0.3317,0.6234,0.0940,https://open.spotify.com/search/Hollywood%20Nickelback,lyrics-mood-proxy-v1
+neil-diamond-desiree-e07e3c38,Desiree,Neil Diamond,sad,0.2731,0.3002,0.3313,0.6503,0.0923,https://open.spotify.com/search/Desiree%20Neil%20Diamond,lyrics-mood-proxy-v1
+ufo-young-blood-d65cacb8,Young Blood,Ufo,sad,0.3107,0.2776,0.3472,0.6672,0.1501,https://open.spotify.com/search/Young%20Blood%20Ufo,lyrics-mood-proxy-v1
+david-bowie-days-ccf4745f,Days,David Bowie,sad,0.2985,0.3554,0.3258,0.5985,0.1360,https://open.spotify.com/search/Days%20David%20Bowie,lyrics-mood-proxy-v1
+david-bowie-5-15-the-angels-have-gone-d98372ae,5.15 The Angels Have Gone,David Bowie,love,0.6517,0.4991,0.5026,0.5704,0.1417,https://open.spotify.com/search/5.15%20The%20Angels%20Have%20Gone%20David%20Bowie,lyrics-mood-proxy-v1
+erik-santos-kung-maaalala-mo-bf7f2cda,Kung Maaalala Mo,Erik Santos,angry,0.3153,0.7277,0.5445,0.2500,0.0812,https://open.spotify.com/search/Kung%20Maaalala%20Mo%20Erik%20Santos,lyrics-mood-proxy-v1
+waterboys-the-girl-in-the-swing-ffc72ba3,The Girl In The Swing,Waterboys,love,0.7238,0.4856,0.5813,0.5079,0.1399,https://open.spotify.com/search/The%20Girl%20In%20The%20Swing%20Waterboys,lyrics-mood-proxy-v1
+lady-gaga-strangers-5e8ce961,Strangers,Lady Gaga,happy,0.6706,0.6403,0.6636,0.3478,0.1148,https://open.spotify.com/search/Strangers%20Lady%20Gaga,lyrics-mood-proxy-v1
+kenny-loggins-love-has-come-of-age-4f17c5b1,Love Has Come Of Age,Kenny Loggins,love,0.7408,0.4710,0.5374,0.5215,0.1048,https://open.spotify.com/search/Love%20Has%20Come%20Of%20Age%20Kenny%20Loggins,lyrics-mood-proxy-v1
+westlife-i-ll-see-you-again-ab42a35d,I'll See You Again,Westlife,sad,0.3131,0.3548,0.2823,0.6514,0.0944,https://open.spotify.com/search/I%27ll%20See%20You%20Again%20Westlife,lyrics-mood-proxy-v1
+o-a-r-sail-away-5441518b,Sail Away,O.A.R.,sad,0.3015,0.3595,0.3730,0.6299,0.0952,https://open.spotify.com/search/Sail%20Away%20O.A.R.,lyrics-mood-proxy-v1
+robbie-williams-so-this-is-christmas-f26cda27,So This Is Christmas,Robbie Williams,angry,0.3044,0.7616,0.5054,0.3305,0.0939,https://open.spotify.com/search/So%20This%20Is%20Christmas%20Robbie%20Williams,lyrics-mood-proxy-v1
+noa-u-n-i-281e6da4,U.N.I.,Noa,sad,0.2486,0.3250,0.2869,0.7042,0.2023,https://open.spotify.com/search/U.N.I.%20Noa,lyrics-mood-proxy-v1
+bee-gees-after-dark-7bb47695,After Dark,Bee Gees,calm,0.5191,0.2662,0.3869,0.6593,0.2922,https://open.spotify.com/search/After%20Dark%20Bee%20Gees,lyrics-mood-proxy-v1
+van-morrison-good-morning-blues-28100195,Good Morning Blues,Van Morrison,sad,0.3499,0.2954,0.2917,0.6829,0.1976,https://open.spotify.com/search/Good%20Morning%20Blues%20Van%20Morrison,lyrics-mood-proxy-v1
+steely-dan-pearl-of-the-quarter-47f88aa3,Pearl Of The Quarter,Steely Dan,happy,0.7732,0.7014,0.7375,0.3147,0.0551,https://open.spotify.com/search/Pearl%20Of%20The%20Quarter%20Steely%20Dan,lyrics-mood-proxy-v1
+green-day-lady-cobra-7f0f1fcc,Lady Cobra,Green Day,sad,0.3323,0.3030,0.3127,0.6660,0.0920,https://open.spotify.com/search/Lady%20Cobra%20Green%20Day,lyrics-mood-proxy-v1
+glee-disco-inferno-f3a2488a,Disco Inferno,Glee,angry,0.3381,0.6836,0.5782,0.2811,0.0964,https://open.spotify.com/search/Disco%20Inferno%20Glee,lyrics-mood-proxy-v1
+george-harrison-that-which-i-have-lost-2200c66f,That Which I Have Lost,George Harrison,angry,0.3412,0.7381,0.5384,0.2806,0.0454,https://open.spotify.com/search/That%20Which%20I%20Have%20Lost%20George%20Harrison,lyrics-mood-proxy-v1
+howard-jones-last-supper-1ae3b6dc,Last Supper,Howard Jones,love,0.6377,0.5167,0.6015,0.5277,0.0688,https://open.spotify.com/search/Last%20Supper%20Howard%20Jones,lyrics-mood-proxy-v1
+journey-mystery-mountain-5e492c7f,Mystery Mountain,Journey,calm,0.4906,0.3053,0.3327,0.6371,0.2578,https://open.spotify.com/search/Mystery%20Mountain%20Journey,lyrics-mood-proxy-v1
+alison-krauss-rich-woman-ed91a791,Rich Woman,Alison Krauss,calm,0.5212,0.3160,0.3908,0.7275,0.2715,https://open.spotify.com/search/Rich%20Woman%20Alison%20Krauss,lyrics-mood-proxy-v1
+john-mellencamp-what-if-i-came-knocking-753ed3f2,What If I Came Knocking,John Mellencamp,fear,0.3725,0.5439,0.4126,0.5150,0.1424,https://open.spotify.com/search/What%20If%20I%20Came%20Knocking%20John%20Mellencamp,lyrics-mood-proxy-v1
+enrique-iglesias-forgiveness-faaeb75f,Forgiveness,Enrique Iglesias,love,0.6818,0.4746,0.5494,0.5451,0.1193,https://open.spotify.com/search/Forgiveness%20Enrique%20Iglesias,lyrics-mood-proxy-v1
+indiana-bible-college-you-are-6dddd515,You Are,Indiana Bible College,love,0.7104,0.4163,0.5621,0.5506,0.0984,https://open.spotify.com/search/You%20Are%20Indiana%20Bible%20College,lyrics-mood-proxy-v1
+nitty-gritty-dirt-band-rocky-top-d5cbef1d,Rocky Top,Nitty Gritty Dirt Band,angry,0.3369,0.7442,0.5421,0.3008,0.1301,https://open.spotify.com/search/Rocky%20Top%20Nitty%20Gritty%20Dirt%20Band,lyrics-mood-proxy-v1
+mariah-carey-open-arms-c9d32140,Open Arms,Mariah Carey,happy,0.6750,0.7063,0.6256,0.3022,0.1102,https://open.spotify.com/search/Open%20Arms%20Mariah%20Carey,lyrics-mood-proxy-v1
+outkast-greatest-show-on-earth-a1ba05c0,Greatest Show On Earth,Outkast,love,0.6859,0.4384,0.4842,0.4959,0.1047,https://open.spotify.com/search/Greatest%20Show%20On%20Earth%20Outkast,lyrics-mood-proxy-v1
+ocean-colour-scene-i-am-the-news-5924d498,I Am The News,Ocean Colour Scene,angry,0.3143,0.7649,0.5756,0.3117,0.1141,https://open.spotify.com/search/I%20Am%20The%20News%20Ocean%20Colour%20Scene,lyrics-mood-proxy-v1
+mud-let-s-have-a-party-cfeb0a25,Let's Have A Party,Mud,angry,0.3143,0.7630,0.5459,0.2952,0.0416,https://open.spotify.com/search/Let%27s%20Have%20A%20Party%20Mud,lyrics-mood-proxy-v1
+prince-diamonds-and-pearls-e1cab1b0,Diamonds And Pearls,Prince,love,0.6227,0.4690,0.5628,0.4714,0.0539,https://open.spotify.com/search/Diamonds%20And%20Pearls%20Prince,lyrics-mood-proxy-v1
+waterboys-don-t-bang-the-drum-38f291a2,Don't Bang The Drum,Waterboys,love,0.6514,0.4957,0.5094,0.5335,0.0993,https://open.spotify.com/search/Don%27t%20Bang%20The%20Drum%20Waterboys,lyrics-mood-proxy-v1
+hank-snow-little-britches-0ff5c397,Little Britches,Hank Snow,fear,0.2979,0.5365,0.3628,0.4388,0.1791,https://open.spotify.com/search/Little%20Britches%20Hank%20Snow,lyrics-mood-proxy-v1
+marillion-sounds-that-can-t-be-made-6f4601ef,Sounds That Can't Be Made,Marillion,happy,0.7276,0.6399,0.6464,0.2734,0.0409,https://open.spotify.com/search/Sounds%20That%20Can%27t%20Be%20Made%20Marillion,lyrics-mood-proxy-v1
+carpenters-i-won-t-last-a-day-without-you-38bb0763,I Won't Last A Day Without You,Carpenters,happy,0.7439,0.6220,0.6298,0.3256,0.1034,https://open.spotify.com/search/I%20Won%27t%20Last%20A%20Day%20Without%20You%20Carpenters,lyrics-mood-proxy-v1
+wishbone-ash-new-rising-star-76e89ab8,New Rising Star,Wishbone Ash,angry,0.2913,0.6726,0.6066,0.2651,0.0506,https://open.spotify.com/search/New%20Rising%20Star%20Wishbone%20Ash,lyrics-mood-proxy-v1
+meat-loaf-surf-s-up-7ab7e69d,Surf's Up,Meat Loaf,love,0.6757,0.4822,0.5045,0.5189,0.1354,https://open.spotify.com/search/Surf%27s%20Up%20Meat%20Loaf,lyrics-mood-proxy-v1
+kinks-brainwashed-bb178e76,Brainwashed,Kinks,angry,0.3572,0.6849,0.5036,0.3253,0.1353,https://open.spotify.com/search/Brainwashed%20Kinks,lyrics-mood-proxy-v1
+steely-dan-kid-charlemagne-0b028d47,Kid Charlemagne,Steely Dan,calm,0.5425,0.2842,0.3429,0.6604,0.3260,https://open.spotify.com/search/Kid%20Charlemagne%20Steely%20Dan,lyrics-mood-proxy-v1
+billie-holiday-billie-blues-a1ee531b,Billie Blues,Billie Holiday,love,0.6310,0.4483,0.5645,0.4985,0.1211,https://open.spotify.com/search/Billie%20Blues%20Billie%20Holiday,lyrics-mood-proxy-v1
+celine-dion-i-believe-in-you-e014cef6,I Believe In You,Celine Dion,love,0.6619,0.4736,0.4809,0.5451,0.0836,https://open.spotify.com/search/I%20Believe%20In%20You%20Celine%20Dion,lyrics-mood-proxy-v1
+kenny-rogers-don-t-look-in-my-eyes-03820f3e,Don't Look In My Eyes,Kenny Rogers,sad,0.2835,0.3620,0.3871,0.6146,0.1998,https://open.spotify.com/search/Don%27t%20Look%20In%20My%20Eyes%20Kenny%20Rogers,lyrics-mood-proxy-v1
+engelbert-humperdinck-she-7c6098aa,She,Engelbert Humperdinck,happy,0.7398,0.6156,0.6940,0.3423,0.1362,https://open.spotify.com/search/She%20Engelbert%20Humperdinck,lyrics-mood-proxy-v1
+meat-loaf-out-of-the-frying-pan-c6acca62,Out Of The Frying Pan,Meat Loaf,sad,0.3454,0.2840,0.3223,0.6302,0.0843,https://open.spotify.com/search/Out%20Of%20The%20Frying%20Pan%20Meat%20Loaf,lyrics-mood-proxy-v1
+selena-gomez-middle-of-nowhere-79661ec7,Middle Of Nowhere,Selena Gomez,sad,0.2653,0.3689,0.3939,0.6220,0.1979,https://open.spotify.com/search/Middle%20Of%20Nowhere%20Selena%20Gomez,lyrics-mood-proxy-v1
+frankie-valli-silence-is-golden-c9b8c9cf,Silence Is Golden,Frankie Valli,angry,0.2546,0.6510,0.5544,0.2928,0.0713,https://open.spotify.com/search/Silence%20Is%20Golden%20Frankie%20Valli,lyrics-mood-proxy-v1
+foo-fighters-see-you-1af951c2,See You,Foo Fighters,angry,0.3120,0.6656,0.5991,0.2444,0.1259,https://open.spotify.com/search/See%20You%20Foo%20Fighters,lyrics-mood-proxy-v1
+paul-simon-the-obvious-child-986bab76,The Obvious Child,Paul Simon,happy,0.6857,0.7053,0.6756,0.2715,0.0470,https://open.spotify.com/search/The%20Obvious%20Child%20Paul%20Simon,lyrics-mood-proxy-v1
+bob-marley-high-tide-or-low-tide-8edc1c69,High Tide Or Low Tide,Bob Marley,sad,0.3041,0.3011,0.3138,0.6256,0.1918,https://open.spotify.com/search/High%20Tide%20Or%20Low%20Tide%20Bob%20Marley,lyrics-mood-proxy-v1
+bette-midler-alright-okay-you-win-120125f4,"Alright, Okay, You Win",Bette Midler,love,0.6893,0.4267,0.5354,0.5577,0.1472,https://open.spotify.com/search/Alright%2C%20Okay%2C%20You%20Win%20Bette%20Midler,lyrics-mood-proxy-v1
+you-am-i-rumble-55748160,Rumble,You Am I,angry,0.2489,0.6891,0.5624,0.3098,0.0619,https://open.spotify.com/search/Rumble%20You%20Am%20I,lyrics-mood-proxy-v1
+nina-simone-don-t-explain-ac4f34fc,Don't Explain,Nina Simone,love,0.6503,0.4214,0.5437,0.5193,0.1507,https://open.spotify.com/search/Don%27t%20Explain%20Nina%20Simone,lyrics-mood-proxy-v1
+uriah-heep-sell-your-soul-a6e79f20,Sell Your Soul,Uriah Heep,fear,0.3440,0.4857,0.3955,0.4055,0.1536,https://open.spotify.com/search/Sell%20Your%20Soul%20Uriah%20Heep,lyrics-mood-proxy-v1
+sting-let-your-soul-be-your-pilot-cc7e7cb6,Let Your Soul Be Your Pilot,Sting,sad,0.3460,0.2732,0.3457,0.6732,0.1641,https://open.spotify.com/search/Let%20Your%20Soul%20Be%20Your%20Pilot%20Sting,lyrics-mood-proxy-v1
+queen-seven-seas-of-rhye-37733c6f,Seven Seas Of Rhye,Queen,angry,0.2503,0.7343,0.5887,0.2533,0.1357,https://open.spotify.com/search/Seven%20Seas%20Of%20Rhye%20Queen,lyrics-mood-proxy-v1
+ella-fitzgerald-air-mail-special-5c105712,Air Mail Special,Ella Fitzgerald,sad,0.2917,0.2681,0.3644,0.6819,0.1247,https://open.spotify.com/search/Air%20Mail%20Special%20Ella%20Fitzgerald,lyrics-mood-proxy-v1
+regine-velasquez-and-i-m-telling-you-55e79e82,And I'm Telling You,Regine Velasquez,love,0.7110,0.5203,0.5069,0.5293,0.1352,https://open.spotify.com/search/And%20I%27m%20Telling%20You%20Regine%20Velasquez,lyrics-mood-proxy-v1
+kid-rock-picture-57b60b54,Picture,Kid Rock,happy,0.6736,0.6431,0.6740,0.2916,0.1534,https://open.spotify.com/search/Picture%20Kid%20Rock,lyrics-mood-proxy-v1
+within-temptation-forgiven-4183e61c,Forgiven,Within Temptation,happy,0.6591,0.6944,0.7294,0.3510,0.1095,https://open.spotify.com/search/Forgiven%20Within%20Temptation,lyrics-mood-proxy-v1
+usher-lingerie-4e98209b,Lingerie,Usher,love,0.6425,0.4778,0.5037,0.5193,0.0976,https://open.spotify.com/search/Lingerie%20Usher,lyrics-mood-proxy-v1
+joni-mitchell-answer-me-my-love-e4176484,"Answer Me, My Love",Joni Mitchell,love,0.7241,0.4602,0.5412,0.5682,0.1257,https://open.spotify.com/search/Answer%20Me%2C%20My%20Love%20Joni%20Mitchell,lyrics-mood-proxy-v1
+uriah-heep-masquerade-8740d7e7,Masquerade,Uriah Heep,angry,0.3364,0.6924,0.5760,0.2665,0.0444,https://open.spotify.com/search/Masquerade%20Uriah%20Heep,lyrics-mood-proxy-v1
+don-mclean-that-s-all-right-10bbfe6b,That's All Right,Don McLean,sad,0.2663,0.3463,0.2875,0.6993,0.0969,https://open.spotify.com/search/That%27s%20All%20Right%20Don%20McLean,lyrics-mood-proxy-v1
+judas-priest-come-and-get-it-e3f259a6,Come And Get It,Judas Priest,happy,0.7683,0.6546,0.6939,0.2853,0.1387,https://open.spotify.com/search/Come%20And%20Get%20It%20Judas%20Priest,lyrics-mood-proxy-v1
+van-morrison-contemplation-rose-2271699b,Contemplation Rose,Van Morrison,sad,0.3055,0.3053,0.3360,0.6577,0.1232,https://open.spotify.com/search/Contemplation%20Rose%20Van%20Morrison,lyrics-mood-proxy-v1
+thin-lizzy-romeo-and-the-lonely-girl-bec89a66,Romeo And The Lonely Girl,Thin Lizzy,sad,0.2575,0.3320,0.3150,0.7001,0.1185,https://open.spotify.com/search/Romeo%20And%20The%20Lonely%20Girl%20Thin%20Lizzy,lyrics-mood-proxy-v1
+venom-gypsy-f425140c,Gypsy,Venom,happy,0.7662,0.6729,0.6502,0.2753,0.0663,https://open.spotify.com/search/Gypsy%20Venom,lyrics-mood-proxy-v1
+dolly-parton-afraid-to-live-and-afraid-of--10dfbd1f,Afraid To Live And Afraid Of Dying,Dolly Parton,fear,0.2746,0.5096,0.3860,0.4484,0.2273,https://open.spotify.com/search/Afraid%20To%20Live%20And%20Afraid%20Of%20Dying%20Dolly%20Parton,lyrics-mood-proxy-v1
+heart-how-beautiful-f5ab7854,How Beautiful,Heart,love,0.7031,0.4786,0.5606,0.5719,0.1093,https://open.spotify.com/search/How%20Beautiful%20Heart,lyrics-mood-proxy-v1
+judas-priest-breaking-the-law-c47c3fb6,Breaking The Law,Judas Priest,angry,0.3512,0.7299,0.5434,0.3172,0.1237,https://open.spotify.com/search/Breaking%20The%20Law%20Judas%20Priest,lyrics-mood-proxy-v1
+chris-rea-sandwriting-f80d1a62,Sandwriting,Chris Rea,happy,0.7248,0.6753,0.7217,0.2912,0.0564,https://open.spotify.com/search/Sandwriting%20Chris%20Rea,lyrics-mood-proxy-v1
+kylie-minogue-nu-di-ty-368840ea,Nu-di-ty,Kylie Minogue,sad,0.2670,0.2977,0.3033,0.6464,0.1543,https://open.spotify.com/search/Nu-di-ty%20Kylie%20Minogue,lyrics-mood-proxy-v1
+uriah-heep-blood-red-roses-fb907f7d,Blood Red Roses,Uriah Heep,love,0.7388,0.5172,0.5855,0.4971,0.0952,https://open.spotify.com/search/Blood%20Red%20Roses%20Uriah%20Heep,lyrics-mood-proxy-v1
+arrogant-worms-dad-threw-up-on-christmas-d-a09b6a9e,Dad Threw Up On Christmas Day,Arrogant Worms,happy,0.7259,0.6682,0.6322,0.3739,0.1379,https://open.spotify.com/search/Dad%20Threw%20Up%20On%20Christmas%20Day%20Arrogant%20Worms,lyrics-mood-proxy-v1
+marianne-faithfull-somebody-loves-you-f547f6c0,Somebody Loves You,Marianne Faithfull,happy,0.7078,0.6470,0.6836,0.3110,0.1529,https://open.spotify.com/search/Somebody%20Loves%20You%20Marianne%20Faithfull,lyrics-mood-proxy-v1
+kid-rock-run-off-to-la-f4bc0f85,Run Off To La,Kid Rock,calm,0.5865,0.3578,0.3899,0.7308,0.2765,https://open.spotify.com/search/Run%20Off%20To%20La%20Kid%20Rock,lyrics-mood-proxy-v1
+rick-astley-romeo-loves-juliet-9280d00f,Romeo Loves Juliet,Rick Astley,love,0.6976,0.5066,0.5754,0.5429,0.1247,https://open.spotify.com/search/Romeo%20Loves%20Juliet%20Rick%20Astley,lyrics-mood-proxy-v1
+wishbone-ash-can-t-fight-love-c35ba106,Can't Fight Love,Wishbone Ash,love,0.7347,0.4997,0.5927,0.5657,0.0786,https://open.spotify.com/search/Can%27t%20Fight%20Love%20Wishbone%20Ash,lyrics-mood-proxy-v1
+frank-zappa-hungry-freaks-daddy-f9290eed,"Hungry Freaks, Daddy",Frank Zappa,happy,0.6677,0.7087,0.6949,0.3517,0.1359,https://open.spotify.com/search/Hungry%20Freaks%2C%20Daddy%20Frank%20Zappa,lyrics-mood-proxy-v1
+the-beatles-imagine-88ba138e,Imagine,The Beatles,happy,0.7132,0.6016,0.6672,0.3483,0.1196,https://open.spotify.com/search/Imagine%20The%20Beatles,lyrics-mood-proxy-v1
+judy-garland-it-s-love-i-m-after-925ec3e6,It's Love I'm After,Judy Garland,love,0.6373,0.4391,0.5774,0.4986,0.1484,https://open.spotify.com/search/It%27s%20Love%20I%27m%20After%20Judy%20Garland,lyrics-mood-proxy-v1
+supertramp-breakfast-in-america-6604615b,Breakfast In America,Supertramp,sad,0.3531,0.2872,0.3133,0.7049,0.1065,https://open.spotify.com/search/Breakfast%20In%20America%20Supertramp,lyrics-mood-proxy-v1
+r-kelly-havin-a-baby-c6ee94a4,Havin' A Baby,R. Kelly,happy,0.7397,0.6328,0.6659,0.3642,0.1316,https://open.spotify.com/search/Havin%27%20A%20Baby%20R.%20Kelly,lyrics-mood-proxy-v1
+morrissey-the-last-of-the-famous-internati-5198bbff,The Last Of The Famous International Playboys,Morrissey,calm,0.4921,0.3030,0.3698,0.6861,0.2562,https://open.spotify.com/search/The%20Last%20Of%20The%20Famous%20International%20Playboys%20Morrissey,lyrics-mood-proxy-v1
+our-lady-peace-supersatellite-be561b6f,Supersatellite,Our Lady Peace,sad,0.2936,0.2765,0.3673,0.7077,0.0936,https://open.spotify.com/search/Supersatellite%20Our%20Lady%20Peace,lyrics-mood-proxy-v1
+z-ro-still-standing-5c304461,Still Standing,Z-Ro,sad,0.2980,0.2732,0.3380,0.6068,0.1382,https://open.spotify.com/search/Still%20Standing%20Z-Ro,lyrics-mood-proxy-v1
+natalie-cole-more-than-you-ll-ever-know-21abc196,More Than You'll Ever Know,Natalie Cole,love,0.6972,0.4171,0.5890,0.5566,0.0699,https://open.spotify.com/search/More%20Than%20You%27ll%20Ever%20Know%20Natalie%20Cole,lyrics-mood-proxy-v1
+soundgarden-heretic-c480dbd6,Heretic,Soundgarden,sad,0.3267,0.3579,0.2930,0.6186,0.1481,https://open.spotify.com/search/Heretic%20Soundgarden,lyrics-mood-proxy-v1
+within-temptation-summertime-sadness-511ca9b3,Summertime Sadness,Within Temptation,sad,0.2855,0.3615,0.3673,0.6794,0.1880,https://open.spotify.com/search/Summertime%20Sadness%20Within%20Temptation,lyrics-mood-proxy-v1
+enigma-goodbye-milky-way-6bb8c6c9,Goodbye Milky Way,Enigma,sad,0.3277,0.3120,0.2892,0.6203,0.1701,https://open.spotify.com/search/Goodbye%20Milky%20Way%20Enigma,lyrics-mood-proxy-v1
+raffi-this-little-light-of-mine-e3341283,This Little Light Of Mine,Raffi,happy,0.7494,0.6017,0.7371,0.3245,0.1125,https://open.spotify.com/search/This%20Little%20Light%20Of%20Mine%20Raffi,lyrics-mood-proxy-v1
+billy-joel-last-of-the-big-time-spenders-0f9872b2,Last Of The Big Time Spenders,Billy Joel,angry,0.3311,0.7583,0.5150,0.3217,0.1243,https://open.spotify.com/search/Last%20Of%20The%20Big%20Time%20Spenders%20Billy%20Joel,lyrics-mood-proxy-v1
+zebrahead-broadcast-to-the-world-8529cbec,Broadcast To The World,Zebrahead,sad,0.3089,0.3015,0.3269,0.6576,0.1359,https://open.spotify.com/search/Broadcast%20To%20The%20World%20Zebrahead,lyrics-mood-proxy-v1
+justin-bieber-mama-s-boy-29e08983,Mama's Boy,Justin Bieber,angry,0.2836,0.7259,0.5076,0.3443,0.1279,https://open.spotify.com/search/Mama%27s%20Boy%20Justin%20Bieber,lyrics-mood-proxy-v1
+phineas-and-ferb-danny-s-story-71a5c6cd,Danny's Story,Phineas And Ferb,love,0.7040,0.4559,0.5831,0.5161,0.1533,https://open.spotify.com/search/Danny%27s%20Story%20Phineas%20And%20Ferb,lyrics-mood-proxy-v1
+lloyd-cole-four-flights-up-3e3e50f6,Four Flights Up,Lloyd Cole,sad,0.2688,0.3004,0.4003,0.6773,0.1700,https://open.spotify.com/search/Four%20Flights%20Up%20Lloyd%20Cole,lyrics-mood-proxy-v1
+dire-straits-what-s-the-matter-baby-d157b4eb,What's The Matter Baby?,Dire Straits,sad,0.2509,0.3105,0.3806,0.6807,0.1683,https://open.spotify.com/search/What%27s%20The%20Matter%20Baby%3F%20Dire%20Straits,lyrics-mood-proxy-v1
+deep-purple-pictured-within-44827149,Pictured Within,Deep Purple,love,0.6245,0.4517,0.5358,0.5364,0.1159,https://open.spotify.com/search/Pictured%20Within%20Deep%20Purple,lyrics-mood-proxy-v1
+arrogant-worms-the-christmas-song-88bb131e,The Christmas Song,Arrogant Worms,angry,0.2612,0.6599,0.5986,0.2745,0.1414,https://open.spotify.com/search/The%20Christmas%20Song%20Arrogant%20Worms,lyrics-mood-proxy-v1
+leann-rimes-break-me-down-a65899eb,Break Me Down,Leann Rimes,happy,0.7650,0.6690,0.6849,0.3288,0.1521,https://open.spotify.com/search/Break%20Me%20Down%20Leann%20Rimes,lyrics-mood-proxy-v1
+uriah-heep-angel-b766adfe,Angel,Uriah Heep,sad,0.3074,0.3512,0.3679,0.7003,0.1992,https://open.spotify.com/search/Angel%20Uriah%20Heep,lyrics-mood-proxy-v1
+mud-the-cat-crept-in-6bb0c6de,The Cat Crept In,Mud,angry,0.3360,0.7286,0.5379,0.2486,0.1277,https://open.spotify.com/search/The%20Cat%20Crept%20In%20Mud,lyrics-mood-proxy-v1
+queen-stop-all-the-fighting-95f7aafb,Stop All The Fighting,Queen,happy,0.6784,0.6841,0.6653,0.3034,0.1291,https://open.spotify.com/search/Stop%20All%20The%20Fighting%20Queen,lyrics-mood-proxy-v1
+kate-bush-ne-t-enfuis-pas-b4496910,Ne T'enfuis Pas,Kate Bush,happy,0.7461,0.6895,0.7405,0.2775,0.0973,https://open.spotify.com/search/Ne%20T%27enfuis%20Pas%20Kate%20Bush,lyrics-mood-proxy-v1
+squeeze-vicky-verky-e19fce7f,Vicky Verky,Squeeze,sad,0.2777,0.3218,0.3001,0.6924,0.1645,https://open.spotify.com/search/Vicky%20Verky%20Squeeze,lyrics-mood-proxy-v1
+whitesnake-love-an-affection-b4fec1c5,Love An' Affection,Whitesnake,love,0.6292,0.4635,0.4876,0.5230,0.1060,https://open.spotify.com/search/Love%20An%27%20Affection%20Whitesnake,lyrics-mood-proxy-v1
+cake-got-to-move-5bf435aa,got to move,Cake,calm,0.5105,0.3185,0.3585,0.6475,0.2440,https://open.spotify.com/search/got%20to%20move%20Cake,lyrics-mood-proxy-v1
+andy-williams-show-me-d4606b4a,Show Me,Andy Williams,love,0.6852,0.4767,0.5304,0.5780,0.1469,https://open.spotify.com/search/Show%20Me%20Andy%20Williams,lyrics-mood-proxy-v1
+nick-drake-saturday-sun-ead15af6,Saturday Sun,Nick Drake,happy,0.6634,0.6064,0.6345,0.2663,0.0437,https://open.spotify.com/search/Saturday%20Sun%20Nick%20Drake,lyrics-mood-proxy-v1
+olly-murs-i-blame-hollywood-6a874184,I Blame Hollywood,Olly Murs,love,0.6846,0.4438,0.5447,0.5737,0.0641,https://open.spotify.com/search/I%20Blame%20Hollywood%20Olly%20Murs,lyrics-mood-proxy-v1
+ramones-every-time-i-eat-vegetables-i-thin-18d54d44,Every Time I Eat Vegetables I Think Of You,Ramones,angry,0.3202,0.7189,0.5269,0.2279,0.1251,https://open.spotify.com/search/Every%20Time%20I%20Eat%20Vegetables%20I%20Think%20Of%20You%20Ramones,lyrics-mood-proxy-v1
+weird-al-yankovic-i-think-i-m-a-clone-now-5952cddd,I Think I'm A Clone Now,Weird Al Yankovic,sad,0.3018,0.3085,0.3692,0.6567,0.1180,https://open.spotify.com/search/I%20Think%20I%27m%20A%20Clone%20Now%20Weird%20Al%20Yankovic,lyrics-mood-proxy-v1
+peter-gabriel-the-power-of-the-heart-8a63da59,The Power Of The Heart,Peter Gabriel,happy,0.6893,0.7074,0.6488,0.2682,0.1449,https://open.spotify.com/search/The%20Power%20Of%20The%20Heart%20Peter%20Gabriel,lyrics-mood-proxy-v1
+ozzy-osbourne-suicide-solution-dad00fe0,Suicide Solution,Ozzy Osbourne,calm,0.5241,0.3461,0.4065,0.7043,0.2500,https://open.spotify.com/search/Suicide%20Solution%20Ozzy%20Osbourne,lyrics-mood-proxy-v1
+fleetwood-mac-she-s-changing-me-6cf5222c,She's Changing Me,Fleetwood Mac,angry,0.2936,0.7122,0.5450,0.3498,0.1075,https://open.spotify.com/search/She%27s%20Changing%20Me%20Fleetwood%20Mac,lyrics-mood-proxy-v1
+megadeth-my-kingdom-28d43866,My Kingdom,Megadeth,angry,0.3114,0.6765,0.5405,0.2240,0.0367,https://open.spotify.com/search/My%20Kingdom%20Megadeth,lyrics-mood-proxy-v1
+faith-hill-you-will-be-mine-1cd212a2,You Will Be Mine,Faith Hill,sad,0.2590,0.2657,0.3437,0.6637,0.1189,https://open.spotify.com/search/You%20Will%20Be%20Mine%20Faith%20Hill,lyrics-mood-proxy-v1
+europe-lyin-eyes-874dfcda,Lyin' Eyes,Europe,sad,0.2924,0.3081,0.3282,0.6752,0.0942,https://open.spotify.com/search/Lyin%27%20Eyes%20Europe,lyrics-mood-proxy-v1
+kenny-loggins-puppy-song-66810dff,Puppy Song,Kenny Loggins,sad,0.2921,0.3492,0.3244,0.5982,0.1877,https://open.spotify.com/search/Puppy%20Song%20Kenny%20Loggins,lyrics-mood-proxy-v1
+kylie-minogue-harmony-6ef64f24,Harmony,Kylie Minogue,calm,0.5955,0.3497,0.3518,0.6409,0.2640,https://open.spotify.com/search/Harmony%20Kylie%20Minogue,lyrics-mood-proxy-v1
+pink-floyd-scream-thy-last-scream-3214c826,Scream Thy Last Scream,Pink Floyd,angry,0.2932,0.7230,0.5421,0.2990,0.1320,https://open.spotify.com/search/Scream%20Thy%20Last%20Scream%20Pink%20Floyd,lyrics-mood-proxy-v1
+u2-i-still-haven-t-found-what-i-m-looking--29c24f01,I Still Haven't Found What I'm Looking For,U2,angry,0.2630,0.6792,0.6047,0.2392,0.0896,https://open.spotify.com/search/I%20Still%20Haven%27t%20Found%20What%20I%27m%20Looking%20For%20U2,lyrics-mood-proxy-v1
+squeeze-another-nail-in-my-heart-325a3c8a,Another Nail In My Heart,Squeeze,love,0.7266,0.5105,0.5955,0.5383,0.1611,https://open.spotify.com/search/Another%20Nail%20In%20My%20Heart%20Squeeze,lyrics-mood-proxy-v1
+snoop-dogg-girl-like-u-682469eb,Girl Like U,Snoop Dogg,happy,0.7467,0.7042,0.6866,0.3677,0.0753,https://open.spotify.com/search/Girl%20Like%20U%20Snoop%20Dogg,lyrics-mood-proxy-v1
+justin-timberlake-leaving-on-a-jetplane-61acb158,Leaving On A Jetplane,Justin Timberlake,angry,0.3065,0.6802,0.6052,0.3001,0.0567,https://open.spotify.com/search/Leaving%20On%20A%20Jetplane%20Justin%20Timberlake,lyrics-mood-proxy-v1
+devo-man-turned-inside-out-fcc316da,Man Turned Inside Out,Devo,sad,0.3370,0.2978,0.3022,0.6822,0.1185,https://open.spotify.com/search/Man%20Turned%20Inside%20Out%20Devo,lyrics-mood-proxy-v1
+loretta-lynn-i-don-t-wanna-play-house-7e6c9424,I Don't Wanna Play House,Loretta Lynn,happy,0.7040,0.6159,0.6985,0.2710,0.1373,https://open.spotify.com/search/I%20Don%27t%20Wanna%20Play%20House%20Loretta%20Lynn,lyrics-mood-proxy-v1
+allman-brothers-band-desdemona-7c00056e,Desdemona,Allman Brothers Band,sad,0.3011,0.3243,0.3866,0.6443,0.1787,https://open.spotify.com/search/Desdemona%20Allman%20Brothers%20Band,lyrics-mood-proxy-v1
+pat-benatar-little-paradise-17fb51cc,Little Paradise,Pat Benatar,love,0.7159,0.4258,0.5685,0.5766,0.1569,https://open.spotify.com/search/Little%20Paradise%20Pat%20Benatar,lyrics-mood-proxy-v1
+donna-summer-happily-ever-after-371ec54d,Happily Ever After,Donna Summer,love,0.7105,0.4591,0.5229,0.5731,0.0732,https://open.spotify.com/search/Happily%20Ever%20After%20Donna%20Summer,lyrics-mood-proxy-v1
+vonda-shepard-long-term-boyfriend-4c9ffa84,Long Term Boyfriend,Vonda Shepard,happy,0.7675,0.6107,0.7348,0.2805,0.0483,https://open.spotify.com/search/Long%20Term%20Boyfriend%20Vonda%20Shepard,lyrics-mood-proxy-v1
+boney-m-bahama-mama-26c385c2,Bahama Mama,Boney M.,happy,0.7456,0.6362,0.6559,0.3124,0.1137,https://open.spotify.com/search/Bahama%20Mama%20Boney%20M.,lyrics-mood-proxy-v1
+warren-zevon-run-straight-down-1435f5fd,Run Straight Down,Warren Zevon,sad,0.2971,0.3302,0.3198,0.6642,0.1321,https://open.spotify.com/search/Run%20Straight%20Down%20Warren%20Zevon,lyrics-mood-proxy-v1
+dave-matthews-band-say-goodbye-bfd77db7,Say Goodbye,Dave Matthews Band,love,0.7359,0.4785,0.4978,0.5586,0.0897,https://open.spotify.com/search/Say%20Goodbye%20Dave%20Matthews%20Band,lyrics-mood-proxy-v1
+michael-jackson-scream-3d6f296f,Scream,Michael Jackson,sad,0.3305,0.2754,0.3865,0.6192,0.1341,https://open.spotify.com/search/Scream%20Michael%20Jackson,lyrics-mood-proxy-v1
+tim-mcgraw-shotgun-rider-c1b9df45,Shotgun Rider,Tim McGraw,sad,0.2430,0.3517,0.3891,0.6212,0.1950,https://open.spotify.com/search/Shotgun%20Rider%20Tim%20McGraw,lyrics-mood-proxy-v1
+yello-dr-van-steiner-4f16de61,Dr. Van Steiner,Yello,angry,0.2936,0.7046,0.5741,0.2486,0.1174,https://open.spotify.com/search/Dr.%20Van%20Steiner%20Yello,lyrics-mood-proxy-v1
+black-sabbath-n-i-b-0af1f615,N.I.B.,Black Sabbath,love,0.6797,0.4183,0.5903,0.5392,0.1231,https://open.spotify.com/search/N.I.B.%20Black%20Sabbath,lyrics-mood-proxy-v1
+arrogant-worms-dangerous-5f553c2e,Dangerous,Arrogant Worms,sad,0.2496,0.3664,0.3788,0.6292,0.1785,https://open.spotify.com/search/Dangerous%20Arrogant%20Worms,lyrics-mood-proxy-v1
+iron-maiden-running-free-a1ad19b9,Running Free,Iron Maiden,angry,0.3172,0.6651,0.5628,0.2684,0.1484,https://open.spotify.com/search/Running%20Free%20Iron%20Maiden,lyrics-mood-proxy-v1
+moody-blues-higher-and-higher-446eba7b,Higher And Higher,Moody Blues,angry,0.2993,0.7366,0.5516,0.2745,0.1381,https://open.spotify.com/search/Higher%20And%20Higher%20Moody%20Blues,lyrics-mood-proxy-v1
+bing-crosby-sleigh-ride-in-july-0c75c70d,Sleigh Ride In July,Bing Crosby,happy,0.7663,0.6091,0.6959,0.3196,0.0507,https://open.spotify.com/search/Sleigh%20Ride%20In%20July%20Bing%20Crosby,lyrics-mood-proxy-v1
+lil-wayne-abortion-9ac98909,Abortion,Lil Wayne,sad,0.2651,0.3000,0.3231,0.7160,0.1806,https://open.spotify.com/search/Abortion%20Lil%20Wayne,lyrics-mood-proxy-v1
+tori-amos-only-women-bleed-2f1fe3b4,Only Women Bleed,Tori Amos,angry,0.3033,0.7044,0.5195,0.3028,0.0986,https://open.spotify.com/search/Only%20Women%20Bleed%20Tori%20Amos,lyrics-mood-proxy-v1
+fabolous-respect-43c35d48,Respect,Fabolous,sad,0.2635,0.3682,0.3802,0.6225,0.1904,https://open.spotify.com/search/Respect%20Fabolous,lyrics-mood-proxy-v1
+kenny-loggins-easy-driver-a80096fa,Easy Driver,Kenny Loggins,love,0.7195,0.4603,0.5254,0.4979,0.1697,https://open.spotify.com/search/Easy%20Driver%20Kenny%20Loggins,lyrics-mood-proxy-v1
+freestyle-you-thought-0e3334e2,You Thought,Freestyle,happy,0.7802,0.6108,0.6776,0.3509,0.1270,https://open.spotify.com/search/You%20Thought%20Freestyle,lyrics-mood-proxy-v1
+lou-reed-nobody-s-business-0401b4c3,Nobody's Business,Lou Reed,angry,0.3407,0.6614,0.5417,0.3357,0.0604,https://open.spotify.com/search/Nobody%27s%20Business%20Lou%20Reed,lyrics-mood-proxy-v1
+raffi-every-little-wish-ed007fa9,Every Little Wish,Raffi,angry,0.3501,0.6792,0.5600,0.2688,0.1357,https://open.spotify.com/search/Every%20Little%20Wish%20Raffi,lyrics-mood-proxy-v1
+dusty-springfield-goin-back-2921ec1f,Goin' Back,Dusty Springfield,fear,0.2739,0.4875,0.3492,0.4656,0.1805,https://open.spotify.com/search/Goin%27%20Back%20Dusty%20Springfield,lyrics-mood-proxy-v1
+eurythmics-stay-by-me-a7b255e0,Stay By Me,Eurythmics,love,0.7231,0.5281,0.5456,0.5006,0.1670,https://open.spotify.com/search/Stay%20By%20Me%20Eurythmics,lyrics-mood-proxy-v1
+ocean-colour-scene-chelsea-walk-8cedbb02,Chelsea Walk,Ocean Colour Scene,fear,0.3263,0.5715,0.3996,0.4673,0.1526,https://open.spotify.com/search/Chelsea%20Walk%20Ocean%20Colour%20Scene,lyrics-mood-proxy-v1
+him-endless-dark-777d1c18,Endless Dark,HIM,love,0.6515,0.5011,0.4825,0.5613,0.1188,https://open.spotify.com/search/Endless%20Dark%20HIM,lyrics-mood-proxy-v1
+leann-rimes-rockin-around-the-christmas-tr-b848ce74,Rockin' Around The Christmas Tree,Leann Rimes,sad,0.2679,0.2856,0.3670,0.6706,0.1163,https://open.spotify.com/search/Rockin%27%20Around%20The%20Christmas%20Tree%20Leann%20Rimes,lyrics-mood-proxy-v1
+nick-cave-nobody-s-baby-now-81f66b03,Nobody's Baby Now,Nick Cave,love,0.6363,0.5197,0.5231,0.4902,0.0866,https://open.spotify.com/search/Nobody%27s%20Baby%20Now%20Nick%20Cave,lyrics-mood-proxy-v1
+fleetwood-mac-go-insane-1918520a,Go Insane,Fleetwood Mac,angry,0.2494,0.6745,0.5304,0.2830,0.0666,https://open.spotify.com/search/Go%20Insane%20Fleetwood%20Mac,lyrics-mood-proxy-v1
+nirvana-tourette-s-71d64360,Tourette's,Nirvana,happy,0.7719,0.6205,0.6534,0.3538,0.0888,https://open.spotify.com/search/Tourette%27s%20Nirvana,lyrics-mood-proxy-v1
+robbie-williams-teenage-millionaire-a37b59e4,Teenage Millionaire,Robbie Williams,love,0.6380,0.4960,0.5111,0.5247,0.1269,https://open.spotify.com/search/Teenage%20Millionaire%20Robbie%20Williams,lyrics-mood-proxy-v1
+erik-santos-tears-in-heaven-dff8f6eb,Tears In Heaven,Erik Santos,happy,0.7135,0.6842,0.6295,0.2922,0.1496,https://open.spotify.com/search/Tears%20In%20Heaven%20Erik%20Santos,lyrics-mood-proxy-v1
+bee-gees-i-lay-down-and-die-039e1ba1,I Lay Down And Die,Bee Gees,love,0.7311,0.4337,0.5639,0.4729,0.0693,https://open.spotify.com/search/I%20Lay%20Down%20And%20Die%20Bee%20Gees,lyrics-mood-proxy-v1
+faith-no-more-sweet-emotion-56c81b90,Sweet Emotion,Faith No More,fear,0.3150,0.5783,0.3787,0.4745,0.2299,https://open.spotify.com/search/Sweet%20Emotion%20Faith%20No%20More,lyrics-mood-proxy-v1
+waterboys-the-whole-of-the-moon-abf4d7f7,The Whole Of The Moon,Waterboys,love,0.7001,0.5118,0.5440,0.4711,0.0617,https://open.spotify.com/search/The%20Whole%20Of%20The%20Moon%20Waterboys,lyrics-mood-proxy-v1
+ocean-colour-scene-downstream-35f2e2c4,Downstream,Ocean Colour Scene,sad,0.2762,0.3166,0.3550,0.6095,0.1539,https://open.spotify.com/search/Downstream%20Ocean%20Colour%20Scene,lyrics-mood-proxy-v1
+johnny-cash-bird-on-a-wire-47fbe6df,Bird On A Wire,Johnny Cash,sad,0.3215,0.3736,0.3265,0.7108,0.1400,https://open.spotify.com/search/Bird%20On%20A%20Wire%20Johnny%20Cash,lyrics-mood-proxy-v1
+korn-dead-bodies-everywhere-369451bb,Dead Bodies Everywhere,Korn,calm,0.5267,0.2985,0.4149,0.7164,0.2756,https://open.spotify.com/search/Dead%20Bodies%20Everywhere%20Korn,lyrics-mood-proxy-v1
+judds-the-sweetest-gift-7888a819,The Sweetest Gift,Judds,love,0.7158,0.4265,0.5416,0.5597,0.0686,https://open.spotify.com/search/The%20Sweetest%20Gift%20Judds,lyrics-mood-proxy-v1
+green-day-the-death-of-st-jimmy-d925710c,The Death Of St. Jimmy,Green Day,happy,0.6822,0.6700,0.7329,0.3071,0.0549,https://open.spotify.com/search/The%20Death%20Of%20St.%20Jimmy%20Green%20Day,lyrics-mood-proxy-v1
+kiss-i-pledge-allegiance-to-the-state-of-r-763e7a2b,I Pledge Allegiance To The State Of Rock And Roll,Kiss,happy,0.7687,0.7095,0.7150,0.3782,0.1179,https://open.spotify.com/search/I%20Pledge%20Allegiance%20To%20The%20State%20Of%20Rock%20And%20Roll%20Kiss,lyrics-mood-proxy-v1
+the-temptations-you-ve-got-to-earn-it-44f9d7ea,You've Got To Earn It,The Temptations,love,0.7364,0.5062,0.5094,0.5572,0.0876,https://open.spotify.com/search/You%27ve%20Got%20To%20Earn%20It%20The%20Temptations,lyrics-mood-proxy-v1
+perry-como-deep-in-your-heart-18d4366f,Deep In Your Heart,Perry Como,love,0.6306,0.5082,0.5220,0.5714,0.1549,https://open.spotify.com/search/Deep%20In%20Your%20Heart%20Perry%20Como,lyrics-mood-proxy-v1
+jim-croce-which-way-are-you-going-fa1541b2,Which Way Are You Going,Jim Croce,sad,0.3029,0.3214,0.3725,0.6361,0.1978,https://open.spotify.com/search/Which%20Way%20Are%20You%20Going%20Jim%20Croce,lyrics-mood-proxy-v1
+chaka-khan-keep-givin-me-lovin-556e3751,Keep Givin' Me Lovin',Chaka Khan,love,0.6404,0.5271,0.5455,0.4979,0.0944,https://open.spotify.com/search/Keep%20Givin%27%20Me%20Lovin%27%20Chaka%20Khan,lyrics-mood-proxy-v1
+green-day-rock-n-roll-girlfriend-2a242c17,Rock N' Roll Girlfriend,Green Day,angry,0.3430,0.7592,0.6099,0.3507,0.0760,https://open.spotify.com/search/Rock%20N%27%20Roll%20Girlfriend%20Green%20Day,lyrics-mood-proxy-v1
+andy-williams-a-fool-never-learns-c46ef5d9,A Fool Never Learns,Andy Williams,love,0.6720,0.4483,0.5911,0.4969,0.1258,https://open.spotify.com/search/A%20Fool%20Never%20Learns%20Andy%20Williams,lyrics-mood-proxy-v1
+nick-drake-time-has-told-me-7e15b700,Time Has Told Me,Nick Drake,love,0.6579,0.4640,0.5540,0.4975,0.1126,https://open.spotify.com/search/Time%20Has%20Told%20Me%20Nick%20Drake,lyrics-mood-proxy-v1
+scorpions-they-need-a-million-8c6d02be,They Need A Million,Scorpions,calm,0.5092,0.2642,0.3181,0.7168,0.3271,https://open.spotify.com/search/They%20Need%20A%20Million%20Scorpions,lyrics-mood-proxy-v1
+ub40-two-in-a-one-cb9320ae,Two In A One,UB40,sad,0.2801,0.3726,0.2912,0.6002,0.1160,https://open.spotify.com/search/Two%20In%20A%20One%20UB40,lyrics-mood-proxy-v1
+sublime-hope-d3de03a4,Hope,Sublime,happy,0.7710,0.6495,0.6793,0.3603,0.0683,https://open.spotify.com/search/Hope%20Sublime,lyrics-mood-proxy-v1
+david-bowie-all-the-young-dudes-2baa8cc9,All The Young Dudes,David Bowie,love,0.6441,0.5146,0.5611,0.5569,0.1687,https://open.spotify.com/search/All%20The%20Young%20Dudes%20David%20Bowie,lyrics-mood-proxy-v1
+alphaville-ivory-tower-07740a8a,Ivory Tower,Alphaville,sad,0.2466,0.3023,0.3784,0.7081,0.1259,https://open.spotify.com/search/Ivory%20Tower%20Alphaville,lyrics-mood-proxy-v1
+joy-division-candidate-23801d59,Candidate,Joy Division,sad,0.3184,0.3278,0.2897,0.6220,0.1733,https://open.spotify.com/search/Candidate%20Joy%20Division,lyrics-mood-proxy-v1
+bonnie-raitt-so-close-8ec8c66f,So Close,Bonnie Raitt,happy,0.6676,0.6734,0.7350,0.3497,0.1013,https://open.spotify.com/search/So%20Close%20Bonnie%20Raitt,lyrics-mood-proxy-v1
+kelly-clarkson-back-again-227eecbc,Back Again,Kelly Clarkson,sad,0.2617,0.3355,0.3961,0.6727,0.1118,https://open.spotify.com/search/Back%20Again%20Kelly%20Clarkson,lyrics-mood-proxy-v1
+justin-timberlake-good-foot-ee786f23,Good Foot,Justin Timberlake,sad,0.3380,0.3315,0.2864,0.6401,0.1136,https://open.spotify.com/search/Good%20Foot%20Justin%20Timberlake,lyrics-mood-proxy-v1
+him-razorblade-kiss-af80eaaf,Razorblade Kiss,HIM,love,0.6631,0.4865,0.5287,0.4772,0.1059,https://open.spotify.com/search/Razorblade%20Kiss%20HIM,lyrics-mood-proxy-v1
+westlife-leaving-1c0670cb,Leaving,Westlife,sad,0.3039,0.3048,0.3414,0.6019,0.1256,https://open.spotify.com/search/Leaving%20Westlife,lyrics-mood-proxy-v1
+diana-ross-amazing-grace-1e1fd6b4,Amazing Grace,Diana Ross,happy,0.7824,0.6032,0.7500,0.3452,0.0749,https://open.spotify.com/search/Amazing%20Grace%20Diana%20Ross,lyrics-mood-proxy-v1
+patti-smith-kimberly-cf0973e1,Kimberly,Patti Smith,calm,0.5663,0.3439,0.3280,0.6837,0.2555,https://open.spotify.com/search/Kimberly%20Patti%20Smith,lyrics-mood-proxy-v1
+gary-numan-basic-j-4d6e5c57,Basic J,Gary Numan,happy,0.7545,0.6386,0.6851,0.3067,0.1212,https://open.spotify.com/search/Basic%20J%20Gary%20Numan,lyrics-mood-proxy-v1
+townes-van-zandt-gone-gone-blues-03321aa5,"Gone, Gone Blues",Townes Van Zandt,sad,0.2542,0.2893,0.3929,0.6025,0.1932,https://open.spotify.com/search/Gone%2C%20Gone%20Blues%20Townes%20Van%20Zandt,lyrics-mood-proxy-v1
+hank-williams-jr-before-you-fell-out-of-lo-530b737d,Before You Fell Out Of Love With Me,Hank Williams Jr.,love,0.6386,0.4809,0.5676,0.4867,0.0801,https://open.spotify.com/search/Before%20You%20Fell%20Out%20Of%20Love%20With%20Me%20Hank%20Williams%20Jr.,lyrics-mood-proxy-v1
+verve-a-new-decade-1083dfe7,A New Decade,Verve,sad,0.2876,0.2714,0.3848,0.6135,0.1736,https://open.spotify.com/search/A%20New%20Decade%20Verve,lyrics-mood-proxy-v1
+waterboys-she-is-so-beautiful-7f31fcab,She Is So Beautiful,Waterboys,love,0.6896,0.4528,0.5101,0.5357,0.0832,https://open.spotify.com/search/She%20Is%20So%20Beautiful%20Waterboys,lyrics-mood-proxy-v1
+slayer-213-11be3267,213,Slayer,love,0.7337,0.4516,0.5568,0.5774,0.1051,https://open.spotify.com/search/213%20Slayer,lyrics-mood-proxy-v1
+ne-yo-i-m-in-love-be94a013,I'm In Love,Ne-Yo,love,0.6488,0.4193,0.5925,0.5554,0.1677,https://open.spotify.com/search/I%27m%20In%20Love%20Ne-Yo,lyrics-mood-proxy-v1
+jason-mraz-too-much-food-db0fad54,Too Much Food,Jason Mraz,sad,0.3390,0.3245,0.3542,0.6219,0.1651,https://open.spotify.com/search/Too%20Much%20Food%20Jason%20Mraz,lyrics-mood-proxy-v1
+point-of-grace-jesus-will-still-be-there-6f398ddf,Jesus Will Still Be There,Point Of Grace,happy,0.6881,0.5966,0.7338,0.3553,0.1138,https://open.spotify.com/search/Jesus%20Will%20Still%20Be%20There%20Point%20Of%20Grace,lyrics-mood-proxy-v1
+engelbert-humperdinck-you-make-my-pants-wa-96fd1b22,You Make My Pants Want To Get Up And Dance,Engelbert Humperdinck,happy,0.7637,0.6038,0.6714,0.2838,0.1008,https://open.spotify.com/search/You%20Make%20My%20Pants%20Want%20To%20Get%20Up%20And%20Dance%20Engelbert%20Humperdinck,lyrics-mood-proxy-v1
+rage-against-the-machine-roll-right-8f1ae44b,Roll Right,Rage Against The Machine,sad,0.3620,0.3299,0.3000,0.6443,0.1042,https://open.spotify.com/search/Roll%20Right%20Rage%20Against%20The%20Machine,lyrics-mood-proxy-v1
+paul-simon-duncan-6d9339ea,Duncan,Paul Simon,sad,0.2632,0.2941,0.2992,0.6218,0.1302,https://open.spotify.com/search/Duncan%20Paul%20Simon,lyrics-mood-proxy-v1
+erasure-when-a-lover-leaves-you-bc58d77c,When A Lover Leaves You,Erasure,love,0.6861,0.4486,0.5492,0.4855,0.0961,https://open.spotify.com/search/When%20A%20Lover%20Leaves%20You%20Erasure,lyrics-mood-proxy-v1
+fleetwood-mac-save-me-bd1b1c1f,Save Me,Fleetwood Mac,calm,0.5858,0.3213,0.3486,0.7078,0.2911,https://open.spotify.com/search/Save%20Me%20Fleetwood%20Mac,lyrics-mood-proxy-v1
+alabama-fantasy-fe8be19c,Fantasy,Alabama,sad,0.3451,0.2953,0.2840,0.6501,0.1740,https://open.spotify.com/search/Fantasy%20Alabama,lyrics-mood-proxy-v1
+cher-a-beautiful-story-5b7a36ba,A Beautiful Story,Cher,love,0.6664,0.4499,0.5601,0.4820,0.1568,https://open.spotify.com/search/A%20Beautiful%20Story%20Cher,lyrics-mood-proxy-v1
+carly-simon-heaven-9e0bdb8a,Heaven,Carly Simon,love,0.6268,0.4235,0.5121,0.4862,0.0552,https://open.spotify.com/search/Heaven%20Carly%20Simon,lyrics-mood-proxy-v1
+pearl-jam-mfc-1df56f58,Mfc,Pearl Jam,sad,0.2550,0.3674,0.3491,0.6796,0.0918,https://open.spotify.com/search/Mfc%20Pearl%20Jam,lyrics-mood-proxy-v1
+miley-cyrus-decisions-88111e39,Decisions,Miley Cyrus,love,0.7199,0.5246,0.5843,0.5125,0.0902,https://open.spotify.com/search/Decisions%20Miley%20Cyrus,lyrics-mood-proxy-v1
+willie-nelson-ain-t-nobody-s-business-69dfcf06,Ain't Nobody's Business,Willie Nelson,sad,0.3135,0.3146,0.3093,0.7160,0.1641,https://open.spotify.com/search/Ain%27t%20Nobody%27s%20Business%20Willie%20Nelson,lyrics-mood-proxy-v1
+queensryche-child-of-fire-30dc2b66,Child Of Fire,Queensryche,sad,0.3442,0.2610,0.3893,0.7075,0.1683,https://open.spotify.com/search/Child%20Of%20Fire%20Queensryche,lyrics-mood-proxy-v1
+linkin-park-rolling-in-the-deep-1f18cdf8,Rolling In The Deep,Linkin Park,love,0.6586,0.4397,0.5887,0.5795,0.1575,https://open.spotify.com/search/Rolling%20In%20The%20Deep%20Linkin%20Park,lyrics-mood-proxy-v1
+ramones-my-my-kind-of-a-girl-4433083f,My My Kind Of A Girl,Ramones,angry,0.3252,0.7517,0.6160,0.3056,0.1150,https://open.spotify.com/search/My%20My%20Kind%20Of%20A%20Girl%20Ramones,lyrics-mood-proxy-v1
+puff-daddy-makin-it-hard-071b5623,Makin' It Hard,Puff Daddy,love,0.6527,0.4285,0.4919,0.5143,0.1173,https://open.spotify.com/search/Makin%27%20It%20Hard%20Puff%20Daddy,lyrics-mood-proxy-v1
+yello-to-the-sea-22a22342,To The Sea,Yello,angry,0.2607,0.7677,0.6160,0.2919,0.0910,https://open.spotify.com/search/To%20The%20Sea%20Yello,lyrics-mood-proxy-v1
+genesis-that-s-all-3bb05716,That's All,Genesis,sad,0.2800,0.2718,0.3284,0.6052,0.1469,https://open.spotify.com/search/That%27s%20All%20Genesis,lyrics-mood-proxy-v1
+phish-discern-0087acbd,Discern,Phish,angry,0.2877,0.7005,0.6211,0.2284,0.0808,https://open.spotify.com/search/Discern%20Phish,lyrics-mood-proxy-v1
+america-pages-147ba24f,Pages,America,happy,0.6975,0.7010,0.6415,0.3621,0.0570,https://open.spotify.com/search/Pages%20America,lyrics-mood-proxy-v1
+xavier-rudd-one-short-story-533bfe4e,One Short Story,Xavier Rudd,happy,0.7602,0.7049,0.7330,0.3305,0.1032,https://open.spotify.com/search/One%20Short%20Story%20Xavier%20Rudd,lyrics-mood-proxy-v1
+dan-fogelberg-mountain-pass-036985a1,Mountain Pass,Dan Fogelberg,love,0.7360,0.4503,0.5201,0.5277,0.1253,https://open.spotify.com/search/Mountain%20Pass%20Dan%20Fogelberg,lyrics-mood-proxy-v1
+squeeze-long-face-8b41170e,Long Face,Squeeze,happy,0.7211,0.6232,0.6977,0.2891,0.0428,https://open.spotify.com/search/Long%20Face%20Squeeze,lyrics-mood-proxy-v1
+otis-redding-loving-by-the-pound-5ff68fdd,Loving By The Pound,Otis Redding,love,0.6287,0.4659,0.5257,0.5041,0.0702,https://open.spotify.com/search/Loving%20By%20The%20Pound%20Otis%20Redding,lyrics-mood-proxy-v1
+kenny-chesney-flip-flop-summer-15c05f06,Flip Flop Summer,Kenny Chesney,sad,0.3536,0.3724,0.3378,0.6066,0.1696,https://open.spotify.com/search/Flip%20Flop%20Summer%20Kenny%20Chesney,lyrics-mood-proxy-v1
+misfits-demonmania-fd820e90,Demonmania,Misfits,angry,0.2668,0.7334,0.5807,0.2519,0.1160,https://open.spotify.com/search/Demonmania%20Misfits,lyrics-mood-proxy-v1
+luther-vandross-once-you-know-how-1c18ac67,Once You Know How,Luther Vandross,happy,0.7678,0.6228,0.6862,0.3672,0.0586,https://open.spotify.com/search/Once%20You%20Know%20How%20Luther%20Vandross,lyrics-mood-proxy-v1
+pearl-jam-brain-of-j-868b522b,Brain Of J.,Pearl Jam,angry,0.3336,0.6872,0.5388,0.3352,0.1503,https://open.spotify.com/search/Brain%20Of%20J.%20Pearl%20Jam,lyrics-mood-proxy-v1
+ocean-colour-scene-you-ve-got-it-bad-8bf2d046,You've Got It Bad,Ocean Colour Scene,sad,0.3615,0.3712,0.3674,0.6148,0.1984,https://open.spotify.com/search/You%27ve%20Got%20It%20Bad%20Ocean%20Colour%20Scene,lyrics-mood-proxy-v1
+frankie-valli-sherry-dc1e28c2,Sherry,Frankie Valli,calm,0.5904,0.2632,0.4209,0.6872,0.3182,https://open.spotify.com/search/Sherry%20Frankie%20Valli,lyrics-mood-proxy-v1
+xtc-science-friction-9cb7ed4e,Science Friction,XTC,happy,0.7712,0.6937,0.6455,0.3351,0.1128,https://open.spotify.com/search/Science%20Friction%20XTC,lyrics-mood-proxy-v1
+robbie-williams-singing-for-the-lonely-293c652e,Singing For The Lonely,Robbie Williams,fear,0.3032,0.5622,0.4177,0.4691,0.1424,https://open.spotify.com/search/Singing%20For%20The%20Lonely%20Robbie%20Williams,lyrics-mood-proxy-v1
+kenny-loggins-one-woman-e3f8e50d,One Woman,Kenny Loggins,happy,0.7788,0.6588,0.6475,0.2935,0.0681,https://open.spotify.com/search/One%20Woman%20Kenny%20Loggins,lyrics-mood-proxy-v1
+lou-reed-in-our-sleep-079e2e19,In Our Sleep,Lou Reed,angry,0.3129,0.6703,0.5403,0.3041,0.0972,https://open.spotify.com/search/In%20Our%20Sleep%20Lou%20Reed,lyrics-mood-proxy-v1
+oasis-the-fever-ab0dbe03,The Fever,Oasis,sad,0.3332,0.3582,0.3204,0.7058,0.1373,https://open.spotify.com/search/The%20Fever%20Oasis,lyrics-mood-proxy-v1
+otis-redding-something-is-worrying-me-9716a8ba,Something Is Worrying Me,Otis Redding,happy,0.7701,0.7071,0.6561,0.3708,0.0554,https://open.spotify.com/search/Something%20Is%20Worrying%20Me%20Otis%20Redding,lyrics-mood-proxy-v1
+w-a-s-p-keep-holding-on-96e87c58,Keep Holding On,W.A.S.P.,sad,0.2895,0.3364,0.3687,0.6218,0.1183,https://open.spotify.com/search/Keep%20Holding%20On%20W.A.S.P.,lyrics-mood-proxy-v1
+sublime-hong-kong-phooey-57ef51bd,Hong Kong Phooey,Sublime,sad,0.2937,0.3242,0.2870,0.6741,0.1537,https://open.spotify.com/search/Hong%20Kong%20Phooey%20Sublime,lyrics-mood-proxy-v1
+rihanna-cold-case-love-b902d9e1,Cold Case Love,Rihanna,love,0.6905,0.4955,0.5557,0.4951,0.1381,https://open.spotify.com/search/Cold%20Case%20Love%20Rihanna,lyrics-mood-proxy-v1
+wyclef-jean-sweetest-girl-dollar-bill-62cc9abd,Sweetest Girl (Dollar Bill),Wyclef Jean,happy,0.7543,0.7014,0.7422,0.3405,0.0750,https://open.spotify.com/search/Sweetest%20Girl%20%28Dollar%20Bill%29%20Wyclef%20Jean,lyrics-mood-proxy-v1
+poison-nothin-but-a-good-time-f761f202,Nothin' But A Good Time,Poison,happy,0.7185,0.7035,0.7447,0.2746,0.0537,https://open.spotify.com/search/Nothin%27%20But%20A%20Good%20Time%20Poison,lyrics-mood-proxy-v1
+neil-sedaka-one-way-ticket-to-the-blues-5401533e,One Way Ticket To The Blues,Neil Sedaka,love,0.6798,0.4898,0.5127,0.5194,0.0788,https://open.spotify.com/search/One%20Way%20Ticket%20To%20The%20Blues%20Neil%20Sedaka,lyrics-mood-proxy-v1
+van-halen-feel-your-love-tonight-80929a0d,Feel Your Love Tonight,Van Halen,love,0.6611,0.4546,0.5332,0.5341,0.1631,https://open.spotify.com/search/Feel%20Your%20Love%20Tonight%20Van%20Halen,lyrics-mood-proxy-v1
+willie-nelson-hold-me-tighter-892425f0,Hold Me Tighter,Willie Nelson,love,0.6506,0.4349,0.5183,0.5685,0.1395,https://open.spotify.com/search/Hold%20Me%20Tighter%20Willie%20Nelson,lyrics-mood-proxy-v1
+david-guetta-lovers-on-the-sun-e2e7d925,Lovers On The Sun,David Guetta,sad,0.3401,0.2847,0.3419,0.6631,0.1801,https://open.spotify.com/search/Lovers%20On%20The%20Sun%20David%20Guetta,lyrics-mood-proxy-v1
+tom-jones-say-you-ll-stay-until-tomorrow-a319b866,Say You'll Stay Until Tomorrow,Tom Jones,sad,0.2731,0.3447,0.3100,0.6777,0.1451,https://open.spotify.com/search/Say%20You%27ll%20Stay%20Until%20Tomorrow%20Tom%20Jones,lyrics-mood-proxy-v1
+whitesnake-victim-of-love-d21cb523,Victim Of Love,Whitesnake,love,0.7357,0.4121,0.5796,0.5139,0.0545,https://open.spotify.com/search/Victim%20Of%20Love%20Whitesnake,lyrics-mood-proxy-v1
+andy-williams-happy-christmas-war-is-over-aec67020,Happy Christmas (War Is Over),Andy Williams,angry,0.3402,0.6515,0.5210,0.3399,0.1461,https://open.spotify.com/search/Happy%20Christmas%20%28War%20Is%20Over%29%20Andy%20Williams,lyrics-mood-proxy-v1
+steve-miller-band-young-girl-s-heart-f7250221,Young Girl's Heart,Steve Miller Band,sad,0.3169,0.3753,0.3283,0.6562,0.1740,https://open.spotify.com/search/Young%20Girl%27s%20Heart%20Steve%20Miller%20Band,lyrics-mood-proxy-v1
+doors-not-to-touch-the-earth-7f63bb52,Not To Touch The Earth,Doors,love,0.7199,0.4668,0.4902,0.5261,0.1520,https://open.spotify.com/search/Not%20To%20Touch%20The%20Earth%20Doors,lyrics-mood-proxy-v1
+justin-bieber-slave-to-the-rhythm-0c6dbc2c,Slave To The Rhythm,Justin Bieber,love,0.6672,0.4889,0.5262,0.5008,0.0891,https://open.spotify.com/search/Slave%20To%20The%20Rhythm%20Justin%20Bieber,lyrics-mood-proxy-v1
+dolly-parton-gettin-happy-c8effa6b,Gettin' Happy,Dolly Parton,sad,0.3019,0.3638,0.3477,0.7010,0.1389,https://open.spotify.com/search/Gettin%27%20Happy%20Dolly%20Parton,lyrics-mood-proxy-v1
+talking-heads-this-must-be-the-place-39c90fdc,This Must Be The Place,Talking Heads,love,0.7190,0.4171,0.5072,0.5018,0.1454,https://open.spotify.com/search/This%20Must%20Be%20The%20Place%20Talking%20Heads,lyrics-mood-proxy-v1
+chicago-cry-for-the-lost-de45fcaa,Cry For The Lost,Chicago,sad,0.3369,0.3023,0.2912,0.6591,0.1621,https://open.spotify.com/search/Cry%20For%20The%20Lost%20Chicago,lyrics-mood-proxy-v1
+misfits-it-s-only-make-believe-cba24e23,It's Only Make Believe,Misfits,love,0.6368,0.4582,0.5258,0.4871,0.0988,https://open.spotify.com/search/It%27s%20Only%20Make%20Believe%20Misfits,lyrics-mood-proxy-v1
+whitney-houston-dear-john-letter-9d7ed2a3,Dear John Letter,Whitney Houston,sad,0.3193,0.3370,0.3796,0.6780,0.1442,https://open.spotify.com/search/Dear%20John%20Letter%20Whitney%20Houston,lyrics-mood-proxy-v1
+britney-spears-me-and-you-a880189b,Me And You,Britney Spears,love,0.7195,0.4883,0.5801,0.4892,0.1520,https://open.spotify.com/search/Me%20And%20You%20Britney%20Spears,lyrics-mood-proxy-v1
+procol-harum-fool-s-gold-9cd43775,Fool's Gold,Procol Harum,angry,0.2828,0.7489,0.5680,0.3070,0.0990,https://open.spotify.com/search/Fool%27s%20Gold%20Procol%20Harum,lyrics-mood-proxy-v1
+britney-spears-my-only-wish-f02364b4,My Only Wish,Britney Spears,love,0.6802,0.4093,0.4911,0.5756,0.0766,https://open.spotify.com/search/My%20Only%20Wish%20Britney%20Spears,lyrics-mood-proxy-v1
+uriah-heep-paradise-28879473,Paradise,Uriah Heep,love,0.6785,0.5015,0.5612,0.5167,0.0588,https://open.spotify.com/search/Paradise%20Uriah%20Heep,lyrics-mood-proxy-v1
+nina-simone-moon-over-alabama-09730806,Moon Over Alabama,Nina Simone,angry,0.3548,0.7230,0.5454,0.3178,0.0623,https://open.spotify.com/search/Moon%20Over%20Alabama%20Nina%20Simone,lyrics-mood-proxy-v1
+tears-for-fears-famous-last-words-5edacd65,Famous Last Words,Tears For Fears,happy,0.7468,0.6509,0.7340,0.3667,0.1209,https://open.spotify.com/search/Famous%20Last%20Words%20Tears%20For%20Fears,lyrics-mood-proxy-v1
+widespread-panic-flat-foot-flewzy-186e784c,Flat Foot Flewzy,Widespread Panic,angry,0.2626,0.6868,0.6127,0.2712,0.1527,https://open.spotify.com/search/Flat%20Foot%20Flewzy%20Widespread%20Panic,lyrics-mood-proxy-v1
+kid-rock-let-s-ride-b069f270,Let's Ride,Kid Rock,sad,0.3246,0.3175,0.3070,0.6537,0.1510,https://open.spotify.com/search/Let%27s%20Ride%20Kid%20Rock,lyrics-mood-proxy-v1
+robbie-williams-freedom-a2c75147,Freedom,Robbie Williams,happy,0.6981,0.6745,0.7205,0.3682,0.0918,https://open.spotify.com/search/Freedom%20Robbie%20Williams,lyrics-mood-proxy-v1
+bob-dylan-a-hard-rain-s-a-gonna-fall-571d4693,A Hard Rain's A-Gonna Fall,Bob Dylan,sad,0.3418,0.2985,0.3916,0.6057,0.1320,https://open.spotify.com/search/A%20Hard%20Rain%27s%20A-Gonna%20Fall%20Bob%20Dylan,lyrics-mood-proxy-v1
+oingo-boingo-animals-9028cc49,Animals,Oingo Boingo,sad,0.3254,0.3356,0.3170,0.7133,0.0989,https://open.spotify.com/search/Animals%20Oingo%20Boingo,lyrics-mood-proxy-v1
+gary-numan-that-s-too-bad-0421e7c3,That's Too Bad,Gary Numan,angry,0.2776,0.7701,0.5294,0.2458,0.1155,https://open.spotify.com/search/That%27s%20Too%20Bad%20Gary%20Numan,lyrics-mood-proxy-v1
+eagles-hotel-california-album-version-2cd6a80e,Hotel California (Album Version),Eagles,angry,0.2659,0.7061,0.5421,0.2924,0.1428,https://open.spotify.com/search/Hotel%20California%20%28Album%20Version%29%20Eagles,lyrics-mood-proxy-v1
+hollies-my-back-pages-276bdf5b,My Back Pages,Hollies,angry,0.3427,0.7159,0.5102,0.2643,0.1348,https://open.spotify.com/search/My%20Back%20Pages%20Hollies,lyrics-mood-proxy-v1
+les-miserables-the-second-attack-death-of--70b9a109,The Second Attack (Death Of Gavroche),Les Miserables,sad,0.2980,0.2836,0.3725,0.6859,0.1434,https://open.spotify.com/search/The%20Second%20Attack%20%28Death%20Of%20Gavroche%29%20Les%20Miserables,lyrics-mood-proxy-v1
+diana-ross-mean-ole-lion-782c3960,Mean Ole Lion,Diana Ross,happy,0.6811,0.6212,0.6557,0.2771,0.0947,https://open.spotify.com/search/Mean%20Ole%20Lion%20Diana%20Ross,lyrics-mood-proxy-v1
+manowar-swords-in-the-wind-32b432ce,Swords In The Wind,Manowar,happy,0.7228,0.5958,0.7384,0.3662,0.1099,https://open.spotify.com/search/Swords%20In%20The%20Wind%20Manowar,lyrics-mood-proxy-v1
+train-save-the-day-37d64bd0,Save The Day,Train,sad,0.3004,0.3791,0.3181,0.7141,0.1590,https://open.spotify.com/search/Save%20The%20Day%20Train,lyrics-mood-proxy-v1
+enigma-return-to-innocence-68e4be41,Return To Innocence,Enigma,love,0.7319,0.4346,0.5237,0.5397,0.1575,https://open.spotify.com/search/Return%20To%20Innocence%20Enigma,lyrics-mood-proxy-v1
+unseen-what-are-you-gonna-do-8434fa2c,What Are You Gonna Do?,Unseen,sad,0.3323,0.3600,0.3533,0.6386,0.1973,https://open.spotify.com/search/What%20Are%20You%20Gonna%20Do%3F%20Unseen,lyrics-mood-proxy-v1
+james-taylor-riding-on-a-railroad-bd2aac41,Riding On A Railroad,James Taylor,happy,0.7393,0.6465,0.7259,0.2969,0.0866,https://open.spotify.com/search/Riding%20On%20A%20Railroad%20James%20Taylor,lyrics-mood-proxy-v1
+nat-king-cole-i-don-t-want-to-see-tomorrow-3af02c77,I Don't Want To See Tomorrow,Nat King Cole,happy,0.7680,0.6835,0.6797,0.3058,0.0655,https://open.spotify.com/search/I%20Don%27t%20Want%20To%20See%20Tomorrow%20Nat%20King%20Cole,lyrics-mood-proxy-v1
+christina-aguilera-angels-we-have-heard-on-dc79643e,Angels We Have Heard On High,Christina Aguilera,love,0.6212,0.4397,0.5792,0.5672,0.1623,https://open.spotify.com/search/Angels%20We%20Have%20Heard%20On%20High%20Christina%20Aguilera,lyrics-mood-proxy-v1
+patsy-cline-have-you-ever-been-lonely-0b82f105,Have You Ever Been Lonely,Patsy Cline,sad,0.2795,0.3746,0.2868,0.6860,0.0874,https://open.spotify.com/search/Have%20You%20Ever%20Been%20Lonely%20Patsy%20Cline,lyrics-mood-proxy-v1
+vince-gill-the-sun-s-gonna-shine-on-you-60b5c46f,The Sun's Gonna Shine On You,Vince Gill,sad,0.3689,0.3460,0.3753,0.6913,0.1251,https://open.spotify.com/search/The%20Sun%27s%20Gonna%20Shine%20On%20You%20Vince%20Gill,lyrics-mood-proxy-v1
+insane-clown-posse-house-of-horrors-50f822d1,House Of Horrors,Insane Clown Posse,sad,0.3609,0.3230,0.2999,0.6305,0.1773,https://open.spotify.com/search/House%20Of%20Horrors%20Insane%20Clown%20Posse,lyrics-mood-proxy-v1
+westlife-reach-out-91110ed6,Reach Out,Westlife,calm,0.5669,0.3016,0.3490,0.6940,0.2341,https://open.spotify.com/search/Reach%20Out%20Westlife,lyrics-mood-proxy-v1
+donna-summer-summer-fever-3c736100,Summer Fever,Donna Summer,love,0.6748,0.5014,0.4854,0.5311,0.1393,https://open.spotify.com/search/Summer%20Fever%20Donna%20Summer,lyrics-mood-proxy-v1
+face-to-face-i-know-what-you-are-83c1042b,I Know What You Are,Face To Face,sad,0.2783,0.3019,0.3944,0.6749,0.1424,https://open.spotify.com/search/I%20Know%20What%20You%20Are%20Face%20To%20Face,lyrics-mood-proxy-v1
+james-taylor-let-it-all-fall-down-09965cca,Let It All Fall Down,James Taylor,sad,0.3446,0.2806,0.3651,0.7181,0.1823,https://open.spotify.com/search/Let%20It%20All%20Fall%20Down%20James%20Taylor,lyrics-mood-proxy-v1
+christmas-songs-hard-candy-christmas-e587f9a7,Hard Candy Christmas,Christmas Songs,calm,0.5464,0.3248,0.3869,0.6587,0.2966,https://open.spotify.com/search/Hard%20Candy%20Christmas%20Christmas%20Songs,lyrics-mood-proxy-v1
+faith-hill-the-secret-of-life-fc69ed81,The Secret Of Life,Faith Hill,sad,0.3386,0.3713,0.3912,0.6262,0.0919,https://open.spotify.com/search/The%20Secret%20Of%20Life%20Faith%20Hill,lyrics-mood-proxy-v1
+pharrell-williams-how-does-it-feel-5a8ef67c,How Does It Feel?,Pharrell Williams,sad,0.3066,0.3786,0.3944,0.6333,0.1437,https://open.spotify.com/search/How%20Does%20It%20Feel%3F%20Pharrell%20Williams,lyrics-mood-proxy-v1
+tim-mcgraw-wherever-the-trail-may-lead-ab5e563e,Wherever The Trail May Lead,Tim McGraw,happy,0.7705,0.5963,0.6493,0.2883,0.1488,https://open.spotify.com/search/Wherever%20The%20Trail%20May%20Lead%20Tim%20McGraw,lyrics-mood-proxy-v1
+squeeze-wicked-and-cruel-20aa3932,Wicked And Cruel,Squeeze,love,0.7293,0.4951,0.5182,0.4838,0.1118,https://open.spotify.com/search/Wicked%20And%20Cruel%20Squeeze,lyrics-mood-proxy-v1
+uriah-heep-seven-stars-7367ee9d,Seven Stars,Uriah Heep,love,0.7148,0.5077,0.5676,0.5535,0.0919,https://open.spotify.com/search/Seven%20Stars%20Uriah%20Heep,lyrics-mood-proxy-v1
+backstreet-boys-call-6f13c6ce,Call,Backstreet Boys,sad,0.3129,0.2604,0.3797,0.7135,0.1163,https://open.spotify.com/search/Call%20Backstreet%20Boys,lyrics-mood-proxy-v1
+zucchero-you-are-so-beautiful-6b9952da,You Are So Beautiful,Zucchero,happy,0.7360,0.6548,0.6853,0.3108,0.0724,https://open.spotify.com/search/You%20Are%20So%20Beautiful%20Zucchero,lyrics-mood-proxy-v1
+iggy-pop-loose-39398d3d,Loose,Iggy Pop,calm,0.5337,0.2937,0.3874,0.6956,0.2687,https://open.spotify.com/search/Loose%20Iggy%20Pop,lyrics-mood-proxy-v1
+sia-one-million-bullets-b0c571f7,One Million Bullets,Sia,sad,0.3156,0.3720,0.3846,0.7149,0.1623,https://open.spotify.com/search/One%20Million%20Bullets%20Sia,lyrics-mood-proxy-v1
+scorpions-twentieth-century-man-851f2797,Twentieth Century Man,Scorpions,love,0.6475,0.4614,0.5069,0.4970,0.1036,https://open.spotify.com/search/Twentieth%20Century%20Man%20Scorpions,lyrics-mood-proxy-v1
+coldplay-life-in-technicolor-ii-deb7dc3e,Life In Technicolor II,Coldplay,love,0.7025,0.4978,0.5111,0.5042,0.1581,https://open.spotify.com/search/Life%20In%20Technicolor%20II%20Coldplay,lyrics-mood-proxy-v1
+frankie-laine-jezebel-7ceaed3c,Jezebel,Frankie Laine,sad,0.3383,0.3840,0.3536,0.6047,0.1186,https://open.spotify.com/search/Jezebel%20Frankie%20Laine,lyrics-mood-proxy-v1
+fall-out-boy-xo-11813f9b,XO,Fall Out Boy,love,0.6532,0.4757,0.5573,0.4910,0.1380,https://open.spotify.com/search/XO%20Fall%20Out%20Boy,lyrics-mood-proxy-v1
+america-we-got-all-night-8813f5db,We Got All Night,America,love,0.7164,0.4283,0.5131,0.5488,0.0995,https://open.spotify.com/search/We%20Got%20All%20Night%20America,lyrics-mood-proxy-v1
+kinks-brother-f3f9a819,Brother,Kinks,fear,0.3153,0.5287,0.3642,0.4057,0.1321,https://open.spotify.com/search/Brother%20Kinks,lyrics-mood-proxy-v1
+journey-lovin-touchin-squeezin-8c9ea54b,Lovin' Touchin' Squeezin',Journey,happy,0.6791,0.6592,0.6313,0.3176,0.1139,https://open.spotify.com/search/Lovin%27%20Touchin%27%20Squeezin%27%20Journey,lyrics-mood-proxy-v1
+stevie-wonder-blame-it-on-the-sun-2db302df,Blame It On The Sun,Stevie Wonder,love,0.6734,0.4690,0.4856,0.5420,0.1674,https://open.spotify.com/search/Blame%20It%20On%20The%20Sun%20Stevie%20Wonder,lyrics-mood-proxy-v1
+youth-of-today-disengage-19bbab3f,Disengage,Youth Of Today,angry,0.3432,0.6595,0.6003,0.2993,0.1482,https://open.spotify.com/search/Disengage%20Youth%20Of%20Today,lyrics-mood-proxy-v1
+mariah-carey-chain-of-fools-cc9eacb0,Chain Of Fools,Mariah Carey,sad,0.3111,0.3577,0.3204,0.6013,0.1562,https://open.spotify.com/search/Chain%20Of%20Fools%20Mariah%20Carey,lyrics-mood-proxy-v1
+rem-make-it-all-ok-8f005cdb,Make It All Ok,Rem,calm,0.5760,0.3084,0.3471,0.6405,0.3200,https://open.spotify.com/search/Make%20It%20All%20Ok%20Rem,lyrics-mood-proxy-v1
+bing-crosby-blue-room-734cbd96,Blue Room,Bing Crosby,sad,0.3049,0.2720,0.3193,0.6265,0.1803,https://open.spotify.com/search/Blue%20Room%20Bing%20Crosby,lyrics-mood-proxy-v1
+janis-joplin-class-a-jackass-7e8b87c2,Class A Jackass,Janis Joplin,angry,0.3060,0.7324,0.5850,0.2474,0.0599,https://open.spotify.com/search/Class%20A%20Jackass%20Janis%20Joplin,lyrics-mood-proxy-v1
+amy-grant-helping-hand-5f1fc051,Helping Hand,Amy Grant,happy,0.7015,0.6899,0.6922,0.3209,0.0662,https://open.spotify.com/search/Helping%20Hand%20Amy%20Grant,lyrics-mood-proxy-v1
+christmas-songs-christmas-at-home-5aa6d309,Christmas At Home,Christmas Songs,sad,0.3399,0.3076,0.3556,0.6440,0.1138,https://open.spotify.com/search/Christmas%20At%20Home%20Christmas%20Songs,lyrics-mood-proxy-v1
+toto-just-can-t-get-to-you-30a95cda,Just Can't Get To You,Toto,fear,0.3529,0.4729,0.4212,0.4845,0.1475,https://open.spotify.com/search/Just%20Can%27t%20Get%20To%20You%20Toto,lyrics-mood-proxy-v1
+judas-priest-feed-on-me-8c1078b4,Feed On Me,Judas Priest,calm,0.5565,0.3378,0.3717,0.7100,0.3261,https://open.spotify.com/search/Feed%20On%20Me%20Judas%20Priest,lyrics-mood-proxy-v1
+bruce-springsteen-bring-on-the-night-c292ace3,Bring On The Night,Bruce Springsteen,sad,0.2732,0.2760,0.3570,0.6897,0.1949,https://open.spotify.com/search/Bring%20On%20The%20Night%20Bruce%20Springsteen,lyrics-mood-proxy-v1
+phineas-and-ferb-my-whole-world-is-this-sc-b1003d49,My Whole World Is This Screen,Phineas And Ferb,happy,0.7205,0.6211,0.6464,0.2677,0.1205,https://open.spotify.com/search/My%20Whole%20World%20Is%20This%20Screen%20Phineas%20And%20Ferb,lyrics-mood-proxy-v1
+dire-straits-wild-west-end-f0a250a7,Wild West End,Dire Straits,sad,0.3274,0.2851,0.2925,0.6969,0.1044,https://open.spotify.com/search/Wild%20West%20End%20Dire%20Straits,lyrics-mood-proxy-v1
+ed-sheeran-give-me-love-cf41db36,Give Me Love,Ed Sheeran,love,0.6285,0.4705,0.5026,0.5582,0.1122,https://open.spotify.com/search/Give%20Me%20Love%20Ed%20Sheeran,lyrics-mood-proxy-v1
+omd-very-close-to-far-away-06e4dd98,Very Close To Far Away,Omd,love,0.7294,0.4099,0.5036,0.4966,0.1352,https://open.spotify.com/search/Very%20Close%20To%20Far%20Away%20Omd,lyrics-mood-proxy-v1
+johnny-cash-don-t-go-near-the-water-e54ac614,Don't Go Near The Water,Johnny Cash,sad,0.2832,0.3678,0.3635,0.5991,0.1779,https://open.spotify.com/search/Don%27t%20Go%20Near%20The%20Water%20Johnny%20Cash,lyrics-mood-proxy-v1
+katy-perry-unconditionally-df51e39b,Unconditionally,Katy Perry,love,0.7304,0.4249,0.5747,0.5173,0.0895,https://open.spotify.com/search/Unconditionally%20Katy%20Perry,lyrics-mood-proxy-v1
+dean-martin-bet-i-cha-99a8e682,Bet-I-Cha,Dean Martin,angry,0.3477,0.6510,0.5643,0.3418,0.0524,https://open.spotify.com/search/Bet-I-Cha%20Dean%20Martin,lyrics-mood-proxy-v1
+keith-green-love-with-me-6aaae43d,Love With Me,Keith Green,love,0.6467,0.4969,0.5670,0.5624,0.1475,https://open.spotify.com/search/Love%20With%20Me%20Keith%20Green,lyrics-mood-proxy-v1
+michael-buble-anyone-to-love-970b3236,Anyone To Love,Michael Buble,love,0.6318,0.4352,0.5950,0.5736,0.1422,https://open.spotify.com/search/Anyone%20To%20Love%20Michael%20Buble,lyrics-mood-proxy-v1
+deep-purple-you-fool-no-one-3bdb58cd,You Fool No One,Deep Purple,angry,0.3604,0.7084,0.5351,0.3168,0.1117,https://open.spotify.com/search/You%20Fool%20No%20One%20Deep%20Purple,lyrics-mood-proxy-v1
+o-zone-mai-ah-hee-valentin-remix-2a74e383,Mai Ah Hee (valentin Remix),O-Zone,happy,0.7577,0.7106,0.7326,0.3344,0.1048,https://open.spotify.com/search/Mai%20Ah%20Hee%20%28valentin%20Remix%29%20O-Zone,lyrics-mood-proxy-v1
+meat-loaf-midnight-at-the-lost-and-found-8ba906c3,Midnight At The Lost And Found,Meat Loaf,happy,0.6563,0.5884,0.6690,0.2793,0.1587,https://open.spotify.com/search/Midnight%20At%20The%20Lost%20And%20Found%20Meat%20Loaf,lyrics-mood-proxy-v1
+stevie-wonder-i-wanna-talk-to-you-aed1dd61,I Wanna Talk To You,Stevie Wonder,calm,0.5724,0.3298,0.3655,0.7078,0.2600,https://open.spotify.com/search/I%20Wanna%20Talk%20To%20You%20Stevie%20Wonder,lyrics-mood-proxy-v1
+uriah-heep-dream-on-92f9d396,Dream On,Uriah Heep,sad,0.2597,0.2953,0.3473,0.6643,0.1481,https://open.spotify.com/search/Dream%20On%20Uriah%20Heep,lyrics-mood-proxy-v1
+pretenders-forever-young-59e0b81f,Forever Young,Pretenders,love,0.7298,0.4574,0.4926,0.5534,0.1393,https://open.spotify.com/search/Forever%20Young%20Pretenders,lyrics-mood-proxy-v1
+dean-martin-here-comes-my-baby-5239befb,Here Comes My Baby,Dean Martin,angry,0.2795,0.7056,0.5596,0.2481,0.1273,https://open.spotify.com/search/Here%20Comes%20My%20Baby%20Dean%20Martin,lyrics-mood-proxy-v1
+marilyn-manson-a-rose-and-a-baby-ruth-091c8abe,A Rose And A Baby Ruth,Marilyn Manson,sad,0.2527,0.3722,0.3160,0.6781,0.1996,https://open.spotify.com/search/A%20Rose%20And%20A%20Baby%20Ruth%20Marilyn%20Manson,lyrics-mood-proxy-v1
+depeche-mode-alone-1afb38e5,Alone,Depeche Mode,angry,0.3167,0.6665,0.5492,0.2552,0.0473,https://open.spotify.com/search/Alone%20Depeche%20Mode,lyrics-mood-proxy-v1
+lady-gaga-alienated-35e11d1d,Alienated,Lady Gaga,sad,0.2550,0.2669,0.3286,0.6782,0.1379,https://open.spotify.com/search/Alienated%20Lady%20Gaga,lyrics-mood-proxy-v1
+dire-straits-fade-to-black-886c9ae8,Fade To Black,Dire Straits,angry,0.2724,0.6966,0.5643,0.2406,0.1014,https://open.spotify.com/search/Fade%20To%20Black%20Dire%20Straits,lyrics-mood-proxy-v1
+the-monkees-listen-to-the-band-1aa4db69,Listen To The Band,The Monkees,angry,0.3040,0.6839,0.6160,0.3131,0.1023,https://open.spotify.com/search/Listen%20To%20The%20Band%20The%20Monkees,lyrics-mood-proxy-v1
+dave-matthews-band-sweet-up-and-down-65d124c0,Sweet Up And Down,Dave Matthews Band,love,0.7401,0.4476,0.5786,0.5013,0.1338,https://open.spotify.com/search/Sweet%20Up%20And%20Down%20Dave%20Matthews%20Band,lyrics-mood-proxy-v1
+chaka-khan-make-it-last-a42e7f62,Make It Last,Chaka Khan,love,0.6680,0.5250,0.5846,0.5021,0.0702,https://open.spotify.com/search/Make%20It%20Last%20Chaka%20Khan,lyrics-mood-proxy-v1
+moody-blues-what-child-is-this-d90fe04e,What Child Is This,Moody Blues,angry,0.3501,0.7423,0.5727,0.2976,0.0459,https://open.spotify.com/search/What%20Child%20Is%20This%20Moody%20Blues,lyrics-mood-proxy-v1
+used-thought-criminal-6c7082a4,Thought Criminal,Used,calm,0.5914,0.3688,0.3947,0.6692,0.2341,https://open.spotify.com/search/Thought%20Criminal%20Used,lyrics-mood-proxy-v1
+the-temptations-why-did-she-have-to-leave--55eda7c6,Why Did She Have To Leave Me (Why Did She Have To Go?),The Temptations,love,0.6285,0.4823,0.5139,0.5225,0.1371,https://open.spotify.com/search/Why%20Did%20She%20Have%20To%20Leave%20Me%20%28Why%20Did%20She%20Have%20To%20Go%3F%29%20The%20Temptations,lyrics-mood-proxy-v1
+ramones-planet-earth-3783e4a0,PLANET EARTH,Ramones,love,0.6545,0.4379,0.5652,0.5445,0.0669,https://open.spotify.com/search/PLANET%20EARTH%20Ramones,lyrics-mood-proxy-v1
+marianne-faithfull-i-ain-t-goin-down-to-th-27309e88,I Ain't Goin' Down To The Well No More,Marianne Faithfull,sad,0.3552,0.3084,0.2903,0.6921,0.1565,https://open.spotify.com/search/I%20Ain%27t%20Goin%27%20Down%20To%20The%20Well%20No%20More%20Marianne%20Faithfull,lyrics-mood-proxy-v1
+rolling-stones-heaven-9d585db3,Heaven,Rolling Stones,sad,0.3154,0.2727,0.3471,0.6078,0.0954,https://open.spotify.com/search/Heaven%20Rolling%20Stones,lyrics-mood-proxy-v1
+journey-wildest-dream-c3d2ede2,Wildest Dream,Journey,love,0.7267,0.4714,0.5300,0.5824,0.1513,https://open.spotify.com/search/Wildest%20Dream%20Journey,lyrics-mood-proxy-v1
+john-legend-how-can-i-blame-you-c2602992,How Can I Blame You,John Legend,angry,0.3468,0.6642,0.6000,0.3216,0.1447,https://open.spotify.com/search/How%20Can%20I%20Blame%20You%20John%20Legend,lyrics-mood-proxy-v1
+heart-up-on-cherry-blossom-hill-9b41d6fe,(Up On) Cherry Blossom Hill,Heart,calm,0.5929,0.3468,0.4224,0.7203,0.3194,https://open.spotify.com/search/%28Up%20On%29%20Cherry%20Blossom%20Hill%20Heart,lyrics-mood-proxy-v1
+rihanna-let-this-be-the-last-time-2a09380c,Let This Be The Last Time,Rihanna,happy,0.6755,0.6639,0.7394,0.3738,0.1375,https://open.spotify.com/search/Let%20This%20Be%20The%20Last%20Time%20Rihanna,lyrics-mood-proxy-v1
+josh-groban-america-3c0d2dae,America,Josh Groban,sad,0.3432,0.3104,0.3565,0.6798,0.1938,https://open.spotify.com/search/America%20Josh%20Groban,lyrics-mood-proxy-v1
+america-ride-on-56232da2,Ride On,America,happy,0.7149,0.6790,0.7433,0.2875,0.1167,https://open.spotify.com/search/Ride%20On%20America,lyrics-mood-proxy-v1
+ingrid-michaelson-fire-40fc716f,Fire,Ingrid Michaelson,love,0.6377,0.4630,0.5083,0.5394,0.0608,https://open.spotify.com/search/Fire%20Ingrid%20Michaelson,lyrics-mood-proxy-v1
+vybz-kartel-tekk-e928f31f,Tekk,Vybz Kartel,angry,0.3134,0.7616,0.5492,0.3376,0.1428,https://open.spotify.com/search/Tekk%20Vybz%20Kartel,lyrics-mood-proxy-v1
+alabama-roll-on-77fb1ff6,Roll On .,Alabama,sad,0.2854,0.3430,0.3650,0.6086,0.1435,https://open.spotify.com/search/Roll%20On%20.%20Alabama,lyrics-mood-proxy-v1
+thin-lizzy-mama-nature-said-f7472661,Mama Nature Said,Thin Lizzy,happy,0.6810,0.6357,0.6775,0.3026,0.0677,https://open.spotify.com/search/Mama%20Nature%20Said%20Thin%20Lizzy,lyrics-mood-proxy-v1
+frankie-laine-laura-what-s-he-got-that-i-a-1a386874,"Laura, What's He Got That I Ain't Got",Frankie Laine,angry,0.2955,0.6943,0.5572,0.2872,0.1117,https://open.spotify.com/search/Laura%2C%20What%27s%20He%20Got%20That%20I%20Ain%27t%20Got%20Frankie%20Laine,lyrics-mood-proxy-v1
+pet-shop-boys-in-the-night-1995-c04aedea,In The Night (1995),Pet Shop Boys,love,0.7205,0.4787,0.5229,0.4733,0.1653,https://open.spotify.com/search/In%20The%20Night%20%281995%29%20Pet%20Shop%20Boys,lyrics-mood-proxy-v1
+veruca-salt-born-entertainer-94cc9357,Born Entertainer,Veruca Salt,sad,0.3521,0.2726,0.3923,0.6709,0.1556,https://open.spotify.com/search/Born%20Entertainer%20Veruca%20Salt,lyrics-mood-proxy-v1
+chaka-khan-got-to-be-there-9f2fd9d1,Got To Be There,Chaka Khan,happy,0.7614,0.6508,0.7120,0.3075,0.1064,https://open.spotify.com/search/Got%20To%20Be%20There%20Chaka%20Khan,lyrics-mood-proxy-v1
+twenty-one-pilots-friend-please-df36fe52,"Friend, Please",Twenty One Pilots,calm,0.5184,0.2799,0.3726,0.7203,0.2425,https://open.spotify.com/search/Friend%2C%20Please%20Twenty%20One%20Pilots,lyrics-mood-proxy-v1
+hank-williams-jr-all-my-rowdy-friends-are--112479d6,All My Rowdy Friends Are Coming Over Tonight,Hank Williams Jr.,sad,0.2707,0.2793,0.3243,0.6714,0.0828,https://open.spotify.com/search/All%20My%20Rowdy%20Friends%20Are%20Coming%20Over%20Tonight%20Hank%20Williams%20Jr.,lyrics-mood-proxy-v1
+lionel-richie-forever-and-a-day-d2f0361a,Forever And A Day,Lionel Richie,happy,0.7426,0.6662,0.6779,0.3619,0.1523,https://open.spotify.com/search/Forever%20And%20A%20Day%20Lionel%20Richie,lyrics-mood-proxy-v1
+paul-mccartney-helter-skelter-3df1ddc7,Helter Skelter,Paul McCartney,love,0.6574,0.4607,0.5662,0.4693,0.1371,https://open.spotify.com/search/Helter%20Skelter%20Paul%20McCartney,lyrics-mood-proxy-v1
+radiohead-glass-eyes-e3ee6a30,Glass Eyes,Radiohead,love,0.6428,0.4153,0.5541,0.5137,0.0890,https://open.spotify.com/search/Glass%20Eyes%20Radiohead,lyrics-mood-proxy-v1
+lil-wayne-cash-money-millionaires-3e40f93b,Cash Money Millionaires,Lil Wayne,love,0.7398,0.5001,0.5606,0.5655,0.0925,https://open.spotify.com/search/Cash%20Money%20Millionaires%20Lil%20Wayne,lyrics-mood-proxy-v1
+dream-theater-light-fuse-and-get-away-55c3586a,Light Fuse And Get Away,Dream Theater,sad,0.2711,0.3494,0.3676,0.6462,0.1149,https://open.spotify.com/search/Light%20Fuse%20And%20Get%20Away%20Dream%20Theater,lyrics-mood-proxy-v1
+perry-como-beady-eyed-buzzard-cbe52193,Beady Eyed Buzzard,Perry Como,angry,0.2880,0.7348,0.6024,0.2312,0.1423,https://open.spotify.com/search/Beady%20Eyed%20Buzzard%20Perry%20Como,lyrics-mood-proxy-v1
+rammstein-good-bye-443d4b00,Good-Bye,Rammstein,sad,0.3070,0.2906,0.3452,0.6313,0.1538,https://open.spotify.com/search/Good-Bye%20Rammstein,lyrics-mood-proxy-v1
+lenny-kravitz-what-did-i-do-with-my-life-5312330c,What Did I Do With My Life?,Lenny Kravitz,love,0.7316,0.4088,0.5484,0.4740,0.1505,https://open.spotify.com/search/What%20Did%20I%20Do%20With%20My%20Life%3F%20Lenny%20Kravitz,lyrics-mood-proxy-v1
+america-bell-tree-6727b33e,Bell Tree,America,angry,0.3572,0.7009,0.5850,0.3291,0.0953,https://open.spotify.com/search/Bell%20Tree%20America,lyrics-mood-proxy-v1
+ace-of-base-ravine-52a480e8,Ravine,Ace Of Base,calm,0.6069,0.2747,0.3369,0.7285,0.2388,https://open.spotify.com/search/Ravine%20Ace%20Of%20Base,lyrics-mood-proxy-v1
+dolly-parton-a-better-place-to-live-f3b025cd,A Better Place To Live,Dolly Parton,love,0.7348,0.4117,0.5928,0.4913,0.0785,https://open.spotify.com/search/A%20Better%20Place%20To%20Live%20Dolly%20Parton,lyrics-mood-proxy-v1
+nina-simone-pusher-cefb5c95,Pusher,Nina Simone,love,0.6575,0.4120,0.4823,0.5482,0.1272,https://open.spotify.com/search/Pusher%20Nina%20Simone,lyrics-mood-proxy-v1
+xandria-mermaids-2f7e42ff,Mermaids,Xandria,sad,0.3613,0.3003,0.3693,0.6592,0.1504,https://open.spotify.com/search/Mermaids%20Xandria,lyrics-mood-proxy-v1
+backstreet-boys-over-her-d134dcb1,Over Her,Backstreet Boys,love,0.7119,0.5265,0.5997,0.5501,0.1407,https://open.spotify.com/search/Over%20Her%20Backstreet%20Boys,lyrics-mood-proxy-v1
+zz-top-heaven-hell-or-houston-1a9c47e3,"Heaven, Hell, Or Houston",ZZ Top,angry,0.2466,0.7211,0.6132,0.3324,0.1348,https://open.spotify.com/search/Heaven%2C%20Hell%2C%20Or%20Houston%20ZZ%20Top,lyrics-mood-proxy-v1
+toto-bodhisattva-c4582a25,Bodhisattva,Toto,angry,0.3284,0.6599,0.5271,0.2430,0.1282,https://open.spotify.com/search/Bodhisattva%20Toto,lyrics-mood-proxy-v1
+tim-mcgraw-beautiful-people-2f66e27b,Beautiful People,Tim McGraw,love,0.7034,0.5232,0.5632,0.5144,0.0587,https://open.spotify.com/search/Beautiful%20People%20Tim%20McGraw,lyrics-mood-proxy-v1
+bob-dylan-clean-cut-kid-bc4aa84f,Clean-Cut Kid,Bob Dylan,happy,0.7742,0.6089,0.7316,0.3308,0.0743,https://open.spotify.com/search/Clean-Cut%20Kid%20Bob%20Dylan,lyrics-mood-proxy-v1
+violent-femmes-he-likes-me-87c1fb5f,He Likes Me,Violent Femmes,happy,0.7531,0.6192,0.6877,0.2854,0.0648,https://open.spotify.com/search/He%20Likes%20Me%20Violent%20Femmes,lyrics-mood-proxy-v1
+king-crimson-one-time-b4f9d578,One Time,King Crimson,angry,0.3473,0.6510,0.5464,0.3046,0.0440,https://open.spotify.com/search/One%20Time%20King%20Crimson,lyrics-mood-proxy-v1
+talking-heads-creatures-of-love-92594c08,Creatures Of Love,Talking Heads,love,0.6594,0.4653,0.4862,0.5628,0.1046,https://open.spotify.com/search/Creatures%20Of%20Love%20Talking%20Heads,lyrics-mood-proxy-v1
+misfits-hate-breeders-aba216ba,Hate Breeders,Misfits,angry,0.2633,0.6739,0.5576,0.2678,0.0553,https://open.spotify.com/search/Hate%20Breeders%20Misfits,lyrics-mood-proxy-v1
+george-michael-to-be-forgiven-045cf682,To Be Forgiven,George Michael,sad,0.2608,0.2865,0.3547,0.6242,0.0958,https://open.spotify.com/search/To%20Be%20Forgiven%20George%20Michael,lyrics-mood-proxy-v1
+nightwish-long-lost-love-83d7228e,Long Lost Love,Nightwish,love,0.6957,0.5270,0.5360,0.4985,0.1112,https://open.spotify.com/search/Long%20Lost%20Love%20Nightwish,lyrics-mood-proxy-v1
+kim-wilde-ego-3340cab7,Ego,Kim Wilde,love,0.7354,0.4961,0.4877,0.5511,0.0825,https://open.spotify.com/search/Ego%20Kim%20Wilde,lyrics-mood-proxy-v1
+ace-of-base-come-to-me-8194e831,Come To Me,Ace Of Base,sad,0.3313,0.3266,0.3417,0.6014,0.1614,https://open.spotify.com/search/Come%20To%20Me%20Ace%20Of%20Base,lyrics-mood-proxy-v1
+eurythmics-little-bird-9db8854c,Little Bird,Eurythmics,sad,0.2850,0.3451,0.2822,0.6047,0.1325,https://open.spotify.com/search/Little%20Bird%20Eurythmics,lyrics-mood-proxy-v1
+conway-twitty-heartaches-by-the-number-4d57c009,Heartaches By The Number,Conway Twitty,happy,0.7122,0.6329,0.7279,0.3380,0.1409,https://open.spotify.com/search/Heartaches%20By%20The%20Number%20Conway%20Twitty,lyrics-mood-proxy-v1
+ella-fitzgerald-cry-me-a-river-ac050a06,Cry Me A River,Ella Fitzgerald,love,0.6946,0.4865,0.5579,0.5464,0.0871,https://open.spotify.com/search/Cry%20Me%20A%20River%20Ella%20Fitzgerald,lyrics-mood-proxy-v1
+heart-little-queen-1ff10246,Little Queen,Heart,happy,0.7059,0.6912,0.6591,0.2837,0.0969,https://open.spotify.com/search/Little%20Queen%20Heart,lyrics-mood-proxy-v1
+dave-matthews-band-crash-305759fc,Crash,Dave Matthews Band,love,0.7307,0.4376,0.5138,0.4889,0.1417,https://open.spotify.com/search/Crash%20Dave%20Matthews%20Band,lyrics-mood-proxy-v1
+talking-heads-new-feeling-60b41e04,New Feeling,Talking Heads,calm,0.6059,0.2992,0.3595,0.6733,0.3148,https://open.spotify.com/search/New%20Feeling%20Talking%20Heads,lyrics-mood-proxy-v1
+the-temptations-girl-why-you-wanna-make-me-9fdd3bee,Girl (Why You Wanna Make Me Blue),The Temptations,sad,0.2820,0.2700,0.3962,0.6108,0.0876,https://open.spotify.com/search/Girl%20%28Why%20You%20Wanna%20Make%20Me%20Blue%29%20The%20Temptations,lyrics-mood-proxy-v1
+marillion-the-space-e915578e,The Space . . .,Marillion,sad,0.2416,0.3510,0.2855,0.6927,0.0939,https://open.spotify.com/search/The%20Space%20.%20.%20.%20Marillion,lyrics-mood-proxy-v1
+bob-dylan-had-a-dream-about-you-baby-3da7120b,"Had A Dream About You, Baby",Bob Dylan,love,0.6781,0.4942,0.4962,0.4980,0.0721,https://open.spotify.com/search/Had%20A%20Dream%20About%20You%2C%20Baby%20Bob%20Dylan,lyrics-mood-proxy-v1
+taylor-swift-breathless-df379a0d,Breathless,Taylor Swift,love,0.6932,0.4792,0.5309,0.4877,0.0553,https://open.spotify.com/search/Breathless%20Taylor%20Swift,lyrics-mood-proxy-v1
+rem-josie-and-the-pussycats-4652ed0b,Josie And The Pussycats,Rem,sad,0.3220,0.2696,0.3336,0.6609,0.1203,https://open.spotify.com/search/Josie%20And%20The%20Pussycats%20Rem,lyrics-mood-proxy-v1
+green-day-nobody-likes-you-97964135,Nobody Likes You,Green Day,sad,0.2966,0.2865,0.3246,0.6703,0.1711,https://open.spotify.com/search/Nobody%20Likes%20You%20Green%20Day,lyrics-mood-proxy-v1
+santana-nothing-at-all-8e5f27ad,Nothing At All,Santana,love,0.6410,0.5030,0.5319,0.5225,0.0707,https://open.spotify.com/search/Nothing%20At%20All%20Santana,lyrics-mood-proxy-v1
+u2-peace-on-earth-9a6a2f49,Peace On Earth,U2,angry,0.2546,0.7404,0.5111,0.2806,0.1409,https://open.spotify.com/search/Peace%20On%20Earth%20U2,lyrics-mood-proxy-v1
+michael-jackson-dear-michael-f1701441,Dear Michael,Michael Jackson,love,0.7371,0.4762,0.5534,0.5780,0.1334,https://open.spotify.com/search/Dear%20Michael%20Michael%20Jackson,lyrics-mood-proxy-v1
+john-waite-someone-like-you-d188d42f,Someone Like You,John Waite,angry,0.2809,0.7465,0.6113,0.3037,0.1042,https://open.spotify.com/search/Someone%20Like%20You%20John%20Waite,lyrics-mood-proxy-v1
+elvis-presley-do-the-clam-f30456b3,Do The Clam,Elvis Presley,sad,0.2563,0.3676,0.3110,0.6313,0.1831,https://open.spotify.com/search/Do%20The%20Clam%20Elvis%20Presley,lyrics-mood-proxy-v1
+planetshakers-worthy-is-the-lamb-38ff36a4,Worthy Is The Lamb,Planetshakers,happy,0.7019,0.6945,0.7428,0.3255,0.1603,https://open.spotify.com/search/Worthy%20Is%20The%20Lamb%20Planetshakers,lyrics-mood-proxy-v1
+nina-simone-it-might-as-well-be-spring-747971d9,It Might As Well Be Spring,Nina Simone,love,0.6517,0.4673,0.5176,0.5171,0.1327,https://open.spotify.com/search/It%20Might%20As%20Well%20Be%20Spring%20Nina%20Simone,lyrics-mood-proxy-v1
+glen-campbell-somethin-about-you-baby-i-li-e58c1272,Somethin' About You Baby I Like,Glen Campbell,happy,0.7449,0.6210,0.6937,0.2881,0.0595,https://open.spotify.com/search/Somethin%27%20About%20You%20Baby%20I%20Like%20Glen%20Campbell,lyrics-mood-proxy-v1
+kari-jobe-look-upon-the-lord-ea646871,Look Upon The Lord,Kari Jobe,angry,0.3336,0.7338,0.5788,0.3220,0.0553,https://open.spotify.com/search/Look%20Upon%20The%20Lord%20Kari%20Jobe,lyrics-mood-proxy-v1
+cliff-richard-how-long-is-forever-10f56809,How Long Is Forever,Cliff Richard,love,0.6556,0.4615,0.5286,0.5534,0.0594,https://open.spotify.com/search/How%20Long%20Is%20Forever%20Cliff%20Richard,lyrics-mood-proxy-v1
+lil-wayne-duffle-bag-boy-4b3e5f1d,Duffle Bag Boy,Lil Wayne,happy,0.7152,0.6184,0.7073,0.3309,0.1524,https://open.spotify.com/search/Duffle%20Bag%20Boy%20Lil%20Wayne,lyrics-mood-proxy-v1
+ozzy-osbourne-old-l-a-tonight-3b7001dd,Old L.A. Tonight,Ozzy Osbourne,sad,0.3062,0.2669,0.3680,0.6407,0.1779,https://open.spotify.com/search/Old%20L.A.%20Tonight%20Ozzy%20Osbourne,lyrics-mood-proxy-v1
+queen-my-fairy-king-afd76f0f,My Fairy King,Queen,sad,0.3107,0.3281,0.3744,0.7025,0.1770,https://open.spotify.com/search/My%20Fairy%20King%20Queen,lyrics-mood-proxy-v1
+jason-mraz-eyes-open-126c3c20,Eyes Open,Jason Mraz,calm,0.5912,0.2773,0.4181,0.6543,0.2789,https://open.spotify.com/search/Eyes%20Open%20Jason%20Mraz,lyrics-mood-proxy-v1
