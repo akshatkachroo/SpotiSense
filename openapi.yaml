@@ -1,0 +1,234 @@
+openapi: 3.1.0
+info:
+  title: SpotiSense API
+  version: 1.0.0
+  description: Emotion-aware music recommendations, profiles, history, and playlists.
+servers:
+  - url: http://localhost:8080
+paths:
+  /healthz:
+    get:
+      summary: Report service and adapter health
+      responses:
+        "200":
+          description: Service is ready
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /v1/tracks:
+    get:
+      summary: Search the offline track catalog
+      parameters:
+        - in: query
+          name: q
+          schema: {type: string}
+        - in: query
+          name: limit
+          schema: {type: integer, minimum: 1, maximum: 50, default: 10}
+      responses:
+        "200":
+          description: Matching tracks
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  tracks:
+                    type: array
+                    items: {$ref: "#/components/schemas/Track"}
+  /v1/profiles:
+    post:
+      summary: Create a listener profile
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [display_name]
+              properties:
+                display_name: {type: string, minLength: 1, maxLength: 80}
+      responses:
+        "201":
+          description: Profile created
+          content:
+            application/json:
+              schema: {$ref: "#/components/schemas/Profile"}
+        "422": {$ref: "#/components/responses/ValidationError"}
+  /v1/recommendations:
+    post:
+      summary: Generate and record a recommendation feed
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [profile_id, emotion, confidence, context_key]
+              properties:
+                profile_id: {type: string}
+                emotion:
+                  type: string
+                  enum: [angry, calm, fear, happy, love, sad]
+                confidence: {type: number, minimum: 0, maximum: 1}
+                context_key:
+                  type: string
+                  minLength: 16
+                  maxLength: 128
+                  description: Opaque client-side hash used only to diversify equivalent rankings.
+                limit: {type: integer, minimum: 1, maximum: 20, default: 5}
+      responses:
+        "200":
+          description: Recommendation feed
+          content:
+            application/json:
+              schema: {$ref: "#/components/schemas/Recommendation"}
+        "404": {$ref: "#/components/responses/NotFound"}
+        "422": {$ref: "#/components/responses/ValidationError"}
+  /v1/profiles/{profileID}/history:
+    get:
+      summary: List recommendation history
+      parameters:
+        - $ref: "#/components/parameters/ProfileID"
+      responses:
+        "200":
+          description: Recommendation history
+  /v1/playlists:
+    post:
+      summary: Create a playlist
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [profile_id, name]
+              properties:
+                profile_id: {type: string}
+                name: {type: string, minLength: 1, maxLength: 80}
+      responses:
+        "201":
+          description: Playlist created
+          content:
+            application/json:
+              schema: {$ref: "#/components/schemas/Playlist"}
+  /v1/profiles/{profileID}/playlists:
+    get:
+      summary: List a profile's playlists
+      parameters:
+        - $ref: "#/components/parameters/ProfileID"
+      responses:
+        "200": {description: Playlists}
+  /v1/playlists/{playlistID}:
+    get:
+      summary: Get a playlist and its tracks
+      parameters:
+        - $ref: "#/components/parameters/PlaylistID"
+      responses:
+        "200":
+          description: Playlist
+          content:
+            application/json:
+              schema: {$ref: "#/components/schemas/Playlist"}
+        "404": {$ref: "#/components/responses/NotFound"}
+  /v1/playlists/{playlistID}/tracks:
+    post:
+      summary: Add a track to a playlist
+      parameters:
+        - $ref: "#/components/parameters/PlaylistID"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [track_id]
+              properties:
+                track_id: {type: string}
+      responses:
+        "200":
+          description: Updated playlist
+          content:
+            application/json:
+              schema: {$ref: "#/components/schemas/Playlist"}
+        "404": {$ref: "#/components/responses/NotFound"}
+components:
+  parameters:
+    ProfileID:
+      in: path
+      name: profileID
+      required: true
+      schema: {type: string}
+    PlaylistID:
+      in: path
+      name: playlistID
+      required: true
+      schema: {type: string}
+  responses:
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema: {$ref: "#/components/schemas/Error"}
+    ValidationError:
+      description: Request validation failed
+      content:
+        application/json:
+          schema: {$ref: "#/components/schemas/Error"}
+  schemas:
+    Profile:
+      type: object
+      required: [id, display_name, created_at]
+      properties:
+        id: {type: string}
+        display_name: {type: string}
+        created_at: {type: string, format: date-time}
+    Track:
+      type: object
+      required: [id, name, artist, primary_emotion, spotify_url, data_source]
+      properties:
+        id: {type: string}
+        name: {type: string}
+        artist: {type: string}
+        primary_emotion: {type: string}
+        valence: {type: number, minimum: 0, maximum: 1}
+        energy: {type: number, minimum: 0, maximum: 1}
+        danceability: {type: number, minimum: 0, maximum: 1}
+        acousticness: {type: number, minimum: 0, maximum: 1}
+        instrumentalness: {type: number, minimum: 0, maximum: 1}
+        match_score: {type: number, minimum: 0, maximum: 1}
+        spotify_url: {type: string, format: uri}
+        image_url: {type: string, format: uri}
+        data_source: {type: string}
+    Recommendation:
+      type: object
+      properties:
+        id: {type: string}
+        profile_id: {type: string}
+        emotion: {type: string}
+        confidence: {type: number}
+        tracks:
+          type: array
+          items: {$ref: "#/components/schemas/Track"}
+        cached: {type: boolean}
+        created_at: {type: string, format: date-time}
+    Playlist:
+      type: object
+      properties:
+        id: {type: string}
+        profile_id: {type: string}
+        name: {type: string}
+        tracks:
+          type: array
+          items: {$ref: "#/components/schemas/Track"}
+        created_at: {type: string, format: date-time}
+        updated_at: {type: string, format: date-time}
+    Error:
+      type: object
+      properties:
+        error:
+          type: object
+          properties:
+            message: {type: string}

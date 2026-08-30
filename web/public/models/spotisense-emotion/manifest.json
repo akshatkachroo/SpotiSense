@@ -1,0 +1,17 @@
+{
+  "exported_at": "2026-08-29T02:00:16.003570+00:00",
+  "format": "ONNX",
+  "labels": [
+    "angry",
+    "calm",
+    "fear",
+    "happy",
+    "love",
+    "sad"
+  ],
+  "macro_f1": 0.5108173387386516,
+  "model_bytes": 11375522,
+  "quantization": "int8-dynamic",
+  "sha256": "1199fbc2527e1127f3a5299b43ca184411b98c9583eb67146a83041dccc9c19b",
+  "source": "ml/artifacts/spotisense-emotion"
+}
